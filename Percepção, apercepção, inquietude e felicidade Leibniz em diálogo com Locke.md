@@ -6,7 +6,7 @@ Percepção, apercepção, inquietude e felicidade: Leibniz em diálogo com Lock
 
 \*\*Fonte\*\*: ORCID: https://orcid.org/0000-0003-0488-0677
 
-\*\*Data da Leitura\*\*: 29/07/2025
+\*\*Data da Leitura e Fichamento\*\*: 29/07/2025
 
 
 
