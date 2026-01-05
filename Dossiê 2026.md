@@ -32,5 +32,5 @@ Data        | Descrição de Atividade       					    |
 
 05/01/2026  | Estudo para produção do verbete e fichamento "Leibniz e Hobbes"/livro |
 
-&nbsp; 
+------------+-----------------------------------------------------------------------+ 
 
