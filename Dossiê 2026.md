@@ -52,11 +52,7 @@ Data        | Descrição de Atividade       					    |
 
 10/01/2026  | Levantar bibliografia para escrever o capítulo com o Ezequiel: Novos  |
 
-&nbsp;	    | Ensaios								    |
+ 	    | Ensaios. Leitura do artigo "Leibniz e as princesas de Sita, 2025.	    |						    |									    |	
 
 ------------+-----------------------------------------------------------------------+
-
-
-
-
 
