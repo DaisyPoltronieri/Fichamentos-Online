@@ -52,7 +52,17 @@ Data        | Descrição de Atividade       					    |
 
 10/01/2026  | Levantar bibliografia para escrever o capítulo com o Ezequiel: Novos  |
 
- 	    | Ensaios. Leitura do artigo "Leibniz e as princesas de Sita, 2025.	    |						    |									    |	
+ 	    | Ensaios. Leitura do artigo "Leibniz e as princesas de Sita, 2025.	    |
 
 ------------+-----------------------------------------------------------------------+
+
+11/01/2026  | Leitura do artigo da Prof. Celi Hirata sobre o *conatus* entre Leibniz  | 
+
+&nbsp;	    | Hobbes. Início do projeto de pesquisa BEPE: leitura dos manuais e     |	
+
+&nbsp;	    | termos associados a FAPESP para a submissão.			    |
+
+------------+-----------------------------------------------------------------------+
+
+
 
