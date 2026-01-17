@@ -66,7 +66,7 @@ Data        | Descrição de Atividade       					    |
 
 12/01/2026  | Escrita do BEPE e estudos  sobre as correspondência de Leibniz a      |
 
-&nbsp;	    | Hobbes (1669).							    |
+ 	    | Hobbes (1669).							    |
 
 ------------+-----------------------------------------------------------------------+
 
@@ -80,21 +80,17 @@ Data        | Descrição de Atividade       					    |
 
 15/01/2026  | Escrita do BEPE e finalização do fichamento da carta de Leibniz a     |
 
-&nbsp;	    | Hobbes.		                                                    |
+ 	    | Hobbes.		                                                    |
 
 ------------+-----------------------------------------------------------------------+
 
 16/01/2026  | Finalização da escrita do projeto BEPE e estruturação do fichamento da|
 
-&nbsp;           | carta para servir de base para o artigo científico. 		    | 
+            | carta para servir de base para o artigo científico. 		    |
 
 ------------+-----------------------------------------------------------------------+
 
 17/01/2026  | Revisão do projeto BEPE; leitura da carta a Jacob Thomasius 1670.     |
 
 ------------+-----------------------------------------------------------------------+
-
-
-
-
 
