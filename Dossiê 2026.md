@@ -56,13 +56,45 @@ Data        | Descrição de Atividade       					    |
 
 ------------+-----------------------------------------------------------------------+
 
-11/01/2026  | Leitura do artigo da Prof. Celi Hirata sobre o *conatus* entre Leibniz  | 
+11/01/2026  | Leitura do artigo da Prof. Celi Hirata sobre o *conatus* entre Leibniz  |
 
-&nbsp;	    | Hobbes. Início do projeto de pesquisa BEPE: leitura dos manuais e     |	
+ 	    | Hobbes. Início do projeto de pesquisa BEPE: leitura dos manuais e     |
 
-&nbsp;	    | termos associados a FAPESP para a submissão.			    |
+ 	    | termos associados a FAPESP para a submissão.			    |
 
 ------------+-----------------------------------------------------------------------+
+
+12/01/2026  | Escrita do BEPE e estudos  sobre as correspondência de Leibniz a      |
+
+&nbsp;	    | Hobbes (1669).							    |
+
+------------+-----------------------------------------------------------------------+
+
+13/01/2026  | Exames de sangue no laboratório de Palmeira d'oeste.		    |
+
+------------+-----------------------------------------------------------------------+
+
+14/01/2026  | Exame oftalmológico na clínica de olhos de Palmeira d'Oeste	    |
+
+------------+-----------------------------------------------------------------------+
+
+15/01/2026  | Escrita do BEPE e finalização do fichamento da carta de Leibniz a     |
+
+&nbsp;	    | Hobbes.		                                                    |
+
+------------+-----------------------------------------------------------------------+
+
+16/01/2026  | Finalização da escrita do projeto BEPE e estruturação do fichamento da|
+
+&nbsp;           | carta para servir de base para o artigo científico. 		    | 
+
+------------+-----------------------------------------------------------------------+
+
+17/01/2026  | Revisão do projeto BEPE; leitura da carta a Jacob Thomasius 1670.     |
+
+------------+-----------------------------------------------------------------------+
+
+
 
 
 
