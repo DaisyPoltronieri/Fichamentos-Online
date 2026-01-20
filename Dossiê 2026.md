@@ -98,9 +98,15 @@ Data        | Descrição de Atividade       					    |
 
 ------------+-----------------------------------------------------------------------+
 
-19/01/2026  | Leitura da carta a Jacob Thomasius 1670. (p. 96 a 99); Sistematização | 
+19/01/2026  | Leitura da carta a Jacob Thomasius 1670. (p. 96 a 99); Sistematização |
 
-&nbsp;           | do fichamento das cartas no word - escrita. 		            |
+            | do fichamento das cartas no word - escrita. 		            |
 
 ------------+-----------------------------------------------------------------------+
+
+20/01/2026  | Leitura da carta a Jacob Thomasius 1670. (p. 99 a 103); 	            |
+
+------------+-----------------------------------------------------------------------+
+
+
 
