@@ -104,7 +104,15 @@ Data        | Descrição de Atividade       					    |
 
 ------------+-----------------------------------------------------------------------+
 
-20/01/2026  | Leitura da carta a Jacob Thomasius 1670. (p. 99 a 103); 	            |
+20/01/2026  | Leitura da carta a Jacob Thomasius 1670. (p. 99 a 103); Leitura do    |
+
+&nbsp;	    | Fichant, pdf. 180, cap. VII sobre Leibniz e o mecanicismo;            |
+
+------------+-----------------------------------------------------------------------+
+
+21/01/2026  | Revisão do fichamento de *Paciduis a Filalete*, reestruturação e seleção|
+
+ 	    | de momentos importantes para serem objetos de pesquisa.               |
 
 ------------+-----------------------------------------------------------------------+
 
