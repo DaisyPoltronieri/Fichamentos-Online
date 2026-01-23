@@ -116,19 +116,19 @@ Data        | Descrição de Atividade       					    |
 
 ------------+-----------------------------------------------------------------------+
 
-22/01/2026  | Leitura do artigo do Prof. Edgar Marques intitulado "Percepções,      |
+22/01/2026  | Leitura do artigo do Prof. Edgar Marques intitulado " PERCEPÇÃO,      |
 
-&nbsp;	    | Sensações e Apercepções em Leibniz". Correção do projeto de pós-doc.  | 
+&nbsp;	    | AUTOCONSCIÊNCIA E CONTINUIDADE EM LEIBNIZ". Correção do projeto de    |
 
-&nbsp;	    | BEPE. 								    |	
+ 	    | pós-doutorado/BEPE. 						    |
 
 ------------+-----------------------------------------------------------------------+
 
 23/01/2026  | Elaboração de documentos BEPE/Fapesp; Elaboração de documentos SAGe.  |
 
-&nbsp;	    | Atualização da súmula curricular.					    |
+ 	    | Atualização da súmula curricular.					    |
 
 ------------+-----------------------------------------------------------------------+
 
-24/01/2026  | 
+24/01/2026  |
 
