@@ -106,7 +106,7 @@ Data        | Descrição de Atividade       					    |
 
 20/01/2026  | Leitura da carta a Jacob Thomasius 1670. (p. 99 a 103); Leitura do    |
 
-&nbsp;	    | Fichant, pdf. 180, cap. VII sobre Leibniz e o mecanicismo;            |
+ 	    | Fichant, pdf. 180, cap. VII sobre Leibniz e o mecanicismo;            |
 
 ------------+-----------------------------------------------------------------------+
 
@@ -116,5 +116,19 @@ Data        | Descrição de Atividade       					    |
 
 ------------+-----------------------------------------------------------------------+
 
+22/01/2026  | Leitura do artigo do Prof. Edgar Marques intitulado "Percepções,      |
 
+&nbsp;	    | Sensações e Apercepções em Leibniz". Correção do projeto de pós-doc.  | 
+
+&nbsp;	    | BEPE. 								    |	
+
+------------+-----------------------------------------------------------------------+
+
+23/01/2026  | Elaboração de documentos BEPE/Fapesp; Elaboração de documentos SAGe.  |
+
+&nbsp;	    | Atualização da súmula curricular.					    |
+
+------------+-----------------------------------------------------------------------+
+
+24/01/2026  | 
 
