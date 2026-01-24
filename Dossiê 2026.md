@@ -118,7 +118,7 @@ Data        | Descrição de Atividade       					    |
 
 22/01/2026  | Leitura do artigo do Prof. Edgar Marques intitulado " PERCEPÇÃO,      |
 
-&nbsp;	    | AUTOCONSCIÊNCIA E CONTINUIDADE EM LEIBNIZ". Correção do projeto de    |
+ 	    | AUTOCONSCIÊNCIA E CONTINUIDADE EM LEIBNIZ". Correção do projeto de    |
 
  	    | pós-doutorado/BEPE. 						    |
 
@@ -130,5 +130,11 @@ Data        | Descrição de Atividade       					    |
 
 ------------+-----------------------------------------------------------------------+
 
-24/01/2026  |
+24/01/2026  | Fichamento do artigo do Prof. Edgar Marques intitulado " PERCEPÇÃO,   |
+
+ 	    | AUTOCONSCIÊNCIA E CONTINUIDADE EM LEIBNIZ".                           |
+
+------------+-----------------------------------------------------------------------+
+
+25/01/2026  |
 
