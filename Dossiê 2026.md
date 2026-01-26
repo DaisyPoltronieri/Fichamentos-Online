@@ -136,5 +136,15 @@ Data        | Descrição de Atividade       					    |
 
 ------------+-----------------------------------------------------------------------+
 
-25/01/2026  |
+25/01/2026  | Bernstein, Howard. "conatus, Hobbes, and the Young Leibniz" revisão do|
+
+&nbsp;           | fichamento feito em 17/10/2025; 					    |
+
+------------+-----------------------------------------------------------------------+
+
+26/01/2026  | Escrita do capítulo de livro para publicação em coautoria com Ezequiel|
+
+------------+-----------------------------------------------------------------------+
+
+
 
