@@ -138,11 +138,19 @@ Data        | Descrição de Atividade       					    |
 
 25/01/2026  | Bernstein, Howard. "conatus, Hobbes, and the Young Leibniz" revisão do|
 
-&nbsp;           | fichamento feito em 17/10/2025; 					    |
+            | fichamento feito em 17/10/2025; 					    |
 
 ------------+-----------------------------------------------------------------------+
 
 26/01/2026  | Escrita do capítulo de livro para publicação em coautoria com Ezequiel|
+
+------------+-----------------------------------------------------------------------+
+
+27/01/2026  | Escrita do capítulo de livro e fichamento do artigo para ampliação de |
+
+&nbsp;	    | bibliografia: "substância, sujeito e atividade em Hobbes e Leibniz" de|
+
+&nbsp;	    | Celi Hirata, 2017, revista reflexões de Fortaleca-CE. 		    | 	
 
 ------------+-----------------------------------------------------------------------+
 
