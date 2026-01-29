@@ -148,9 +148,19 @@ Data        | Descrição de Atividade       					    |
 
 27/01/2026  | Escrita do capítulo de livro e fichamento do artigo para ampliação de |
 
-&nbsp;	    | bibliografia: "substância, sujeito e atividade em Hobbes e Leibniz" de|
+ 	    | bibliografia: "substância, sujeito e atividade em Hobbes e Leibniz" de|
 
-&nbsp;	    | Celi Hirata, 2017, revista reflexões de Fortaleca-CE. 		    | 	
+ 	    | Celi Hirata, 2017, revista reflexões de Fortaleca-CE. 		    |
+
+------------+-----------------------------------------------------------------------+
+
+28/01/2026  | Estruturação do artigo e ficha de leitura.			    |
+
+------------+-----------------------------------------------------------------------+
+
+29/01/2026  | Estudo da bibliografia primária (Theoria Motus Abstract); seleção de  |
+
+&nbsp;	    | trechos e estudo da abordagem dos conceitos; escrita do capítulo.     |
 
 ------------+-----------------------------------------------------------------------+
 
