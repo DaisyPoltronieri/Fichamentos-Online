@@ -160,7 +160,13 @@ Data        | Descrição de Atividade       					    |
 
 29/01/2026  | Estudo da bibliografia primária (Theoria Motus Abstract); seleção de  |
 
-&nbsp;	    | trechos e estudo da abordagem dos conceitos; escrita do capítulo.     |
+ 	    | trechos e estudo da abordagem dos conceitos; escrita do capítulo.     |
+
+------------+-----------------------------------------------------------------------+
+
+30/01/2026  | Escrita do capítulo do livro; Elaboração das diretrizes de pesquisa e |
+
+&nbsp;	    | do artigo que deve ser produzido; 				    |
 
 ------------+-----------------------------------------------------------------------+
 
