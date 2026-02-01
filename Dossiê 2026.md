@@ -166,9 +166,29 @@ Data        | Descrição de Atividade       					    |
 
 30/01/2026  | Escrita do capítulo do livro; Elaboração das diretrizes de pesquisa e |
 
-&nbsp;	    | do artigo que deve ser produzido; 				    |
+ 	    | do artigo que deve ser produzido; 				    |
 
 ------------+-----------------------------------------------------------------------+
+
+31/01/2026  | Estudo do TMA; elaboração de estratégia metodológica para mapear os   |
+
+01/02/2026  | conceitos centrais; Escrita do capítulo.		    		    |
+
+------------+-----------------------------------------------------------------------+
+
+
+
+**Fevereiro**
+
+------------+-----------------------------------------------------------------------+
+
+02/02/2026  | 
+
+------------+-----------------------------------------------------------------------+
+
+
+
+
 
 
 
