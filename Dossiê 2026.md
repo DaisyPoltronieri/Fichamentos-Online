@@ -182,9 +182,11 @@ Data        | Descrição de Atividade       					    |
 
 ------------+-----------------------------------------------------------------------+
 
-02/02/2026- | Retomada da tradução; início da semana de viagem para Maringá-PR -    |
+02/02/2026- | Escrita do capítulo; Retomada da tradução; Início da semana     	    |
 
-07/02/2026  | tradução com a professora Patrícia - texto GP IV, 393-399;	    |
+07/02/2026  | de viagem para Maringá-PR. Objetivo: tradução com a professora   	    |
+
+&nbsp;	    | Drª Patrícia Sita - texto GP IV, 393-399;  			    | 
 
 ------------+-----------------------------------------------------------------------+
 
