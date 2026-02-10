@@ -186,7 +186,43 @@ Data        | Descrição de Atividade       					    |
 
 07/02/2026  | de viagem para Maringá-PR. Objetivo: tradução com a professora   	    |
 
-&nbsp;	    | Drª Patrícia Sita - texto GP IV, 393-399;  			    | 
+ 	    | Drª Patrícia Sita - texto GP IV, 393-399;  			    |
 
 ------------+-----------------------------------------------------------------------+
+
+08/02/2026  | Chegada em Jales-SP (residência atual). **Relatório de atividades de**    |
+
+ 	    | **viagem:** Na terça-feira retirei meu diploma de doutorado na unicamp e  |
+
+ 	    | fiz a autenticação e reconhecimento de firma da assinatura em vista da|
+
+ 	    | possibilidade da bolsa BEPE requerer a documentação. No mesmo dia fui |
+
+            | para Maringá-PR. Na UNICAMP digitalizei o livro La Refome de la dyna- |
+
+&nbsp;           | mique de Michel Fichant, tendo em vista o plano de estudo elaborado.  |
+
+&nbsp;           | Na quarta-feira fiz a leitura do texto de tradução.                   |
+
+ 	    | Na quinta, na sexta e no sábado, eu junto com a professora dra. Patrí-|
+
+ 	    | cia Sita (UEM) mitigamos a tradução e desenvolvemos uma versão aprimo-|
+
+ 	    | rada dela. O próximo passo desse trabalho é desenvolver pesquisa para |
+
+ 	    | tas e tomar decisões conceituais gerais. 	   			    |
+
+------------+-----------------------------------------------------------------------+
+
+09/02/2026  | Estudo do TMA - estudo pontual das páginas sobre as definições do TMA |
+
+&nbsp;           | e a relação com o conceito de *conatus* - a força elástica. Revisão da  |
+
+&nbsp;	    | tradução com a Patrícia. Elaboração do documento para Pesquisador vi- |
+
+&nbsp;	    | sitante na universidade do Porto - Portugal com o professor Meirinhos.|
+
+------------+-----------------------------------------------------------------------+
+
+&nbsp;
 
