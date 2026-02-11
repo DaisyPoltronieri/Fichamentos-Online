@@ -1,6 +1,6 @@
 **Diretrizes da proposta de pesquisa**
 
-1\.	Meu ponto principal em pauta, para não repetir o trabalho da Celi, é explicitar que o conceito de conatus está no centro do movimento, esse compreendido como efeito. Por assim dizer, mente também é efeito e projeta no corpóreo os efeitos da forma substancial – verdadeira causa e unidade. 
+1\.	Explicitar o conceito de conatus está no centro do movimento, esse compreendido como efeito. Por assim dizer, mente também é efeito e projeta no corpóreo os efeitos da forma substancial – verdadeira causa e unidade. 
 
 2\.	Demonstrar as razões que levam Leibniz a distinguir entre os termos “realidade” e “atualidade” nos textos de juventude, vinculando essa distinção à dificuldade de definição dos conceitos de contínuo e contíguo, especialmente no que se refere à delimitação entre o material e o imaterial. Essa investigação é fundamental para compreender como Leibniz articula ontologia na gênese de sua metafísica.
 
