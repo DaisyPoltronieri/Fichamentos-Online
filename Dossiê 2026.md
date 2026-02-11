@@ -184,7 +184,7 @@ Data        | Descrição de Atividade       					    |
 
 02/02/2026- | Escrita do capítulo; Retomada da tradução; Início da semana     	    |
 
-07/02/2026  | de viagem para Maringá-PR. Objetivo: tradução com a professora   	    |
+07/02/2026  | de viagem para Maringá. **Objetivo:** tradução com a professora   	    |
 
  	    | Drª Patrícia Sita - texto GP IV, 393-399;  			    |
 
@@ -192,17 +192,17 @@ Data        | Descrição de Atividade       					    |
 
 08/02/2026  | Chegada em Jales-SP (residência atual). **Relatório de atividades de**    |
 
- 	    | **viagem:** Na terça-feira retirei meu diploma de doutorado na unicamp e  |
+ 	    | **viagem:** Na terça-feira retirei meu diploma de doutorado na UNICAMP e  |
 
  	    | fiz a autenticação e reconhecimento de firma da assinatura em vista da|
 
  	    | possibilidade da bolsa BEPE requerer a documentação. No mesmo dia fui |
 
-            | para Maringá-PR. Na UNICAMP digitalizei o livro La Refome de la dyna- |
+            | para Maringá-PR. Na UNICAMP digitalizei o livro *La Refome de la dyna*- |
 
-&nbsp;           | mique de Michel Fichant, tendo em vista o plano de estudo elaborado.  |
+            | *mique* de Michel Fichant, tendo em vista o plano de estudo elaborado.  |
 
-&nbsp;           | Na quarta-feira fiz a leitura do texto de tradução.                   |
+            | Na quarta-feira fiz a leitura do texto de tradução.                   |
 
  	    | Na quinta, na sexta e no sábado, eu junto com a professora dra. Patrí-|
 
@@ -216,13 +216,31 @@ Data        | Descrição de Atividade       					    |
 
 09/02/2026  | Estudo do TMA - estudo pontual das páginas sobre as definições do TMA |
 
-&nbsp;           | e a relação com o conceito de *conatus* - a força elástica. Revisão da  |
+            | e a relação com o conceito de *conatus* - a força elástica. Revisão da  |
 
-&nbsp;	    | tradução com a Patrícia. Elaboração do documento para Pesquisador vi- |
+ 	    | tradução com a Patrícia. Elaboração do documento para Pesquisador vi- |
 
-&nbsp;	    | sitante na universidade do Porto - Portugal com o professor Meirinhos.|
+ 	    | sitante na universidade do Porto - Portugal com o professor Meirinhos.|
 
 ------------+-----------------------------------------------------------------------+
 
-&nbsp;
+10/02/2026  | Envio do capítulo de livro em coautoria com Ezequiel Barros; Estudo do|
+
+&nbsp;	    | TMA e análise de trecho destacado; Revisão da Tradução; Elaboração de |
+
+&nbsp;	    | documento de pesquisa para a Universidade do Porto (previsão de 09 a  |
+
+&nbsp;	    | 27 de junho deste ano. 						    |
+
+------------+-----------------------------------------------------------------------+
+
+11/02/2026  | Reunião com a professora Pauline Phemister visando a atualização do   |
+
+&nbsp;	    | projeto de pesquisa e a ingressão nos grupos de estudos vigentes. Docu|
+
+&nbsp;	    | mentação da universidade do Porto assinada pelos professores e super- |
+
+&nbsp;           | visores de estágio. Análise do TMA p. 229. 			    |
+
+------------+-----------------------------------------------------------------------+
 
