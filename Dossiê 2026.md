@@ -226,21 +226,41 @@ Data        | Descrição de Atividade       					    |
 
 10/02/2026  | Envio do capítulo de livro em coautoria com Ezequiel Barros; Estudo do|
 
-&nbsp;	    | TMA e análise de trecho destacado; Revisão da Tradução; Elaboração de |
+ 	    | TMA e análise de trecho destacado; Revisão da Tradução; Elaboração de |
 
-&nbsp;	    | documento de pesquisa para a Universidade do Porto (previsão de 09 a  |
+ 	    | documento de pesquisa para a Universidade do Porto (previsão de 09 a  |
 
-&nbsp;	    | 27 de junho deste ano. 						    |
+ 	    | 27 de junho deste ano. 						    |
 
 ------------+-----------------------------------------------------------------------+
 
 11/02/2026  | Reunião com a professora Pauline Phemister visando a atualização do   |
 
-&nbsp;	    | projeto de pesquisa e a ingressão nos grupos de estudos vigentes. Docu|
+ 	    | projeto de pesquisa e a ingressão nos grupos de estudos vigentes. Docu|
 
-&nbsp;	    | mentação da universidade do Porto assinada pelos professores e super- |
+ 	    | mentação da universidade do Porto assinada pelos professores e super- |
 
-&nbsp;           | visores de estágio. Análise do TMA p. 229. 			    |
+            | visores de estágio. Análise do TMA p. 229. 			    |
 
 ------------+-----------------------------------------------------------------------+
+
+12	    |Revisão do texto de tradução §3; Atualização do projeto BEPE; Documento|
+
+13/02/2026  |de viagem para Maringá com assinatura coletada da professora Patrícia; |
+
+&nbsp;	    |Atualização do cronograma de Pesquisa na Universidade do Porto e compra|
+
+&nbsp;	    |de passagem, seguro viagem. (Perdi um tempo de trabalho nesses dias por|
+
+&nbsp; 	    |questões de saúde: extraí um dente do siso e foi ao AME-Jales tirar um |
+
+&nbsp;	    |raio X. Pretendo compensar o estudo do TMA no sábado. Fichei o artigo  |
+
+&nbsp;	    |sobre Malebranche para aprofundar os assuntos sobre o movimento e o    |
+
+&nbsp;	    |ocasionalismo.							    |
+
+------------+-----------------------------------------------------------------------+
+
+
 
