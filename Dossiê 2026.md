@@ -248,19 +248,19 @@ Data        | Descrição de Atividade       					    |
 
 13/02/2026  |de viagem para Maringá com assinatura coletada da professora Patrícia; |
 
-&nbsp;	    |Atualização do cronograma de Pesquisa na Universidade do Porto e compra|
+ 	    |Atualização do cronograma de Pesquisa na Universidade do Porto e compra|
 
-&nbsp;	    |de passagem, seguro viagem. (Perdi um tempo de trabalho nesses dias por|
+ 	    |de passagem, seguro viagem. (Perdi um tempo de trabalho nesses dias por|
 
-&nbsp; 	    |questões de saúde: extraí um dente do siso e foi ao AME-Jales tirar um |
+  	    |questões de saúde: extraí um dente do siso e fui ao AME-Jales tirar um |
 
-&nbsp;	    |raio X. Pretendo compensar o estudo do TMA no sábado. Fichei o artigo  |
+ 	    |raio X. Pretendo compensar o estudo do TMA no sábado. Fichei o capítulo|
 
-&nbsp;	    |sobre Malebranche para aprofundar os assuntos sobre o movimento e o    |
+ 	    |sobre Malebranche para aprofundar os assuntos sobre o movimento e o    |
 
-&nbsp;	    |ocasionalismo.							    |
+ 	    |ocasionalismo. Andrew Pyle - vou fazer desse fichamento o objeto de co-|
+
+&nbsp;	    |leta de informações na universidade do Porto e transformar em artigo 2.|
 
 ------------+-----------------------------------------------------------------------+
-
-
 
