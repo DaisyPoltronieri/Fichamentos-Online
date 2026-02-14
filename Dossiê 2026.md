@@ -260,7 +260,7 @@ Data        | Descrição de Atividade       					    |
 
  	    |ocasionalismo. Andrew Pyle - vou fazer desse fichamento o objeto de co-|
 
-&nbsp;	    |leta de informações na universidade do Porto e transformar em artigo 2.|
+ 	    |leta de informações na universidade do Porto e transformar em artigo 2.|
 
 ------------+-----------------------------------------------------------------------+
 
