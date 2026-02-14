@@ -264,3 +264,13 @@ Data        | Descrição de Atividade       					    |
 
 ------------+-----------------------------------------------------------------------+
 
+14/02/2026  | Revisei a tradução realizada em colaboração com a Professora Patrícia |
+
+&nbsp;	    | fiz duas notas de rodapé sobre a questão da matemática, da geometria e|
+
+&nbsp;      	    | da aritmética. Análise do TMA p. 229. 				    |
+
+------------+-----------------------------------------------------------------------+
+
+
+
