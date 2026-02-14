@@ -1,4 +1,14 @@
-**0studo do TMA**
+**Estudo do TMA**
+
+
+
+* Estudos do \*\*TMA\*\*
+* 
+* Conceitos centrais: \*conatus; extensão; corpo; geometria;\*
+* 
+* Leibniz se refere ao menos 4 vezes a Hobbes de forma direta, citando seu nome. 
+* 
+* Leibniz também delineia verificações ao cartesianos ao menos 2x.
 
 
 
@@ -42,11 +52,11 @@ pág. 228
 
 11/02/2026
 
-Sobre os fundamentos 
+Sobre os fundamentos
 
-pág. 229 
+pág. 229
 
-Cui nihil extensionis adimi potest, inextensum est; initium ergo corporis, spatii, motus, temporis (punctum nimirum, conatus, instans) aut nullum, quod absurdum, aut 
+Cui nihil extensionis adimi potest, inextensum est; initium ergo corporis, spatii, motus, temporis (punctum nimirum, conatus, instans) aut nullum, quod absurdum, aut
 
 inextensum est, quod erat demonstrandum.
 
@@ -57,4 +67,6 @@ inextensum est, quod erat demonstrandum.
 \[**Questão de interpretação:** Me parece aqui que Leibniz está estabelecendo uma distancia do pensamento idealista - estou me referindo a Berkeley (que Leibniz menciona em outra obra). O pensamento idealista poderia extrair a realidade acessível as capacidades do inteligir e o objeto, por sua vez, perder a centralidade].
 
 
+
+14/02/2026
 
