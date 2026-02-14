@@ -1,6 +1,6 @@
 **Diretrizes da proposta de pesquisa**
 
-1\.	Explicitar o conceito de conatus está no centro do movimento, esse compreendido como efeito. Por assim dizer, mente também é efeito e projeta no corpóreo os efeitos da forma substancial – verdadeira causa e unidade. 
+1\.	Investigar o conceito de conatus como centro do movimento, esse compreendido como efeito. Por assim dizer, mente também é efeito e projeta no corpóreo os efeitos da forma substancial – verdadeira causa e unidade. 
 
 2\.	Demonstrar as razões que levam Leibniz a distinguir entre os termos “realidade” e “atualidade” nos textos de juventude, vinculando essa distinção à dificuldade de definição dos conceitos de contínuo e contíguo, especialmente no que se refere à delimitação entre o material e o imaterial. Essa investigação é fundamental para compreender como Leibniz articula ontologia na gênese de sua metafísica.
 
@@ -22,11 +22,9 @@
 
 11\.	Matemática é algo que diz respeito as causas, pois trata do corpo (geometria) segundo razões de indivisíveis. As questões que envolvem Huygens como influência pode ser identificada diante dessa promessa resguardada pela matemática. Porém, Leibniz enfatiza desde a carta a Thomasius a questão dos indivisíveis – que em Huygens gera paradoxo da divisibilidade ao infinito. 
 
-12\.	Cabe ainda uma crítica aos escolásticos que, para Leibniz, são adeptos a teoria aristotélica parcialmente.
+12\.	Cabe ainda uma crítica aos escolásticos que, para Leibniz, são adeptos a teoria aristotélica parcialmente. Essa ideia é nova e surgiu da durante a tradução do texto de Leibniz com a Patrícia. Preciso verificar quem são de fato esses escolásticos ou se são pessoas vinculadas a tradição cartesiana, para mim isso não é claro. 
 
-13\.	O texto do Howard pode ser utilizado para entender os pontos que aproximam Hobbes e Leibniz. Destaco principalmente o uso do termo “força”, mas a questão deve verter sobre o possível psicologismo de Hobbes.
-
-
+13\.	O texto do Howard pode ser utilizado para entender os pontos que aproximam Hobbes e Leibniz. Destaco principalmente o uso do termo “força”, mas a questão verte sobre o possível psicologismo de Hobbes.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
