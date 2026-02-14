@@ -6,7 +6,7 @@
 * 
 * Conceitos centrais: \*conatus; extensão; corpo; geometria;\*
 * 
-* Leibniz se refere ao menos 4 vezes a Hobbes de forma direta, citando seu nome. 
+* Leibniz se refere ao menos 4 vezes a Hobbes de forma direta, citando seu nome.
 * 
 * Leibniz também delineia verificações ao cartesianos ao menos 2x.
 
@@ -69,4 +69,22 @@ inextensum est, quod erat demonstrandum.
 
 
 14/02/2026
+
+
+
+(7) Motus est continuus seu nullis quietulis interruptus. Nam (8.) ubi semel res quieverit, nisi nova motus causa accedat, semper quiescet. (10.) Conatus est ad motum, ut punctum ad spatium, seu ut unum ad infinitum, est enim initium finisque motus. 
+
+
+
+(7) O movimento é contínuo ou não interrompido por pequenos períodos de repouso. Pois (8.) uma vez que algo tenha repousado, a menos que uma nova causa de movimento se apresente, sempre repousará. (10.) A tendência (conatus) para o movimento está para o movimento assim como o ponto está para o espaço, ou assim como um está para o infinito; pois é o início e o fim do movimento.
+
+
+
+\[Pontuações: A tendência de um corpo é ser passivo e buscar o repouso. Outros corpos alteram essa tendência, porém ela é imperativa. O contínuo do movimento acontece antes que essa tendência acometa um corpo. O *conatus*  está para o movimento porque sem o *conatus* não há continuidade de movimento. Ele é sucessivo até se tornar simultâneo \[Interpretação]. Início e fim do movimento. O conatus opera de modo ínfimo e contínuo para o movimento. A menor parte dos itens que o constituem.]
+
+
+
+\[**Questão de interpretação**: o movimento ínfimo não é mencionado. Conatus é comparado como o um para o infinito. Portanto, é tão elementar para o movimento contínuo que não menciona-lo deixa uma lacuna no pensamento. A questão do TMA que me pergunto agora é o quão distante o conatus aqui descrito está do conatus de Hobbes - como algo da mente, uma espécie de psicologismo. Por que? porque se o conatus é invisível de que modo está em realidade conectado as questão da causa ou apenas faz parte de uma etapa do conhecimento dos efeitos, isto é, restrito ao fenômeno do movimento? Acrescento ainda aqui as questões contra o ocasionalismo que estão em alta na perspectiva do ator, onde, especialmente Malebranche tece suas críticas as causas que Leibniz aqui parece sugerir e afirmar em roupagem *de conatus*]  
+
+
 
