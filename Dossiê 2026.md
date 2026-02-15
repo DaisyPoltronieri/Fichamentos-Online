@@ -266,11 +266,27 @@ Data        | Descrição de Atividade       					    |
 
 14/02/2026  | Revisei a tradução realizada em colaboração com a Professora Patrícia |
 
-&nbsp;	    | fiz duas notas de rodapé sobre a questão da matemática, da geometria e|
+ 	    | fiz duas notas de rodapé sobre a questão da matemática, da geometria e|
 
-&nbsp;      	    | da aritmética. Análise do TMA p. 229. 				    |
+       	    | da aritmética. Análise do TMA p. 229. 				    |
 
 ------------+-----------------------------------------------------------------------+
+
+15/02/2026  | Estudei o texto da Enciclopédia Stanford sobre Johann Sturm com o ob- |
+
+&nbsp;	    | jetivo de verificar questão do ocasionalismo no que tange os autores  |
+
+&nbsp;	    | mencionados por Leibniz. Sturm não me parece ser muito estudado dentro|
+
+&nbsp;	    | do cenário leibnizianos, mas considerar seus argumentos pode ser útil |
+
+&nbsp;           | para justificar a fuga do ocasionalismo após o TMA e o *Pacídios*.      |
+
+&nbsp; 	    | Fiz a revisão da tradução e redigi a nota 04.			    | 	
+
+------------+-----------------------------------------------------------------------+
+
+
 
 
 
