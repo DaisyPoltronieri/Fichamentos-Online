@@ -72,7 +72,7 @@ inextensum est, quod erat demonstrandum.
 
 
 
-(7) Motus est continuus seu nullis quietulis interruptus. Nam (8.) ubi semel res quieverit, nisi nova motus causa accedat, semper quiescet. (10.) Conatus est ad motum, ut punctum ad spatium, seu ut unum ad infinitum, est enim initium finisque motus. 
+(7) Motus est continuus seu nullis quietulis interruptus. Nam (8.) ubi semel res quieverit, nisi nova motus causa accedat, semper quiescet. (10.) Conatus est ad motum, ut punctum ad spatium, seu ut unum ad infinitum, est enim initium finisque motus.
 
 
 
@@ -84,7 +84,25 @@ inextensum est, quod erat demonstrandum.
 
 
 
-\[**Questão de interpretação**: o movimento ínfimo não é mencionado. Conatus é comparado como o um para o infinito. Portanto, é tão elementar para o movimento contínuo que não menciona-lo deixa uma lacuna no pensamento. A questão do TMA que me pergunto agora é o quão distante o conatus aqui descrito está do conatus de Hobbes - como algo da mente, uma espécie de psicologismo. Por que? porque se o conatus é invisível de que modo está em realidade conectado as questão da causa ou apenas faz parte de uma etapa do conhecimento dos efeitos, isto é, restrito ao fenômeno do movimento? Acrescento ainda aqui as questões contra o ocasionalismo que estão em alta na perspectiva do ator, onde, especialmente Malebranche tece suas críticas as causas que Leibniz aqui parece sugerir e afirmar em roupagem *de conatus*]  
+\[**Questão de interpretação**: o movimento ínfimo não é mencionado. Conatus é comparado como o um para o infinito. Portanto, é tão elementar para o movimento contínuo que não menciona-lo deixa uma lacuna no pensamento. A questão do TMA que me pergunto agora é o quão distante o conatus aqui descrito está do conatus de Hobbes - como algo da mente, uma espécie de psicologismo. Por que? porque se o conatus é invisível de que modo está em realidade conectado as questão da causa ou apenas faz parte de uma etapa do conhecimento dos efeitos, isto é, restrito ao fenômeno do movimento? Acrescento ainda aqui as questões contra o ocasionalismo que estão em alta na perspectiva do ator, onde, especialmente Malebranche tece suas críticas as causas que Leibniz aqui parece sugerir e afirmar em roupagem *de conatus*]
+
+
+
+16/02/2026
+
+
+
+(12.) Possunt igitur in eodem corpore simul esse plures conatus contrarii. Nam si sit linea ab, et c tendat ab a ad b, contra d a b ad a et concurrant; momento concursus, c conabitur ad b, etsi cogitetur desinere moveri, quia finis motus est conatus; sed et conabitur retro, si oppositum cogitetur praevalere, incipiet enim retro ire, sed etsi neutrum praevaleat, idem erit, quia conatus omnis propagatur per obstantia in infinitum, et ita utriusque in utrumque: et si aequali celeritate nihil agitur, nec duplicata seu majore quicquam agetur, quia bis nihil est nihil.
+
+
+
+\[**Pontuações:** As tendências que afetam o conatus podem ser conflitantes e contraditórias entre si. Porém, a sua essência de tendência anula as questões que se interpõe a matéria. Ele é fim do movimento, por isso, recupera seu tonos e tudo que afetou o corpo reduz a nada, pois a somatória de fatores que não fazem do próprio conatus não existem em si mesmo].
+
+
+
+\[**Questão de interpretação:** Pode ser que aqui está localizado o grande motivo de ter colocado o *conatus* no Espécime de dinâmica como uma natureza da força derivada. Lá ele está associado a força morta e estabelece uma conexão nos casos de colisão. Nesse esteira, o *impetus* também surge ao seu lado como a intenção de propagar e o conatus de conservar. Será que nesse sentido, Leibniz apresenta uma nomeação do início e do fim do movimento com *conatus e impetus*? E a principal pergunta é, qual o ganho dessas designações para sua tese? Essa parte no TMA consta nas linhas 25 a 32 da pág. 229].
+
+
 
 
 
