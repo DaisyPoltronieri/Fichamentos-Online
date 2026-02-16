@@ -28,13 +28,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Estudos do **TMA**
 
-Conceitos centrais: *conatus; extensão; corpo; geometria;*
-
-Leibniz se refere ao menos 4 vezes a Hobbes de forma direta, citando seu nome. 
-
-Leibniz também delineia verificações ao cartesianos ao menos 2x.
 
 
 
