@@ -274,19 +274,37 @@ Data        | Descrição de Atividade       					    |
 
 15/02/2026  | Estudei o texto da Enciclopédia Stanford sobre Johann Sturm com o ob- |
 
-&nbsp;	    | jetivo de verificar questão do ocasionalismo no que tange os autores  |
+ 	    | jetivo de verificar questão do ocasionalismo no que tange os autores  |
 
-&nbsp;	    | mencionados por Leibniz. Sturm não me parece ser muito estudado dentro|
+ 	    | mencionados por Leibniz. Sturm não me parece ser muito estudado dentro|
 
-&nbsp;	    | do cenário leibnizianos, mas considerar seus argumentos pode ser útil |
+ 	    | do cenário leibnizianos, mas considerar seus argumentos pode ser útil |
 
-&nbsp;           | para justificar a fuga do ocasionalismo após o TMA e o *Pacídios*.      |
+            | para justificar a fuga do ocasionalismo após o TMA e o *Pacídios*.      |
 
-&nbsp; 	    | Fiz a revisão da tradução e redigi a nota 04.			    | 	
+  	    | Fiz a revisão da tradução e redigi a nota 04.			    |
 
 ------------+-----------------------------------------------------------------------+
 
+16/02/2026  | Fiz a notas de revisão na tradução: estou no 5§ do texto; as notas es-|
 
+&nbsp;	    |tão sendo pesquisadas e referenciadas com outras bibliografias.        |
 
+&nbsp;           |Fiz a leitura do TMA e pontue que o conatus pode ter se tornado um modo| 
 
+&nbsp;	    |de força derivada para explicitar que é começo (impetus) e fim         |
+
+&nbsp;	    |(conatus). Fiz a ficha de leitura sobre Johann Sturm e conciliei a     | 
+
+&nbsp;	    |leitura com o texto *On the correction of metaphisics and the concept of*| 
+
+	    |*substance.* O trabalho ajudou na hipótese de que|o *conatus* não se liga a| 
+
+&nbsp;	    |tendência ao movimento e que suas partes contínuas e contíguas geram   |
+
+&nbsp;           |impenetrabilidade, logo, coesão aos corpos.  			    |
+
+------------+-----------------------------------------------------------------------+
+
+&nbsp;	
 
