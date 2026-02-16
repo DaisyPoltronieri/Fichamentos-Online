@@ -2,12 +2,6 @@ Dossiê FAPESP – UFSCar 2026
 
 https://github.com/DaisyPoltronieri/Fichamentos-Online
 
-
-
-
-
-
-
 **Janeiro**
 
 Data        | Descrição de Atividade       					    |
@@ -284,27 +278,9 @@ Data        | Descrição de Atividade       					    |
 
   	    | Fiz a revisão da tradução e redigi a nota 04.			    |
 
-------------+-----------------------------------------------------------------------+
+------------+-----------------------------------------------------------------------+------------+--------------------------------------------------
 
-16/02/2026  | Fiz a notas de revisão na tradução: estou no 5§ do texto; as notas es-|
+16/02/2026: Fiz notas de revisão na tradução, estou 5§ parágrafo do texto, e as notas estão sendo pesquisadas e referenciadas com outras bibliografias. Fiz a leitura do TMA e destaquei que o conatus pode ter se tornado um modo de força derivada para explicitar que é começo (impetus) e fim (conatus). Elaborei a ficha de leitura sobre Johann Sturm e articulei essa leitura com o texto *On the Correction of Metaphysics and the Concept of Substance* (L, p. 432). O trabalho reforçou a hipótese de que o conatus não se vincula à tendência ao movimento e que suas partes contínuas e contíguas geram impenetrabilidade e, consequentemente, coesão dos corpos. Além disso, mapiei autores que Leibniz menciona para me fornecer um panorama geral do seu século e as questão ligadas a metodologia do conhecimento. Pesquisei sobre Mersenne, Arnauld e Boyle. Adicionei um nota, no fichario físico sobre Huygens e que sua filosofia natural impactou diretamente as ideias de Newton sobre força centrífuga e o movimento dos planetas.
 
-&nbsp;	    |tão sendo pesquisadas e referenciadas com outras bibliografias.        |
-
-&nbsp;           |Fiz a leitura do TMA e pontue que o conatus pode ter se tornado um modo| 
-
-&nbsp;	    |de força derivada para explicitar que é começo (impetus) e fim         |
-
-&nbsp;	    |(conatus). Fiz a ficha de leitura sobre Johann Sturm e conciliei a     | 
-
-&nbsp;	    |leitura com o texto *On the correction of metaphisics and the concept of*| 
-
-	    |*substance.* O trabalho ajudou na hipótese de que|o *conatus* não se liga a| 
-
-&nbsp;	    |tendência ao movimento e que suas partes contínuas e contíguas geram   |
-
-&nbsp;           |impenetrabilidade, logo, coesão aos corpos.  			    |
-
-------------+-----------------------------------------------------------------------+
-
-&nbsp;	
+------------+-----------------------------------------------------------------------+------------+--------------------------------------------------
 
