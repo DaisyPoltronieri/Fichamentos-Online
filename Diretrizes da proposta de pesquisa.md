@@ -26,6 +26,10 @@
 
 13\.	O texto do Howard pode ser utilizado para entender os pontos que aproximam Hobbes e Leibniz. Destaco principalmente o uso do termo “força”, mas a questão verte sobre o possível psicologismo de Hobbes.
 
+14\. Hipótese de investigação: Conexão entre Leibniz, Mersenne e Galileo no quesito do experimentalismo e ocasionalismo. 
+As pontuações pessimistas de Mersenne sobre aspectos experimentais podem contrastar com as ideias de Leibniz sobre a possibilidade de conhecimento – que por vezes é obscura, pois a matemática é vista como uma ferramenta para a humanidade compreender leis e fenômenos naturais, mas não é claro para mim se Leibniz faz uso da matemática como algo real. 
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
