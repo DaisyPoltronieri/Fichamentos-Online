@@ -278,9 +278,13 @@ Data        | Descrição de Atividade       					    |
 
   	    | Fiz a revisão da tradução e redigi a nota 04.			    |
 
-------------+-----------------------------------------------------------------------+------------+--------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 16/02/2026: Fiz notas de revisão na tradução, estou 5§ parágrafo do texto, e as notas estão sendo pesquisadas e referenciadas com outras bibliografias. Fiz a leitura do TMA e destaquei que o conatus pode ter se tornado um modo de força derivada para explicitar que é começo (impetus) e fim (conatus). Elaborei a ficha de leitura sobre Johann Sturm e articulei essa leitura com o texto *On the Correction of Metaphysics and the Concept of Substance* (L, p. 432). O trabalho reforçou a hipótese de que o conatus não se vincula à tendência ao movimento e que suas partes contínuas e contíguas geram impenetrabilidade e, consequentemente, coesão dos corpos. Além disso, mapiei autores que Leibniz menciona para me fornecer um panorama geral do seu século e as questão ligadas a metodologia do conhecimento. Pesquisei sobre Mersenne, Arnauld e Boyle. Adicionei um nota, no fichario físico sobre Huygens e que sua filosofia natural impactou diretamente as ideias de Newton sobre força centrífuga e o movimento dos planetas.
 
-------------+-----------------------------------------------------------------------+------------+--------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+17/02/2026: Trabalhei na pesquisa sobre bases históricas lendo e fazendo o fichamento do capítulo do livro "Aristotle and the Renaissence" de Charles B. Schmitt. Na primeira parte do livro o autor mostra que o aristotelismo, embora vigoroso no período do XIII, tornou-se alvo de críticas dos intelectuais do XVI e XVII. Por causa disso, desvencilhar-se do pensamento e do método aristotélico ganhava solides, ao passo em que as questões relativas ao entendimento da metafísica e da física se acumulavam entre os interpretes de Aristóteles, principalmente depois da tradução de Moerbeck. Fiz a revisão da tradução e nota de rodapé que tange a questão do movimento e dos vórtices. Aiton, tem um texto sobre o tema e ajuda muito a compreender as questões que estão sendo postas na tradução. Trabalhei também na pontuação do TMA que na parte 13 das definições fica ainda mais abstrato o conceito de conatus - como um ponto que é capaz de se preencher e gerar extensão (aparentemente).
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
