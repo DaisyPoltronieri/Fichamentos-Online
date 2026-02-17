@@ -104,5 +104,19 @@ inextensum est, quod erat demonstrandum.
 
 
 
+17/02/2026
+
+
+
+(13.) Unum corporis moti punctum tempore conatus seu minore quam quod dari potest est in pluribus locis seu punctis spatii, id est implebit partem spatii se majorem, vel majorem quam implet quiescens, aut tardius motum, aut conans in unam tantum plagam;
+
+
+
+\[**Pontuações:** o corpo contém um ponto de conatus que o faz ser espacial, extenso \[dinâmico]. Por meio dessa atividade de conatus e extensão ele se preenche enquanto corpo e ganha determinação - "conando" em uma única direção]. 
+
+
+
+\[**Questões de interpretação:** o conatus é uma atividade primeira que torna possível a espacialidade de um corpo e de garantir sua determinação].
+
 
 
