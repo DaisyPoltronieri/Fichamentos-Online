@@ -290,3 +290,9 @@ Data        | Descrição de Atividade       					    |
 
 18/02/2026 
 19/02/2026: Fiz minha inscrição no LSNA com o texto sobre Caroline de Ansbach. Fiz a submissão no BEPE da FAPESP e no PLSS de Edimburgo. Revisei minhas diretrizes de pesquisa e redigi um resumo para possível apresentação na Universidade do Porto (15 a 21 de junho) que será supervisionado pelo professor José Meirinhos.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+20/02/2026: Fiz o estudo do TMA; retomei a leitura do livro "Aristotle and the Renaissence" de Charles B. Schmitt; Fiz a leitura do capítulo do livro de Richard Arthur "Leibniz" p. 99 a 122.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
