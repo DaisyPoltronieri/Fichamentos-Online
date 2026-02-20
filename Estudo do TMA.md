@@ -120,7 +120,7 @@ inextensum est, quod erat demonstrandum.
 
 
 
-20/02/2026 
+20/02/2026
 
 
 
@@ -140,3 +140,8 @@ inextensum est, quod erat demonstrandum.
 
 
 
+* ***Revera matéria npn continuum sed discretum est actu in infinitum divisum*. LEIBNIZ. Carta a De Volder. 11 de Outubro de 1705. GP II, p. 278**
+
+
+
+* **Pois a repetição geral (ou a multitude do mesmo) é discreta, como as coisas numeradas em que as partes adicionadas são distinguidas, ou contínua, no qual as partes não estão limitadas e podem ser obtidas de infinitas maneiras. {Repetitio enim omnis (seu multitudo eorundem) alia est discreta, ut in rebus numeratis ubi partes aggregati discernuntur; alia est continua, ubi indeterminatae sunt partes atque infinitis modis assumi possunt}. LEIBNIZ. O exame da física de Descartes. GP IV, p. 395. \[p. 436]. (Tradução com a Patrícia). - Reforço da tese de interpretação: "**contínua por excelência e em todas as propriedades possíveis".
