@@ -112,11 +112,31 @@ inextensum est, quod erat demonstrandum.
 
 
 
-\[**Pontuações:** o corpo contém um ponto de conatus que o faz ser espacial, extenso \[dinâmico]. Por meio dessa atividade de conatus e extensão ele se preenche enquanto corpo e ganha determinação - "conando" em uma única direção]. 
+\[**Pontuações:** o corpo contém um ponto de conatus que o faz ser espacial, extenso \[dinâmico]. Por meio dessa atividade de conatus e extensão ele se preenche enquanto corpo e ganha determinação - "conando" em uma única direção].
 
 
 
 \[**Questões de interpretação:** o conatus é uma atividade primeira que torna possível a espacialidade de um corpo e de garantir sua determinação].
+
+
+
+20/02/2026 
+
+
+
+(14.) Sed et omnino quicquid movetur non est unquam in uno loco dum movetur, ne instanti quidem seu tempore minimo; quia quod in tempore movetur, in instanti conatur, seu incipit desinitque moveri, id est locum mutare: nec refert dicere, quolibet tempore minore quam quod dari potest, conari, minimo vero esse in loco: non enim datur pars temporis minima, alioquin et spatii dabitur. Nam quod tempore absolvit lineam, tempore minore quam quod dari potest, absolvet lineam minorem quam quae dari potest seu punctum; et tempore absolute minimo partem spatii absolute minimam, qualis nulla est per fund.
+
+
+
+(14.) Mas, além disso, qualquer coisa que se move não está nunca em um lugar enquanto se move, nem mesmo num instante ou num tempo mínimo; porque aquilo que se move num tempo, num instante tende, ou começa e deixa de se mover, isto é, de mudar de lugar: nem importa dizer, em qualquer tempo menor do que aquele que pode ser dado, tender, mas num tempo mínimo estar num lugar: pois não se dá uma parte do tempo mínima, caso contrário dar-se-ia também uma do espaço. Pois aquilo que num tempo percorre uma linha, num tempo menor do que aquele que pode ser dado, percorrerá uma linha menor do que aquela que pode ser dada, ou um ponto; e num tempo absolutamente mínimo, uma parte do espaço absolutamente mínima, qual nenhuma existe, segundo o fundamento.
+
+
+
+\[**Pontuações:** O trecho retira do conceito de conatus a extensão. Tempo e espaço são redutíveis a sua natureza. O ponto é uma razão metafísica que através do movimento gera a linha e não há a necessidade de situar (situs), uma vez que tempo e espaço são redundantes em meio a natureza do que é mínimo ou metafísico. O fundamento é o suporte para o mínimo de espaço e de tempo].
+
+
+
+\[Questões de interpretação: É importante que eu saliente a aplicação da palavra "mínimo", pois ela pode designar o limite entre o físico e o metafísico, o contínuo e o contíguo. Pode ser ter alguma ligação com o *discreto*. (O discreto não deve ser comparado ao descontínuo, pois a simples suposição de algo descontínuo na natureza violaria o princípio básico da expressão de um coisa em outra. COUTO FILHO, 2005, p. 489-90; Piauí "O termo discreto deve sim ser considerado um sinônimo de descontínuo ou heterogêneo" PIAUÍ, 2009, p. 300.) A partir do TMA o discreto ainda não é um conceito até o momento de fundamentação, porém é muito nítida sua relação com o conatus e os aspectos que envolvem o conceito de mínimo e continuidade. Ao meu ver, o conatus está sendo defendido já como uma razão metafísica de operação sucessiva e simultânea, ou seja, contínua por excelência e em todas as propriedades possíveis]. 
 
 
 
