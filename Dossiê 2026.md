@@ -274,7 +274,7 @@ Data        | Descrição de Atividade       					    |
 
  	    | do cenário leibnizianos, mas considerar seus argumentos pode ser útil |
 
-            | para justificar a fuga do ocasionalismo após o TMA e o *Pacídios*.      |
+            | para justificar a fuga do ocasionalismo após o TMA e o *Pacídios*.    |
 
   	    | Fiz a revisão da tradução e redigi a nota 04.			    |
 
@@ -296,3 +296,9 @@ Data        | Descrição de Atividade       					    |
 20/02/2026: Fiz o estudo do TMA; retomei a leitura do livro "Aristotle and the Renaissence" de Charles B. Schmitt; Fiz a leitura do capítulo do livro de Richard Arthur "Leibniz" p. 99 a 122.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+21/02/2026: Revisão da tradução com reelaboração de notas de rodapé. § 8 - a questão do ar e interferência sobre o movimento. 
+O que é vis respectivae?. Terminei a revisão. Falta: rever as notas, verificar a leitura fluida.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
