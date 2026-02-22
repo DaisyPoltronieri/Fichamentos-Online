@@ -302,3 +302,8 @@ O que é vis respectivae?. Terminei a revisão. Falta: rever as notas, verificar
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
+22/02/2026: Leitura do texto de R. Arthur, book: Leibniz. Sobre a relação Leibniz-Espinosa. Dois eixos centrais do documento 1) a questão da divisibilidade ao infinito (que interage com o conceito de conatus) e que Leibniz parece discordar de Espinosa no que diz respeito a constituição das almas e a sua modalidade. Modalidade de ser é ser para Espinosa, para Leibniz não. 2) a questão do movimento que Leibniz explica que a causa e o efeito devem ser equipolentes. Espinosa não vê problemas com a física de Descartes embora ele disse "Spinoza did not see the defects of Descartes’s rules of motion; he was surprised when I began to show him that they violate the equality of cause and effect’ (Foucher 
+de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento e a força viva é a questão da expressão e da relatividade do movimento. 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
