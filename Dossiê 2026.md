@@ -307,7 +307,7 @@ de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento 
 
 ---
 
-23/02/2023: Fiz a última nota na tradução e encaminhei para a Prof. Patrícia. Espera-se que até dia 19/03 (quando estarei em São Carlos com a Prof. Celi essa tradução possa estar pronta e ser apresentada como proposta de trabalho para publicação). Defini o tema do resumo de até 300 palavras para submissão do evento Correspondências com Espinosa - FFLCH. Com esse trabalho vou desenvolver uma lacuna na minha formação sobre o Espinosa e ao mesmo tempo trabalhar com Leibniz e o conceito de conatus. O título temporário que eu dei para o resumo é: *Correspondências entre Espinosa e G. W. Leibniz: o conceito de conatus e a distinção dos seres*. 
+23/02/2023: Fiz a última nota na tradução e encaminhei para a Prof. Patrícia. Espera-se que até dia 19/03 (quando estarei em São Carlos com a Prof. Celi essa tradução possa estar pronta e ser apresentada como proposta de trabalho para publicação). Defini o tema do resumo de até 300 palavras para submissão do evento Correspondências com Espinosa - FFLCH. Com esse trabalho vou desenvolver uma lacuna na minha formação sobre o Espinosa e ao mesmo tempo trabalhar com Leibniz e o conceito de conatus. O título temporário que eu dei para o resumo é: *Correspondências entre Espinosa e G. W. Leibniz: o conceito de conatus e a distinção dos seres*. Disparei também os pedidos de cartas de recomendações para o IASH e a submissão do meu projeto. 
 
 ---
 
