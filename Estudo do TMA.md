@@ -136,7 +136,7 @@ inextensum est, quod erat demonstrandum.
 
 
 
-\[Questões de interpretação: É importante que eu saliente a aplicação da palavra "mínimo", pois ela pode designar o limite entre o físico e o metafísico, o contínuo e o contíguo. Pode ser ter alguma ligação com o *discreto*. (O discreto não deve ser comparado ao descontínuo, pois a simples suposição de algo descontínuo na natureza violaria o princípio básico da expressão de um coisa em outra. COUTO FILHO, 2005, p. 489-90; Piauí "O termo discreto deve sim ser considerado um sinônimo de descontínuo ou heterogêneo" PIAUÍ, 2009, p. 300.) A partir do TMA o discreto ainda não é um conceito até o momento de fundamentação, porém é muito nítida sua relação com o conatus e os aspectos que envolvem o conceito de mínimo e continuidade. Ao meu ver, o conatus está sendo defendido já como uma razão metafísica de operação sucessiva e simultânea, ou seja, contínua por excelência e em todas as propriedades possíveis]. 
+\[Questões de interpretação: É importante que eu saliente a aplicação da palavra "mínimo", pois ela pode designar o limite entre o físico e o metafísico, o contínuo e o contíguo. Pode ser ter alguma ligação com o *discreto*. (O discreto não deve ser comparado ao descontínuo, pois a simples suposição de algo descontínuo na natureza violaria o princípio básico da expressão de um coisa em outra. COUTO FILHO, 2005, p. 489-90; Piauí "O termo discreto deve sim ser considerado um sinônimo de descontínuo ou heterogêneo" PIAUÍ, 2009, p. 300.) A partir do TMA o discreto ainda não é um conceito até o momento de fundamentação, porém é muito nítida sua relação com o conatus e os aspectos que envolvem o conceito de mínimo e continuidade. Ao meu ver, o conatus está sendo defendido já como uma razão metafísica de operação sucessiva e simultânea, ou seja, contínua por excelência e em todas as propriedades possíveis].
 
 
 
@@ -144,4 +144,25 @@ inextensum est, quod erat demonstrandum.
 
 
 
-* **Pois a repetição geral (ou a multitude do mesmo) é discreta, como as coisas numeradas em que as partes adicionadas são distinguidas, ou contínua, no qual as partes não estão limitadas e podem ser obtidas de infinitas maneiras. {Repetitio enim omnis (seu multitudo eorundem) alia est discreta, ut in rebus numeratis ubi partes aggregati discernuntur; alia est continua, ubi indeterminatae sunt partes atque infinitis modis assumi possunt}. LEIBNIZ. O exame da física de Descartes. GP IV, p. 395. \[p. 436]. (Tradução com a Patrícia). - Reforço da tese de interpretação: "**contínua por excelência e em todas as propriedades possíveis".
+* \*\*Pois a repetição geral (ou a multitude do mesmo) é discreta, como as coisas numeradas em que as partes adicionadas são distinguidas, ou contínua, no qual as partes não estão limitadas e podem ser obtidas de infinitas maneiras. {Repetitio enim omnis (seu multitudo eorundem) alia est discreta, ut in rebus numeratis ubi partes aggregati discernuntur; alia est continua, ubi indeterminatae sunt partes atque infinitis modis assumi possunt}. LEIBNIZ. O exame da física de Descartes. GP IV, p. 395. \[p. 436]. (Tradução com a Patrícia). - Reforço da tese de interpretação: "\*\*contínua por excelência e em todas as propriedades possíveis".
+
+
+
+25/02/2026
+
+
+
+(15.) Contra, tempore impulsus, impactus, concursus, duo corporum extrema, seu puncta se penetrant, seu sunt in eodem spatii puncto: cum enim concurrentium alterum in alterius locum conetur, incipiet in eo esse, id est incipiet penetrare, vel uniri. Conatus enim est initium, penetratio unio; sunt igitur in initio unionis, seu eorum termini sunt unum,  (16.) ergo corpora quae se premunt vel impellunt, cohaerent: nam eorum termini unum sunt, jam ὧν τά ἔσχαταἕ t ἕν, ea continua seu cohaerentia sunt, etiam Aristotele definiente, quia si duo in uno loco sunt, alterum sine altero impelli non potest.
+
+
+
+(15.) Por outro lado, pelo ímpeto do tempo, impacto, choque, duas extremidades dos corpos, ou seus pontos, penetram-se mutuamente, ou estão no mesmo ponto do espaço: pois quando um dos corpos que colidem tenta ocupar o lugar do outro, começará a estar nele, isto é, começará a penetrá-lo ou a unir-se a ele. Com efeito, o ***conatus*** é o início; a penetração é a união; estão, portanto, no início da união, ou os seus limites são um só.
+
+
+
+(16.) Logo, os corpos que se comprimem ou se impulsionam mutuamente tornam-se coesos: pois os seus limites são um só. Ora, "aquilo cujos extremos são um" são contínuos ou coesos, como também define Aristóteles, porque se dois estão num mesmo lugar, um não pode ser impelido sem o outro.
+
+
+
+\[Pontuações: o conatus nessa passagem tem uma função mecânica que é explicar que o limite entre dois corpos, durante o choque, se confunde e eles se tornam coesos e contínuos entre si, até que o seu limite seja restaurado (**interpretação**: o limite só pode ser restaurado pela própria natureza do corpo que recupera *o* conatus do início do movimento]. 
+
