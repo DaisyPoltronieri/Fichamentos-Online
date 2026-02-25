@@ -8,7 +8,7 @@ G I, p. 327-28/330-31
 
 
 
-13/23 de janeiro de 1679 
+13/23 de janeiro de 1679
 
 \[6 parágrafos]:
 
@@ -36,7 +36,7 @@ G I, p. 327-28/330-31
 
 
 
-\* Leibniz diz aprovar duas proposições: que em Deus são vistas todas as coisas e que, rigorosamente falando, os corpos não agem sob nós. (§ 1) 
+\* Leibniz diz aprovar duas proposições: que em Deus são vistas todas as coisas e que, rigorosamente falando, os corpos não agem sob nós. (§ 1)
 
 
 
@@ -44,7 +44,7 @@ G I, p. 327-28/330-31
 
 
 
-\* Que os decretos de Deus são simples ou Deus teria que mudar as leis da natureza a cada momento. \[comentário: Leibniz condiciona a existência das leis com a simplicidade das escolhas divinas. Parece haver uma anterioridade entre os fatores: primeiro Ele escolhe os decretos - dos mais simples possíveis - e depois ele adequa as leis das natureza]. 
+\* Que os decretos de Deus são simples ou Deus teria que mudar as leis da natureza a cada momento. \[comentário: Leibniz condiciona a existência das leis com a simplicidade das escolhas divinas. Parece haver uma anterioridade entre os fatores: primeiro Ele escolhe os decretos - dos mais simples possíveis - e depois ele adequa as leis das natureza].
 
 
 
@@ -68,9 +68,63 @@ G I, p. 327-28/330-31
 
 
 
-\* No § 7 Leibniz parece ter clareza que suas ideias não correspondem ao período em que vive. 
+\* No § 7 Leibniz parece ter clareza que suas ideias não correspondem ao período em que vive.
 
 
 
+Carta 02 - L, 351-354
 
+\[7 parágrafos] - 1687
+
+
+
+\* Ele menciona a obra *Nouvelles de la republique des lettres*.
+
+
+
+\* Que a geometria e o princípio da ordem geral estão vinculados uma vez que podem ordenar o que é conhecido e o desconhecido: o exemplo entre a diferença da parábola e da elipse é dado, onde as leis que se aplicam a elas são iguais, porém há uma diferença tênue entre suas naturezas. A geometria se aplica, porém a distinção existe, mesmo que seja da menor possível ou infinitamente pequena. (§ 2).
+
+
+
+\* O mesmo se aplica pelos princípios da física que em ordem de igualdade e desigualdade são especialmente pequenas - o erro é não distinguir com suficiente precisam cada caso. (§ 3).
+
+
+
+\* Pontua a crítica a Descartes: quantidade de movimento por força.
+
+
+
+\* Os erros de física se estendem para o entendimento sobre os efeitos que um corpo pode produzir: no caso da quantidade de movimento gera uma absoluta regressão em uma continuação absoluta de movimento. (Igual na refutações a Abete Catelan 1686).
+
+
+
+\* "The Rev. Father Malebranche admits in a way that there is some difficulty in them, but he continues to believe that since the laws of motion depend on the good pleasure of God". Objeção estabelecida ao ocasionalismo advinda de uma argumentação contra os erros de geometria e física. (§ 5).
+
+
+
+\* Dos mesmos exemplos a questão da constante elástica surge para justificar as variações que são ignoradas na geometria e na física, isto é, as diminutas variações entre uma e outra. 
+
+
+
+\* "It is true that in composite things a small change can sometimes bring about a great effect". 
+
+
+
+\* Por isso os princípios mais pontuais tem uma relação direta com os mais gerais. Pela conexão entre a causa e o efeito. \[interpretação do §6].
+
+
+
+\* As causas finais não podem ser excluídas do entendimento da física, pois da física elas também podem ser derivadas. Cita Platão e Sócrates para refutar as aparências da extensão, inclusive das propriedades materiais que compõe nossos corpos, estão aquém de conter toda a verdade. (Fédon) 
+
+
+
+\* Os efeitos da natureza podem e devem ser explicadas mecanicamente. Para fazer isso é necessário considerar a inteligência do regente.
+
+
+
+\* Nossas dependências racionais com a estrutura física e mecânica do entendimento da natureza nos torna alienados de Deus (razão e piedade devem andar juntas) e das substâncias imateriais (portanto, da verdade).
+
+
+
+&nbsp;
 
