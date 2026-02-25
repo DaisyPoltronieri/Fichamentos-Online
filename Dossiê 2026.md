@@ -311,5 +311,8 @@ de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento 
 
 ---
 
-24/02/2026
+24/02/2026: Fiz o resumo para proposta de trabalho sobre Espinosa e Leibniz. A intenção é trabalhar o conceito de conatus entre os autores e pleitear as hipóteses com especialistas. O título é: Conatus e Natureza Corpórea - Atividade, Divisibilidade e Movimento em Espinosa e Leibniz. Fiz a submissão no portal da USP-FFLCH. Além disso, paralelamente, comecei a ler as correspondências entre Leibniz e Malebranche. Fiz o fichamento da primeira dupla de cartas contida no Papers and Letters. 
 
+---
+
+25/02/2026
