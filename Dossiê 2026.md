@@ -315,4 +315,8 @@ de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento 
 
 ---
 
-25/02/2026
+25/02/2026: Fiz o fichamento da segunda carta de Leibniz a Malebranche que estava contida no Papers and Letters. Estruturei a análise dos parágrafos e fiz alguns comentário. Fiz o estudo do TMA paralelamente. Além disso, participei do grupo de estudo de tradução luso-brasileira (das 9:00 ao 12:30) e das (15 as 16:30) participei do treinamento sobre acadêmicos e o uso de IA para a pesquisa em humanidades (certificados emitidos na próxima semana).
+
+---
+
+26/02/2026: 
