@@ -124,7 +124,5 @@ Carta 02 - L, 351-354
 
 \* Nossas dependências racionais com a estrutura física e mecânica do entendimento da natureza nos torna alienados de Deus (razão e piedade devem andar juntas) e das substâncias imateriais (portanto, da verdade).
 
-
-
 &nbsp;
 
