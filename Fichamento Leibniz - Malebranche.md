@@ -102,11 +102,11 @@ Carta 02 - L, 351-354
 
 
 
-\* Dos mesmos exemplos a questão da constante elástica surge para justificar as variações que são ignoradas na geometria e na física, isto é, as diminutas variações entre uma e outra. 
+\* Dos mesmos exemplos a questão da constante elástica surge para justificar as variações que são ignoradas na geometria e na física, isto é, as diminutas variações entre uma e outra.
 
 
 
-\* "It is true that in composite things a small change can sometimes bring about a great effect". 
+\* "It is true that in composite things a small change can sometimes bring about a great effect".
 
 
 
@@ -114,7 +114,7 @@ Carta 02 - L, 351-354
 
 
 
-\* As causas finais não podem ser excluídas do entendimento da física, pois da física elas também podem ser derivadas. Cita Platão e Sócrates para refutar as aparências da extensão, inclusive das propriedades materiais que compõe nossos corpos, estão aquém de conter toda a verdade. (Fédon) 
+\* As causas finais não podem ser excluídas do entendimento da física, pois da física elas também podem ser derivadas. Cita Platão e Sócrates para refutar as aparências da extensão, inclusive das propriedades materiais que compõe nossos corpos, estão aquém de conter toda a verdade. (Fédon)
 
 
 
@@ -124,5 +124,15 @@ Carta 02 - L, 351-354
 
 \* Nossas dependências racionais com a estrutura física e mecânica do entendimento da natureza nos torna alienados de Deus (razão e piedade devem andar juntas) e das substâncias imateriais (portanto, da verdade).
 
-&nbsp;
 
+
+**COMPARAÇÃO SISTEMÁTICA DAS CARTAS**
+
+
+
+1. Embora haja uma distancia entre as correspondências não me parece que as teses estão em qualquer ponto discrepantes uma com a outra. Pelo contrário, a convergência entre os assuntos me soa complementar.
+2. Existe um segurança nas leis da natureza de que elas regem o mundo conforme a vontade de Deus.
+3. Leibniz entra em verdadeiro desacordo com Malebranche no momento em que o ocasionalismo se justifica como fundamental para o entendimento do comportamento físico e mecânico. Para ele, as razões são metafísica e sem sempre explicitas e razoáveis como o conhecimento de domínio matemático.
+4. Há espaço suficiente, em meio a discussão da geometria e dos desígnios divinos, para explicar a questão do mal.
+5. Fédon: ver a questão da limitação do corpo/alma.
+6. Mas que tudo pode e deve ser explicado metafisicamente.
