@@ -319,4 +319,8 @@ de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento 
 
 ---
 
-26/02/2026: 
+26/02/2026: Sistematização das Cartas de Leibniz a Malebranche: ênfase nos assuntos mais importante para pesquisa e desenvolvimento do artigo que será apresentado em Lisboa e aprofundado em Porto. Sumarização do artigo para a apresentação em Lisboa.
+
+---
+
+
