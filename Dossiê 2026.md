@@ -323,4 +323,12 @@ de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento 
 
 ---
 
+27/06/2026: Revisão dos fichamentos sobre Malebranche; escrita da primeira parte do texto (Lisboa). Adequação do projeto de pós-doutorado para o IASH. Estudo do uso da Reserva Técnica e pedido de uso para passagens aéreas para Portugal. Recolhimento do INSS e ressarcimento via SIAF/FAPESP.
+
+---
+
+28/06/2026: Preenchimento do formulário do IASH. Escrita do artigo (Lisboa). Fichamento das correspondências de Leibniz-Bayle sobre Malebranche.
+
+---
+
 
