@@ -327,8 +327,12 @@ de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento 
 
 ---
 
-28/06/2026: Preenchimento do formulário do IASH. Escrita do artigo (Lisboa). Fichamento das correspondências de Leibniz-Bayle sobre Malebranche.
+28/06/2026: Preenchimento do formulário do IASH. Escrita do artigo (Lisboa). Fichamento das correspondências de Leibniz-Bayle sobre Malebranche. Autenticação de recibo das diárias no cartório de Jales para prestação de contas no SAGe.
 
----
+--- MARÇO/2026 --------------------------------------------------------------------------------------------------------------------------------------------------------
+
+01/03/2026 (DOMINGO): Fichamento e sistematização da carta de Leibniz-Bayle sobre Malebranche. Escrita do artigo (Lisboa). Prestação de contas SAGe/FAPESP sobre diárias e passagens aéreas para Portugal (15 a 27 de junho 2026). Carta de recomendação IASH.
+
+
 
 
