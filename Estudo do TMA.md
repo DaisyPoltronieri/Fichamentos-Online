@@ -3,11 +3,8 @@
 
 
 * Estudos do \*\*TMA\*\*
-* 
 * Conceitos centrais: \*conatus; extensão; corpo; geometria;\*
-* 
 * Leibniz se refere ao menos 4 vezes a Hobbes de forma direta, citando seu nome.
-* 
 * Leibniz também delineia verificações ao cartesianos ao menos 2x.
 
 
@@ -164,5 +161,5 @@ inextensum est, quod erat demonstrandum.
 
 
 
-\[Pontuações: o conatus nessa passagem tem uma função mecânica que é explicar que o limite entre dois corpos, durante o choque, se confunde e eles se tornam coesos e contínuos entre si, até que o seu limite seja restaurado (**interpretação**: o limite só pode ser restaurado pela própria natureza do corpo que recupera *o* conatus do início do movimento]. 
+\[Pontuações: o conatus nessa passagem tem uma função mecânica que é explicar que o limite entre dois corpos, durante o choque, se confunde e eles se tornam coesos e contínuos entre si, até que o seu limite seja restaurado (**interpretação**: o limite só pode ser restaurado pela própria natureza do corpo que recupera *o* conatus do início do movimento].
 
