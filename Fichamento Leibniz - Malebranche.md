@@ -136,3 +136,26 @@ Carta 02 - L, 351-354
 4. Há espaço suficiente, em meio a discussão da geometria e dos desígnios divinos, para explicar a questão do mal.
 5. Fédon: ver a questão da limitação do corpo/alma.
 6. Mas que tudo pode e deve ser explicado metafisicamente.
+
+
+
+**Carta de Leibniz a Bayle sobre a filosofia de Malebranche**
+
+
+
+\* Nessa correspondência (GP III, p 46-49) Leibniz elabora críticas a filosofia de Malebranche sobre a adesão a quantidade de movimento.
+
+\* Em primeiro lugar, ele cita as 7 regras do movimento cartesiano. 
+
+\* Ele diz que a regra 1 a 5 é verdadeira e que o erro está na 6 e 7.
+
+\* Sobre a questão do choque entre os corpos ele concorda parcialmente, dizendo que a velocidade dos corpos altera a quantidade de movimento, porém no caso dos corpos em queda livre a mesma regra não procede.
+
+\* Para Leibniz, Malebranche percebe que há uma discrepância entre a causa e o efeito. A força deve ser calculada pelo efeito que um corpo pode produzir.
+
+**\* Hipótese minha: o efeito é o que garante que o mecanicismo funciona e é uma forma de rastrear a causa metafísica do movimento dos corpos. (Por isso ele concorda com Malebranche).** 
+
+\* A força é ainda a medida do efeito futuro.
+
+\* Leibniz diz que Malebranche parece reconhecer que existe uma fissura entre a medida dos efeitos e o entendimento das causas (razão pela qual eles concordam, pois Malebranche não parece querer se abster da coesão entre o físico e o metafísico) - porém, e para Leibniz, a autoridade do pensamento cartesiano é sobreposta as desconfianças sobre os argumentos da física.
+
