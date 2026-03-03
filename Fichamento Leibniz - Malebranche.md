@@ -14,7 +14,7 @@ G I, p. 327-28/330-31
 
 
 
-\* O primeiro argumento que Leibniz destaca é o que aproxima ele de Malebranche, a saber que ambos concordam que uma substancia que é somente extensão não pode afetar ou ser afetada por outra que é somente pensamento. Dualidade cartesiana é posta sob análise crítica.
+\* O primeiro argumento que Leibniz destaca é o que aproxima ele de Malebranche, a saber que ambos concordam que uma substancia, que é somente extensão, (ou corpórea) não pode afetar ou ser afetada por outra que é somente pensamento. Dualidade cartesiana é posta sob análise crítica.
 
 
 
@@ -145,7 +145,7 @@ Carta 02 - L, 351-354
 
 \* Nessa correspondência (GP III, p 46-49) Leibniz elabora críticas a filosofia de Malebranche sobre a adesão a quantidade de movimento.
 
-\* Em primeiro lugar, ele cita as 7 regras do movimento cartesiano. 
+\* Em primeiro lugar, ele cita as 7 regras do movimento cartesiano.
 
 \* Ele diz que a regra 1 a 5 é verdadeira e que o erro está na 6 e 7.
 
@@ -153,7 +153,7 @@ Carta 02 - L, 351-354
 
 \* Para Leibniz, Malebranche percebe que há uma discrepância entre a causa e o efeito. A força deve ser calculada pelo efeito que um corpo pode produzir.
 
-**\* Hipótese minha: o efeito é o que garante que o mecanicismo funciona e é uma forma de rastrear a causa metafísica do movimento dos corpos. (Por isso ele concorda com Malebranche).** 
+**\* Hipótese minha: o efeito é o que garante que o mecanicismo funciona e é uma forma de rastrear a causa metafísica do movimento dos corpos. (Por isso ele concorda com Malebranche).**
 
 \* A força é ainda a medida do efeito futuro.
 
