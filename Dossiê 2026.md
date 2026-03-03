@@ -333,6 +333,14 @@ de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento 
 
 01/03/2026 (DOMINGO): Fichamento e sistematização da carta de Leibniz-Bayle sobre Malebranche. Escrita do artigo (Lisboa). Prestação de contas SAGe/FAPESP sobre diárias e passagens aéreas para Portugal (15 a 27 de junho 2026). Carta de recomendação IASH.
 
+---
+
+02/03/2026: Passei o dia convertendo o projeto no formato BEPE para o formato do IASH. Fiz correções gramaticais no inglês e revisei o texto conforme as diretrizes do programa.
+
+--
+
+03/03/2026: Revisei o projeto do IASH e programei o envio para a Professora Pauline Phemister. Organizei minha semana e as metas produtivas. Além disso, recebi o valor da RT para a viagem de Portugal, então, passei um bom tempo organizando documentos de Prestações de Contas da FAPESP.
+
 
 
 
