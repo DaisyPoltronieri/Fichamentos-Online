@@ -339,7 +339,7 @@ de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento 
 
 --
 
-03/03/2026: Revisei o projeto do IASH e programei o envio para a Professora Pauline Phemister. Organizei minha semana e as metas produtivas. Além disso, recebi o valor da RT para a viagem de Portugal, então, passei um bom tempo organizando documentos de Prestações de Contas da FAPESP.
+03/03/2026: Revisei o projeto do IASH e programei o envio para a Professora Pauline Phemister. Organizei minha semana e as metas produtivas. Além disso, recebi o valor da RT para a viagem de Portugal, então, passei um bom tempo organizando documentos de Prestações de Contas da FAPESP. Estou pesquisando e escrevendo o artigo (Lisboa). 
 
 
 
