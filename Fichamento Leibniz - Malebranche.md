@@ -132,7 +132,7 @@ Carta 02 - L, 351-354
 
 1. Embora haja uma distancia entre as correspondências não me parece que as teses estão em qualquer ponto discrepantes uma com a outra. Pelo contrário, a convergência entre os assuntos me soa complementar.
 2. Existe um segurança nas leis da natureza de que elas regem o mundo conforme a vontade de Deus.
-3. Leibniz entra em verdadeiro desacordo com Malebranche no momento em que o ocasionalismo se justifica como fundamental para o entendimento do comportamento físico e mecânico. Para ele, as razões são metafísica e sem sempre explicitas e razoáveis como o conhecimento de domínio matemático.
+3. Leibniz entra em verdadeiro desacordo com Malebranche no momento em que o ocasionalismo se justifica como fundamental para o entendimento do comportamento físico e mecânico. Para ele, as razões são metafísica e sempre explicitas e razoáveis como o conhecimento de domínio matemático.
 4. Há espaço suficiente, em meio a discussão da geometria e dos desígnios divinos, para explicar a questão do mal.
 5. Fédon: ver a questão da limitação do corpo/alma.
 6. Mas que tudo pode e deve ser explicado metafisicamente.
@@ -158,4 +158,34 @@ Carta 02 - L, 351-354
 \* A força é ainda a medida do efeito futuro.
 
 \* Leibniz diz que Malebranche parece reconhecer que existe uma fissura entre a medida dos efeitos e o entendimento das causas (razão pela qual eles concordam, pois Malebranche não parece querer se abster da coesão entre o físico e o metafísico) - porém, e para Leibniz, a autoridade do pensamento cartesiano é sobreposta as desconfianças sobre os argumentos da física.
+
+
+
+**Análise histórica - Track**
+
+**Aiton - Leibniz: a Biography**
+
+
+
+Pág 55: \[Fora da Academia, Leibniz conheceu o oratoriano Nicolas Malebranche, que, além de matemático, era na época o principal filósofo cartesiano. Sua obra principal, a \*Recherche de la vérité\*, apareceu pela primeira vez em dois volumes em 1674–75, e outras cinco edições, com correções e acréscimos, foram publicadas durante a vida do autor. As principais contribuições de Malebranche à filosofia cartesiana foram o desenvolvimento da doutrina do Ocasionalismo, que havia sido introduzida por Cordemoy e De la Forge na tentativa de resolver o problema do dualismo cartesiano, e sua concepção da matéria sutil de Descartes como pequenos vórtices elásticos, o que lhe permitiu dar explicações plausíveis para os fenômenos do calor e da luz (Aiton 1972b, pp 69–71). O tema das primeiras conversas de Leibniz com Malebranche foi a doutrina cartesiana de que a extensão é a essência da matéria (\*GP\* 1, pp 321–7).]
+
+
+
+\* Elizabeth and Malebranche
+
+Pág. 90-91 
+
+\- Ela apresenta a Leibniz a obra *Conversations Chrestiennes* de Malebranche em 1678;
+
+\- A falta de uma substância individual uma das pautas para o ataque ao cartesianismo. (Leibniz expõe seu ponto para Elizabeth);
+
+\- Os argumentos se pautam pela característica da simplicidade das formas e quantidades. (Ligação com suas demonstrações a Espinosa);
+
+\- Ponto que o Aiton viu na correspondência de 23 de janeiro 1679: que Leibniz já estava em defesa de uma matéria que difere da extensão. 
+
+\- Para Aiton, Leibniz foi muito crítico sobre as teses cartesianas.
+
+\- Leibniz mostra para Malebranche as fraquezas no argumento de Descartes sobre a demonstração na existência de Deus (2 de julho de 1679. \[A II, 1, p. 472-80]
+
+
 
