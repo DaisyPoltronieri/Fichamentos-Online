@@ -343,10 +343,19 @@ de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento 
 
 ---
 
-04/04/2026: Correção do projeto para submissão do IASH; Correção do verbete sobre Caroline da Ansbach; Participação no Grupo de Estudos de Tradução (tenho atividades de tradução para realizar até semana que vem). Escrita do artigo (Lisboa). 
+04/03/2026: Correção do projeto para submissão do IASH; Correção do verbete sobre Caroline da Ansbach; Participação no Grupo de Estudos de Tradução (tenho atividades de tradução para realizar até semana que vem). Escrita do artigo (Lisboa). 
 
---- 
+---   
 
-05/05/2026: Escrita do artigo (Lisboa); Correção do verbete sobre Caroline de Ansbach; Pesquisa sobre a questão histórica da reabilitação da formas substanciais em Leibniz (Aiton; Antognazza; Robinet).
+05/03/2026: Escrita do artigo (Lisboa); Correção do verbete sobre Caroline de Ansbach; Pesquisa sobre a questão histórica da reabilitação da formas substanciais em Leibniz (Aiton; Antognazza; Robinet).
+
+---
+
+06/03/2026: Correção do verbete finalizado e submetido para as editoras; Continuação da pesquisa pela história da reabilitação da forma substanciais em Leibniz, hoje direcionei o foco para o Robinet e a obra Leibniz y Malebranche. Correspondências p. 129. Fichamento no trabalho Malebranche. Defini a estrutura do texto para a RED-Iberoamericana. Estudo do TMA - Mapeamento do conceito de conatus. 
+
+---
+
+07/03/2026
+
 
 
