@@ -1,4 +1,4 @@
-**Fichamento: Leibniz - Malebranche**
+Fichamento: Leibniz - Malebranche
 
 
 
@@ -64,7 +64,7 @@ G I, p. 327-28/330-31
 
 
 
-\* O argumento se estende para a questão da **distinção**. Temos uma ideia de distinção até ter outra que ocupa seu lugar.
+\* O argumento se estende para a questão da distinção. Temos uma ideia de distinção até ter outra que ocupa seu lugar.
 
 
 
@@ -78,7 +78,7 @@ Carta 02 - L, 351-354
 
 
 
-\* Ele menciona a obra *Nouvelles de la republique des lettres*.
+\* Ele menciona a obra Nouvelles de la republique des lettres.
 
 
 
@@ -126,20 +126,25 @@ Carta 02 - L, 351-354
 
 
 
-**COMPARAÇÃO SISTEMÁTICA DAS CARTAS**
+COMPARAÇÃO SISTEMÁTICA DAS CARTAS
 
 
 
-1. Embora haja uma distancia entre as correspondências não me parece que as teses estão em qualquer ponto discrepantes uma com a outra. Pelo contrário, a convergência entre os assuntos me soa complementar.
-2. Existe um segurança nas leis da natureza de que elas regem o mundo conforme a vontade de Deus.
-3. Leibniz entra em verdadeiro desacordo com Malebranche no momento em que o ocasionalismo se justifica como fundamental para o entendimento do comportamento físico e mecânico. Para ele, as razões são metafísica e sempre explicitas e razoáveis como o conhecimento de domínio matemático.
-4. Há espaço suficiente, em meio a discussão da geometria e dos desígnios divinos, para explicar a questão do mal.
-5. Fédon: ver a questão da limitação do corpo/alma.
-6. Mas que tudo pode e deve ser explicado metafisicamente.
+Embora haja uma distancia entre as correspondências não me parece que as teses estão em qualquer ponto discrepantes uma com a outra. Pelo contrário, a convergência entre os assuntos me soa complementar.
+
+Existe um segurança nas leis da natureza de que elas regem o mundo conforme a vontade de Deus.
+
+Leibniz entra em verdadeiro desacordo com Malebranche no momento em que o ocasionalismo se justifica como fundamental para o entendimento do comportamento físico e mecânico. Para ele, as razões são metafísica e sempre explicitas e razoáveis como o conhecimento de domínio matemático.
+
+Há espaço suficiente, em meio a discussão da geometria e dos desígnios divinos, para explicar a questão do mal.
+
+Fédon: ver a questão da limitação do corpo/alma.
+
+Mas que tudo pode e deve ser explicado metafisicamente.
 
 
 
-**Carta de Leibniz a Bayle sobre a filosofia de Malebranche**
+Carta de Leibniz a Bayle sobre a filosofia de Malebranche
 
 
 
@@ -153,17 +158,41 @@ Carta 02 - L, 351-354
 
 \* Para Leibniz, Malebranche percebe que há uma discrepância entre a causa e o efeito. A força deve ser calculada pelo efeito que um corpo pode produzir.
 
-**\* Hipótese minha: o efeito é o que garante que o mecanicismo funciona e é uma forma de rastrear a causa metafísica do movimento dos corpos. (Por isso ele concorda com Malebranche).**
+\* Hipótese minha: o efeito é o que garante que o mecanicismo funciona e é uma forma de rastrear a causa metafísica do movimento dos corpos. (Por isso ele concorda com Malebranche).
 
 \* A força é ainda a medida do efeito futuro.
 
 \* Leibniz diz que Malebranche parece reconhecer que existe uma fissura entre a medida dos efeitos e o entendimento das causas (razão pela qual eles concordam, pois Malebranche não parece querer se abster da coesão entre o físico e o metafísico) - porém, e para Leibniz, a autoridade do pensamento cartesiano é sobreposta as desconfianças sobre os argumentos da física.
 
+---
+
+**31 Juillet 1679. Malebranche a Leibniz (In Robinet) p. 129;**
+
+(§5) Conjunturas históricas sobre o debate dos cartesianos - Arnauld.
+
+4 Août 1679. Leibniz a Malebranche.
+
+Exposição leibniziana dos problemas da matemática analítica a Malebranche - Las racines de Cardan (ou fórmula de Cardano)
+
+Desenvolvido no século XVI por matemáticos italianos como Scipione del Ferro, Niccolò Fontana Tartaglia e publicado por Gerolamo Cardano, este método é fundamental para a álgebra, pois permite resolver equações cúbicas de forma geral, de maneira análoga à fórmula de Bhaskara para equações quadráticas.
+
+---
+
+\* 1685. Analyse et commentaire de la Réponse au livre des Vraies et des Fausses Idées de Malebranche. (In Robinet) p. 202;
+
+§4 *Eu afirmo, disse ele, que a extensão inteligível, os números, o infinito, em uma palavra todas as naturezas imutáveis, que Deus encerra na imensidade e simplicidade de sua substância infinitamente infinita, podem, sem ideia, unir-se à alma de maneira que ela as contemple. Eu afirmo até mesmo que só se conhece as criaturas por meio dessa substância divina e inteligível na qual o próprio Deus as vê.* (p. 205) - \[Paráfrase: a alma é capaz de contemplar os certames de infinitude que Deus cria - e Deus contempla todas as coisas pelas almas].
+
+§11 As modificações da própria substância não são gerais. 
+
+§14 todas as nossas percepções são modalidades essencialmente representativas. 206.
+
+(...) p. 208 Por extensão ou corpo entendo a mesma coisa. Falo aos cartesianos que o Sr. Arnaud defende. Todas as modificações de que a extensão é capaz consistem apenas em diversas figuras, ou \[se] se quiser em figuras e em movimentos.
 
 
-**Análise histórica - Track**
 
-**Aiton - Leibniz: a Biography**
+Análise histórica - Track
+
+Aiton - Leibniz: a Biography
 
 
 
@@ -173,19 +202,17 @@ Pág 55: \[Fora da Academia, Leibniz conheceu o oratoriano Nicolas Malebranche, 
 
 \* Elizabeth and Malebranche
 
-Pág. 90-91 
+Pág. 90-91
 
-\- Ela apresenta a Leibniz a obra *Conversations Chrestiennes* de Malebranche em 1678;
+\- Ela apresenta a Leibniz a obra Conversations Chrestiennes de Malebranche em 1678;
 
 \- A falta de uma substância individual uma das pautas para o ataque ao cartesianismo. (Leibniz expõe seu ponto para Elizabeth);
 
 \- Os argumentos se pautam pela característica da simplicidade das formas e quantidades. (Ligação com suas demonstrações a Espinosa);
 
-\- Ponto que o Aiton viu na correspondência de 23 de janeiro 1679: que Leibniz já estava em defesa de uma matéria que difere da extensão. 
+\- Ponto que o Aiton viu na correspondência de 23 de janeiro 1679: que Leibniz já estava em defesa de uma matéria que difere da extensão.
 
 \- Para Aiton, Leibniz foi muito crítico sobre as teses cartesianas.
 
-\- Leibniz mostra para Malebranche as fraquezas no argumento de Descartes sobre a demonstração na existência de Deus (2 de julho de 1679. \[A II, 1, p. 472-80]
-
-
+\- Leibniz mostra para Malebranche as fraquezas no argumento de Descartes sobre a demonstração na existência de Deus (2 de julho de 1679. \[A II, 1, p. 472-80].
 
