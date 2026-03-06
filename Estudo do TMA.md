@@ -163,3 +163,15 @@ inextensum est, quod erat demonstrandum.
 
 \[Pontuações: o conatus nessa passagem tem uma função mecânica que é explicar que o limite entre dois corpos, durante o choque, se confunde e eles se tornam coesos e contínuos entre si, até que o seu limite seja restaurado (**interpretação**: o limite só pode ser restaurado pela própria natureza do corpo que recupera *o* conatus do início do movimento].
 
+
+
+06/03/2026 
+
+
+
+(17.) Nenhum conatus sem movimento dura além de um momento, exceto nas mentes. Pois o que, no instante, é conatus, no tempo é movimento do corpo: aqui se abre a porta para quem vier a tratar da verdadeira discriminação entre corpo e mente, até agora por ninguém explicada. Com efeito, todo corpo é uma mente momentânea, ou seja, carente de recordação, porque não retém além de um instante o seu próprio conatus e o conatus alheio contrário (pois são necessários dois — ação e reação, ou comparação e, por conseguinte, harmonia — para a sensação, e sem os quais não há sensação alguma, é necessário prazer ou dor). Portanto, carece de memória, carece do sentimento de suas próprias ações e paixões, carece de pensamento.
+
+
+
+\[Pontuações: a mente não dissipa movimento. (Interpretação: sua natureza é propícia para o movimento, por isso nela ele não se dissipa). Todo corpo é uma mente momentânea (porque o corpo perece em algum momento/tempo). A recordação não está no corpo, mas na mente que supera o tempo e o momento. (A qualidade do pensar se ampara na sua experiência corpórea, mas aplicando a ela a sua razão de existência para além do que é temporal). O tempo e a corporeidade complementam a mente (como pares de opostos), pois o que a mente quer é superar o efêmero e através do corpo (e das relações físicas e comparativas proporcionadas por ele) a mente contempla a contraposição. O corpo nada contém, enquanto a mente se dispõe a todas as ações. O conatus tem efeitos passageiros na matéria, mas na mente supera o tempo. 
+
