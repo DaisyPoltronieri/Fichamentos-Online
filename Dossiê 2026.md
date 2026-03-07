@@ -351,11 +351,16 @@ de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento 
 
 ---
 
-06/03/2026: Correção do verbete finalizado e submetido para as editoras; Continuação da pesquisa pela história da reabilitação da forma substanciais em Leibniz, hoje direcionei o foco para o Robinet e a obra Leibniz y Malebranche. Correspondências p. 129. Fichamento no trabalho Malebranche. Defini a estrutura do texto para a RED-Iberoamericana. Estudo do TMA - Mapeamento do conceito de conatus. 
+06/03/2026: Correção do verbete finalizado e submetido para as editoras; Continuação da pesquisa pela história da reabilitação da forma substanciais em Leibniz, hoje direcionei o foco para o Robinet e a obra Leibniz y Malebranche. Correspondências p. 129: Fichamento no trabalho Malebranche. Defini a estrutura do texto para a RED-Iberoamericana. Estudo do TMA - Mapeamento do conceito de conatus. 
 
 ---
 
 07/03/2026
+08/03/2026: Continuação da pesquisa pela história da reabilitação da forma substanciais em Leibniz. Escrita a introdução do texto de apresentação da RED Iberoamericana Leibniz. Estudo do TMA - Mapeamento. 
+
+---
+
+09/03/2026: Retomada da escrita do artigo de Lisboa. Estudo do TMA - Mapeamento. Formular uma síntese para a pesquisa pela história da reabilitação da forma substanciais em Leibniz.
 
 
 
