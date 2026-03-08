@@ -356,11 +356,11 @@ de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento 
 ---
 
 07/03/2026
-08/03/2026: Continuação da pesquisa pela história da reabilitação da forma substanciais em Leibniz. Escrita a introdução do texto de apresentação da RED Iberoamericana Leibniz. Estudo do TMA - Mapeamento. 
+08/03/2026: Continuação da pesquisa pela história da reabilitação da forma substanciais e as teses com Malebranche (Aiton - Leibniz: a Biography). Revisão da estrutura do artigo para a RED Iberoamericana Leibniz.
 
 ---
 
-09/03/2026: Retomada da escrita do artigo de Lisboa. Estudo do TMA - Mapeamento. Formular uma síntese para a pesquisa pela história da reabilitação da forma substanciais em Leibniz.
+09/03/2026: Retomada da escrita do artigo de Lisboa (Rever todo o fichamento). Estudo do TMA - Mapeamento. Formular uma síntese para a pesquisa pela história da reabilitação da forma substanciais em Leibniz. Escrita a introdução do texto de apresentação da RED Iberoamericana Leibniz.
 
 
 
