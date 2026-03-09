@@ -165,7 +165,7 @@ inextensum est, quod erat demonstrandum.
 
 
 
-06/03/2026 
+06/03/2026
 
 
 
@@ -173,5 +173,27 @@ inextensum est, quod erat demonstrandum.
 
 
 
-\[Pontuações: a mente não dissipa movimento. (Interpretação: sua natureza é propícia para o movimento, por isso nela ele não se dissipa). Todo corpo é uma mente momentânea (porque o corpo perece em algum momento/tempo). A recordação não está no corpo, mas na mente que supera o tempo e o momento. (A qualidade do pensar se ampara na sua experiência corpórea, mas aplicando a ela a sua razão de existência para além do que é temporal). O tempo e a corporeidade complementam a mente (como pares de opostos), pois o que a mente quer é superar o efêmero e através do corpo (e das relações físicas e comparativas proporcionadas por ele) a mente contempla a contraposição. O corpo nada contém, enquanto a mente se dispõe a todas as ações. O conatus tem efeitos passageiros na matéria, mas na mente supera o tempo. 
+\[Pontuações: a mente não dissipa movimento. (Interpretação: sua natureza é propícia para o movimento, por isso nela ele não se dissipa). Todo corpo é uma mente momentânea (porque o corpo perece em algum momento/tempo). A recordação não está no corpo, mas na mente que supera o tempo e o momento. (A qualidade do pensar se ampara na sua experiência corpórea, mas aplicando a ela a sua razão de existência para além do que é temporal). O tempo e a corporeidade complementam a mente (como pares de opostos), pois o que a mente quer é superar o efêmero e através do corpo (e das relações físicas e comparativas proporcionadas por ele) a mente contempla a contraposição. O corpo nada contém, enquanto a mente se dispõe a todas as ações. O conatus tem efeitos passageiros na matéria, mas na mente supera o tempo.
+
+
+
+09/03/2026
+
+
+
+(25.) Além disso, se os inícios fossem iguais, também os fins seriam iguais; logo, no momento do choque o corpo mais veloz atuaria sobre o mais lento apenas tanto quanto o mais lento sobre o mais veloz — o que é absurdo. Portanto, os conatus devem ser **desiguais**. 
+
+
+
+\[Unde arcus inassignabilis circuli majoris major est quam minoris: et linea quaelibet, ducta a centro ad circumferentiam, circulo commensurabilis, seu circumductione sua circuli genitrix, est sector minimus perpetuo crescens, sed intra inextensionem.] Donde um arco inassignável de um círculo maior é maior do que o de um círculo menor; e toda linha traçada do centro à circunferência, comensurável ao círculo — isto é, geradora do círculo por sua rotação — constitui um setor mínimo que cresce continuamente, mas dentro da inextensão.
+
+
+
+\[Pontuações: o conatus deve ser desigual entre os corpos, pois um corpo mais forte ou mais veloz percorre mais espaço desde o mesmo instante inicial. Se fossem iguais, produziriam efeitos iguais no encontro, o que é absurdo. A desigualdade dos conatus implica, portanto, desigualdade nos pontos ou partes de espaço percorridas. A geometria do círculo ilustra isso: um arco infinitamente pequeno de um círculo maior é maior que o de um menor, e o raio ao girar gera continuamente o setor do círculo.]
+
+
+
+\[Interpretação: o conatus precisa ser desigual em cada corpo, pois cada um produz sua capacidade de atuação e resistência; ao passo em que pela própria condição de movimento inicial é capaz de gerar dimensão (exemplificado pela geometria); ou seja, pela própria capacidade do corpo gera-se uma figuração a partir de si mesmo.]
+
+
 
