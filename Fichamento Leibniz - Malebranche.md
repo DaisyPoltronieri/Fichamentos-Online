@@ -1,12 +1,6 @@
 Fichamento: Leibniz - Malebranche
-
-
-
 Carta 01 - L, 209-212
-
 G I, p. 327-28/330-31
-
-
 ----------------------------------------------------------------------------------------------------------------------------
 13/23 de janeiro de 1679
 \[6 parágrafos]:
@@ -47,7 +41,7 @@ Carta 02 - L, 351-354
 
 \* Que a geometria e o princípio da ordem geral estão vinculados uma vez que podem ordenar o que é conhecido e o desconhecido: o exemplo entre a diferença da parábola e da elipse é dado, onde as leis que se aplicam a elas são iguais, porém há uma diferença tênue entre suas naturezas. A geometria se aplica, porém a distinção existe, mesmo que seja da menor possível ou infinitamente pequena. (§ 2).
 
-\* O mesmo se aplica pelos princípios da física que em ordem de igualdade e desigualdade são especialmente pequenas - o erro é não distinguir com suficiente precisam cada caso. (§ 3).
+\* O mesmo se aplica pelos princípios da física que em ordem de igualdade e desigualdade são especialmente pequenas - o erro é não distinguir com suficiente precisão cada caso. (§ 3).
 
 \* Pontua a crítica a Descartes: quantidade de movimento por força.
 
@@ -127,10 +121,16 @@ Leibniz comenta as regras do movimento e do choque.
 * "15) Les principes de la Logique réelle ou d’une certaine analyse generale indépendante de l’Algebre, dont je me suis servi icy, pour mettre des réglés ou des theoremes à l’epreuve a posteriori, sans pourtant recou¬ rir aux expériences des sens ; n’ayant gueres esté employés auparavant ; je ne m’étonne point que d’excellens hommes, comme Des Cartes et l’Au¬ teur de la Recherche de la Vérité n’y ont pas encor pris garde. Si ce célébré auteur leur donnera son approbation, on sera d’autant plus porté à les observer doresnavant".
 * As regras do movimento estão para além da análise algébrica.
 ----------------------------------------------------------------------------------------------------------------------------
-Análise histórica - Track
-Aiton - Leibniz: a Biography
+							  Book Six
+                                                  The Search After Truth
+
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------
-Pág 55: \[Fora da Academia, Leibniz conheceu o oratoriano Nicolas Malebranche, que, além de matemático, era na época o principal filósofo cartesiano. Sua obra principal, a \*Recherche de la vérité\*, apareceu pela primeira vez em dois volumes em 1674–75, e outras cinco edições, com correções e acréscimos, foram publicadas durante a vida do autor. As principais contribuições de Malebranche à filosofia cartesiana foram o desenvolvimento da doutrina do Ocasionalismo, que havia sido introduzida por Cordemoy e De la Forge na tentativa de resolver o problema do dualismo cartesiano, e sua concepção da matéria sutil de Descartes como pequenos vórtices elásticos, o que lhe permitiu dar explicações plausíveis para os fenômenos do calor e da luz (Aiton 1972b, pp 69–71). O tema das primeiras conversas de Leibniz com Malebranche foi a doutrina cartesiana de que a extensão é a essência da matéria (\*GP\* 1, pp 321–7).]
+						 Análise histórica - Track
+						Aiton - Leibniz: a Biography
+Pág 55: [Fora da Academia, Leibniz conheceu o oratoriano Nicolas Malebranche, que, além de matemático, era na época o principal filósofo cartesiano. Sua obra principal, a \*Recherche de la vérité\*, apareceu pela primeira vez em dois volumes em 1674–75, e outras cinco edições, com correções e acréscimos, foram publicadas durante a vida do autor. As principais contribuições de Malebranche à filosofia cartesiana foram o desenvolvimento da doutrina do Ocasionalismo, que havia sido introduzida por Cordemoy e De la Forge na tentativa de resolver o problema do dualismo cartesiano, e sua concepção da matéria sutil de Descartes como pequenos vórtices elásticos, o que lhe permitiu dar explicações plausíveis para os fenômenos do calor e da luz (Aiton 1972b, pp 69–71). O tema das primeiras conversas de Leibniz com Malebranche foi a doutrina cartesiana de que a extensão é a essência da matéria (\*GP\* 1, pp 321–7).]
 ----------------------------------------------------------------------------------------------------------------------------
 Elizabeth and Malebranche - Pág. 90-91
 - Ela apresenta a Leibniz a obra Conversations Chrestiennes de Malebranche em 1678;
@@ -144,7 +144,7 @@ Pág. 117
 * Malebranche em confronto com Arnauld (1683) sobre a teoria do conhecimento de Descartes.
 * Leibniz e Tschirnhaus comentam (A II, 1, p 541-542) que Malebranche não se aprofundou na questão da arte do descobrimento geral.
 * Leibniz elabora uma teoria do conhecimento contra a tese de clareza e distinção de Descartes. pág 118
-* contra Hobbes também que assegura que tudo depende da vontada (nomeação).
+* contra Hobbes também, que assegura que tudo depende da vontade (nomeação).
 ----------------------------------------------------------------------------------------------------------------------------
 Pág. 190 
 (A I 7 p. 191-9) 
@@ -163,4 +163,6 @@ Leibniz faz um comentário a tese de Malebranche e Descartes que sustenta a filo
 Pág. 277
 Leibniz menciona a Lady Masham (4 de julho de 1706 - GP III p. 382-386) que a teoria de Malebranche do ocasionalismo, para explicar a relação mente e corpo, em sua filosofia não tem propósito. Isso porque sua tese sobre a harmonia pré-estabelecida oferece outros meios para estabelecer uma razão para essa relação. 
 ----------------------------------------------------------------------------------------------------------------------------
+                                              Sobre a liberade em Malebranche
+
 
