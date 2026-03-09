@@ -360,7 +360,10 @@ de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento 
 
 ---
 
-09/03/2026: Retomada da escrita do artigo de Lisboa (Rever todo o fichamento). Estudo do TMA - Mapeamento. Formular uma síntese para a pesquisa pela história da reabilitação da forma substanciais em Leibniz. Escrita a introdução do texto de apresentação da RED Iberoamericana Leibniz.
+09/03/2026: Retomada da escrita do artigo de Lisboa (Rever todo o fichamento). Reunião com Ezequiel sobre o capítulo de livro, alinhamento e correções. Estudo do TMA - Mapeamento.Formular uma síntese para a pesquisa pela história da reabilitação da forma substanciais em Leibniz.
 
+---
 
+10/03/2026: Atividades do grupo de tradução. Escrita da introdução do texto de apresentação da RED Iberoamericana Leibniz. Correções e escrita do capítulo do livro com Ezequiel. Escrita da introdução do texto de apresentação da RED Iberoamericana Leibniz. Escrita do artigo de Lisboa (retomada pela leitura do livro de Susan Peppers-Bates). Revisão dos artigos na pasta de arquivos do HD (Malebranche). 
 
+---
