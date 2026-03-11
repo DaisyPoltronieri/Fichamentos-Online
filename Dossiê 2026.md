@@ -364,6 +364,8 @@ de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento 
 
 ---
 
-10/03/2026: Atividades do grupo de tradução. Escrita da introdução do texto de apresentação da RED Iberoamericana Leibniz. Correções e escrita do capítulo do livro com Ezequiel. Escrita da introdução do texto de apresentação da RED Iberoamericana Leibniz. Escrita do artigo de Lisboa (retomada pela leitura do livro de Susan Peppers-Bates). Revisão dos artigos na pasta de arquivos do HD (Malebranche). 
+10/03/2026: Atividades do grupo de tradução: transcrições de 33 páginas da versão da academia e revisão da tradução feita pelo grupo. Correções e escrita do capítulo do livro com Ezequiel, organização de notas, bibliografia e escrita da introdução. Revisão dos artigos na pasta de arquivos do HD (Malebranche): organização dos artigs lidos e não lidos.
 
 ---
+
+11/03/2026: Escrita da introdução do texto de apresentação da RED Iberoamericana Leibniz. Escrita do artigo de Lisboa (retomada pela leitura do livro de Susan Peppers-Bates). 
