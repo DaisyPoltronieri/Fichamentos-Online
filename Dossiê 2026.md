@@ -368,4 +368,8 @@ de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento 
 
 ---
 
-11/03/2026: Escrita da introdução do texto de apresentação da RED Iberoamericana Leibniz. Escrita do artigo de Lisboa (retomada pela leitura do livro de Susan Peppers-Bates). 
+11/03/2026: Participação no grupo de estudo de tradução Leibniz. Revisão detalhada do capítulo de livro com Ezequiel. Escrita do artigo de Lisboa (retomada pela leitura do livro de Nadeler sobre o ocasionalismo na modernidade).
+
+---
+
+12/03/2026: Última revisão e leitura do capítulo de livro com Ezequiel. Escrita da introdução do texto de apresentação da RED Iberoamericana Leibniz. Escrita do artigo de Lisboa. TMA - mapeamento. 
