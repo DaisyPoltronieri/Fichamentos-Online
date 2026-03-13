@@ -166,3 +166,29 @@ Leibniz menciona a Lady Masham (4 de julho de 1706 - GP III p. 382-386) que a te
                                               Sobre a liberade em Malebranche
 
 
+
+
+----------------------------------------------------------------------------------------------------------------------------
+- 8 Décembre 1692. Malebranche a Leibniz. (ROBINET, Leibniz y Malebranche) pág. 291;
+* sobre a quantidade de movimento e a impenetrabilidade dos corpos.
+
+ 2 /12 Octobre 1698. Leibniz a Maeebranche. (BR. Malebranche, f. 26-27 : G. I, 354-5-) 
+Au R.P. de Malebranche. Hanover, 2/12 October 1698. 
+* sobre a oposição que Leibniz recebeu de Bayle a respeito do seu Sistema Novo.
+
+Fin 1699 (?). Malebranche a Leibniz (?). (Blampignon, C. I, p. 20.)
+
+Quanto às regras do movimento, peço-lhe, senhor, que me dispense de examiná-las. Já pensei nisso mais do que suficiente, e acredito que meu tempo seria mal empregado nesse tipo de estudo. É a razão que deve guiar meus estudos, e a razão nos ensina que devemos nos dedicar à busca das verdades que são mais necessárias, seja para render a Deus o que lhe devemos, seja para cumprir os deveres da sociedade civil. Quase nada além da religião e do conhecimento de nós mesmos deve nos ocupar, pois mal temos tempo ou facilidade suficiente para meditar ou ler sobre essas coisas para nos instruir.
+
+[A l’égard des règles du mouvement, je vous prie. Monsieur, de me dispenser de les examiner. Je n’y ai déjà que trop pensé, et je crois que mon temps serait mal employé à cette sorte d’étude, c’est la raison qui doit régler mes études, et la raison nous apprend qu’il faut s’appliquer à la recherche des vérités qui sont le plus nécessaires, soit pour rendre à Dieu ce que nous lui devons, soit pour satisfaire aux devoirs de la société civile. Il n’y a guère que la religion et la connaissance de nous-mêmes qui doivent nous occuper, car à peine avons-nous assez de temps ou assez de facilité à méditer ou à lire de ces choses pour nous instruire]
+
+1710. JUGEMENTS SUR MAUEBRANCHE DANS LA THÉODICÉE - pág. 407
+* Partes selecionadas da Teodicéia que fazem alusão as teses ou temas de Malebranche.
+
+Malebranche 1711 sur la Theodicée. (de la main de Leibniz) - pág. 418
+
+
+Estou convencido, assim como o senhor, que Deus faz às suas criaturas todo o bem que pode lhes fazer, agindo, no entanto, como deve agir, ou seja, agindo segundo sua lei que não pode ser senão a ordem imutável de suas perfeições divinas, que Ele ama invencivelmente e que não pode negar nem negligenciar. E que assim sua obra é a mais perfeita que possa existir, não absolutamente, no entanto, mas comparada com os meios que dela são executores.//Je suis persuadé comme vous Monsieur que Dieu fait à ses créatures tout le bien qu’il peut leur faire, agissant néant- moins comme il doit agir, c’est a dire agissant selon sa loi qui ne peut être que l’ordre immüable de ses divines perfections, qu’il aime invinci¬ blement et qu’il ne peut démentir ni négliger. Et qu’ainsi son ouvrage est le plus parfait qui puisse être, non absolument néantmoins, mais com¬ paré aux voyes qui en sont exécutrices.
+
+
+
