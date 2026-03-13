@@ -181,7 +181,7 @@ inextensum est, quod erat demonstrandum.
 
 
 
-(25.) Além disso, se os inícios fossem iguais, também os fins seriam iguais; logo, no momento do choque o corpo mais veloz atuaria sobre o mais lento apenas tanto quanto o mais lento sobre o mais veloz — o que é absurdo. Portanto, os conatus devem ser **desiguais**. 
+(25.) Além disso, se os inícios fossem iguais, também os fins seriam iguais; logo, no momento do choque o corpo mais veloz atuaria sobre o mais lento apenas tanto quanto o mais lento sobre o mais veloz — o que é absurdo. Portanto, os conatus devem ser **desiguais**.
 
 
 
@@ -194,6 +194,32 @@ inextensum est, quod erat demonstrandum.
 
 
 \[Interpretação: o conatus precisa ser desigual em cada corpo, pois cada um produz sua capacidade de atuação e resistência; ao passo em que pela própria condição de movimento inicial é capaz de gerar dimensão (exemplificado pela geometria); ou seja, pela própria capacidade do corpo gera-se uma figuração a partir de si mesmo.]
+
+
+
+13/03/2026
+
+
+
+(25) 
+
+Ergo instanti dato fortior plus spatii absolvet, quam tardior, sed quilibet conatus non potest percurrere uno instanti plus quam punctum, seu partem spatii minorem, quam quae exponi potest; alioquin in tempore percurreret lineam infinitam: est ergo punctum puncto majus. Unde arcus inassignabilis circuli majoris major est quam minoris: et linea quaelibet, ducta a centro ad circumferentiam, circulo commensurabilis, seu circumductione sua circuli genitrix, est sector minimus perpetuo crescens, sed intra inextensionem. Hinc et difficultates de duabus rotis concentricis super plani recta gyratis, de incommensurabilibus, de angulo contactus, et tot alia solvuntur, ad quae explicanda eloquentissimus Belinus omnes totius orbis Philosophos provocaverat, et quibus Sceptici maxime triumphant.
+
+
+
+(...) Dado um instante, o mais forte percorrerá mais espaço do que o mais lento, **mas nenhum movimento pode percorrer em um único instante mais do que um ponto**, ou uma parte do espaço menor do que aquela que pode ser exposta; caso contrário, percorreria uma linha infinita em um tempo: logo, um ponto é maior que outro ponto. Portanto, o arco inassignável de um círculo maior é maior do que o de um menor: e qualquer linha traçada do centro à circunferência, comensurável ao círculo, ou seja, geradora do círculo por sua rotação, é um setor mínimo perpetuamente crescente, mas dentro da inextensão. Daí também se resolvem as dificuldades sobre duas rodas concêntricas girando sobre uma reta plana, sobre os incomensuráveis, sobre o ângulo de contato, e tantas outras, para cuja explicação o eloquentíssimo Belino havia desafiado todos os filósofos de todo o mundo, e com as quais os céticos mais triunfam. (p. 231)
+
+
+
+\[Pontuações: as temáticas abordadas são as rodas concêntricas, os incomensuráveis e o ângulo de contato. Os corpos tem propriedades incomensuráveis entre si no que diz respeito ao espaço e tempo de podem percorrer segundo suas próprias propriedades, por isso, cada ponto remete a um infinitesimal proporcional a cada corpo. O arco ilustra o caso, embora possa haver arcos de diferentes tamanhos inseridos e concatenados entre si, cada arco corresponde as suas próprias propriedades angulares. Isso porque a curvatura é diferente, e a "abertura" angular corresponde a arcos de comprimentos diferentes. A outra forma de ilustrar é através do círculo. Ele diz que, ao retirarmos as propriedades de extensão do circulo o que resta é sua magnitude \[interpreto como uma intensão de determinar o circulo], por isso, **qualquer raio do círculo, ao girar, gera o círculo**. A magnitude retoma as propriedades infinitesimais que compõem um círculo, por essa razão, os infinitésimos de um círculo contém suas propriedades antes de desenhar o setor circular (dando a ele sua propriedade de extensão). Em suma, o trecho permite compreender o conatus por uma perspectiva de relatividade de um ponto, o que torna particular de cada corpo percorrer determinado espaço/tempo em razão de suas propriedades.]
+
+Não tenho certeza essa minha interpretação não está impregnada com a leitura do *Brevis demonstratio*. 
+
+
+
+
+
+
 
 
 
