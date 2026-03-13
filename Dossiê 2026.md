@@ -1,379 +1,270 @@
-Dossiê FAPESP – UFSCar 2026
+# Dossiê FAPESP – UFSCar 2026
 
 https://github.com/DaisyPoltronieri/Fichamentos-Online
 
-**Janeiro**
+---
 
-Data        | Descrição de Atividade       					    |
+# Janeiro
 
-------------+-----------------------------------------------------------------------+
-
-01/01/2026  | Início das atividades de janeiro					    |
-
-------------+-----------------------------------------------------------------------+
-
-02/01/2026  | Leitura e revisão do cronograma; organização de tarefas e prioridades.|
-
-------------+-----------------------------------------------------------------------+
-
-03/01/2026  | Leitura e fichamento do artigo "Injustiça epistémica" para verbete.   |
-
-------------+-----------------------------------------------------------------------+
-
-04/01/2026  | Domingo.								    |
-
-------------+-----------------------------------------------------------------------+
-
-05/01/2026  | Estudo para produção do verbete e fichamento "Leibniz e Hobbes"/livro |
-
-------------+-----------------------------------------------------------------------+
-
-06/01/2026  | Redação de duas páginas do verbete sobre Carolina de Ansbch; leituras |
-
-------------+-----------------------------------------------------------------------+
-
-07/01/2026  | Redação do Verbete - pág. 07 e 08 				    |
-
-------------+-----------------------------------------------------------------------+
-
-08/01/2026  | Reunião com o Ezequiel sobre o capítulo de livro que vamos escrever   |
-
-------------+-----------------------------------------------------------------------+
-
-09/01/2026  | Finalizei a redação do Verbete pág. 09 e 10 organizei a bibliografia  |
-
-------------+-----------------------------------------------------------------------+
-
-10/01/2026  | Levantar bibliografia para escrever o capítulo com o Ezequiel: Novos  |
-
- 	    | Ensaios. Leitura do artigo "Leibniz e as princesas de Sita, 2025.	    |
-
-------------+-----------------------------------------------------------------------+
-
-11/01/2026  | Leitura do artigo da Prof. Celi Hirata sobre o *conatus* entre Leibniz  |
-
- 	    | Hobbes. Início do projeto de pesquisa BEPE: leitura dos manuais e     |
-
- 	    | termos associados a FAPESP para a submissão.			    |
-
-------------+-----------------------------------------------------------------------+
-
-12/01/2026  | Escrita do BEPE e estudos  sobre as correspondência de Leibniz a      |
-
- 	    | Hobbes (1669).							    |
-
-------------+-----------------------------------------------------------------------+
-
-13/01/2026  | Exames de sangue no laboratório de Palmeira d'oeste.		    |
-
-------------+-----------------------------------------------------------------------+
-
-14/01/2026  | Exame oftalmológico na clínica de olhos de Palmeira d'Oeste	    |
-
-------------+-----------------------------------------------------------------------+
-
-15/01/2026  | Escrita do BEPE e finalização do fichamento da carta de Leibniz a     |
-
- 	    | Hobbes.		                                                    |
-
-------------+-----------------------------------------------------------------------+
-
-16/01/2026  | Finalização da escrita do projeto BEPE e estruturação do fichamento da|
-
-            | carta para servir de base para o artigo científico. 		    |
-
-------------+-----------------------------------------------------------------------+
-
-17/01/2026  | Revisão do projeto BEPE; leitura da carta a Jacob Thomasius 1670.     |
-
-------------+-----------------------------------------------------------------------+
-
-18/01/2026  | Leitura da carta a Jacob Thomasius 1670 (p. 93 a 96).                 |
-
-------------+-----------------------------------------------------------------------+
-
-19/01/2026  | Leitura da carta a Jacob Thomasius 1670. (p. 96 a 99); Sistematização |
-
-            | do fichamento das cartas no word - escrita. 		            |
-
-------------+-----------------------------------------------------------------------+
-
-20/01/2026  | Leitura da carta a Jacob Thomasius 1670. (p. 99 a 103); Leitura do    |
-
- 	    | Fichant, pdf. 180, cap. VII sobre Leibniz e o mecanicismo;            |
-
-------------+-----------------------------------------------------------------------+
-
-21/01/2026  | Revisão do fichamento de *Paciduis a Filalete*, reestruturação e seleção|
-
- 	    | de momentos importantes para serem objetos de pesquisa.               |
-
-------------+-----------------------------------------------------------------------+
-
-22/01/2026  | Leitura do artigo do Prof. Edgar Marques intitulado " PERCEPÇÃO,      |
-
- 	    | AUTOCONSCIÊNCIA E CONTINUIDADE EM LEIBNIZ". Correção do projeto de    |
-
- 	    | pós-doutorado/BEPE. 						    |
-
-------------+-----------------------------------------------------------------------+
-
-23/01/2026  | Elaboração de documentos BEPE/Fapesp; Elaboração de documentos SAGe.  |
-
- 	    | Atualização da súmula curricular.					    |
-
-------------+-----------------------------------------------------------------------+
-
-24/01/2026  | Fichamento do artigo do Prof. Edgar Marques intitulado " PERCEPÇÃO,   |
-
- 	    | AUTOCONSCIÊNCIA E CONTINUIDADE EM LEIBNIZ".                           |
-
-------------+-----------------------------------------------------------------------+
-
-25/01/2026  | Bernstein, Howard. "conatus, Hobbes, and the Young Leibniz" revisão do|
-
-            | fichamento feito em 17/10/2025; 					    |
-
-------------+-----------------------------------------------------------------------+
-
-26/01/2026  | Escrita do capítulo de livro para publicação em coautoria com Ezequiel|
-
-------------+-----------------------------------------------------------------------+
-
-27/01/2026  | Escrita do capítulo de livro e fichamento do artigo para ampliação de |
-
- 	    | bibliografia: "substância, sujeito e atividade em Hobbes e Leibniz" de|
-
- 	    | Celi Hirata, 2017, revista reflexões de Fortaleca-CE. 		    |
-
-------------+-----------------------------------------------------------------------+
-
-28/01/2026  | Estruturação do artigo e ficha de leitura.			    |
-
-------------+-----------------------------------------------------------------------+
-
-29/01/2026  | Estudo da bibliografia primária (Theoria Motus Abstract); seleção de  |
-
- 	    | trechos e estudo da abordagem dos conceitos; escrita do capítulo.     |
-
-------------+-----------------------------------------------------------------------+
-
-30/01/2026  | Escrita do capítulo do livro; Elaboração das diretrizes de pesquisa e |
-
- 	    | do artigo que deve ser produzido; 				    |
-
-------------+-----------------------------------------------------------------------+
-
-31/01/2026  | Estudo do TMA; elaboração de estratégia metodológica para mapear os   |
-
-01/02/2026  | conceitos centrais; Escrita do capítulo.		    		    |
-
-------------+-----------------------------------------------------------------------+
-
-
-
-**Fevereiro**
-
-------------+-----------------------------------------------------------------------+
-
-02/02/2026- | Escrita do capítulo; Retomada da tradução; Início da semana     	    |
-
-07/02/2026  | de viagem para Maringá. **Objetivo:** tradução com a professora   	    |
-
- 	    | Drª Patrícia Sita - texto GP IV, 393-399;  			    |
-
-------------+-----------------------------------------------------------------------+
-
-08/02/2026  | Chegada em Jales-SP (residência atual). **Relatório de atividades de**    |
-
- 	    | **viagem:** Na terça-feira retirei meu diploma de doutorado na UNICAMP e  |
-
- 	    | fiz a autenticação e reconhecimento de firma da assinatura em vista da|
-
- 	    | possibilidade da bolsa BEPE requerer a documentação. No mesmo dia fui |
-
-            | para Maringá-PR. Na UNICAMP digitalizei o livro *La Refome de la dyna*- |
-
-            | *mique* de Michel Fichant, tendo em vista o plano de estudo elaborado.  |
-
-            | Na quarta-feira fiz a leitura do texto de tradução.                   |
-
- 	    | Na quinta, na sexta e no sábado, eu junto com a professora dra. Patrí-|
-
- 	    | cia Sita (UEM) mitigamos a tradução e desenvolvemos uma versão aprimo-|
-
- 	    | rada dela. O próximo passo desse trabalho é desenvolver pesquisa para |
-
- 	    | tas e tomar decisões conceituais gerais. 	   			    |
-
-------------+-----------------------------------------------------------------------+
-
-09/02/2026  | Estudo do TMA - estudo pontual das páginas sobre as definições do TMA |
-
-            | e a relação com o conceito de *conatus* - a força elástica. Revisão da  |
-
- 	    | tradução com a Patrícia. Elaboração do documento para Pesquisador vi- |
-
- 	    | sitante na universidade do Porto - Portugal com o professor Meirinhos.|
-
-------------+-----------------------------------------------------------------------+
-
-10/02/2026  | Envio do capítulo de livro em coautoria com Ezequiel Barros; Estudo do|
-
- 	    | TMA e análise de trecho destacado; Revisão da Tradução; Elaboração de |
-
- 	    | documento de pesquisa para a Universidade do Porto (previsão de 09 a  |
-
- 	    | 27 de junho deste ano. 						    |
-
-------------+-----------------------------------------------------------------------+
-
-11/02/2026  | Reunião com a professora Pauline Phemister visando a atualização do   |
-
- 	    | projeto de pesquisa e a ingressão nos grupos de estudos vigentes. Docu|
-
- 	    | mentação da universidade do Porto assinada pelos professores e super- |
-
-            | visores de estágio. Análise do TMA p. 229. 			    |
-
-------------+-----------------------------------------------------------------------+
-
-12	    |Revisão do texto de tradução §3; Atualização do projeto BEPE; Documento|
-
-13/02/2026  |de viagem para Maringá com assinatura coletada da professora Patrícia; |
-
- 	    |Atualização do cronograma de Pesquisa na Universidade do Porto e compra|
-
- 	    |de passagem, seguro viagem. (Perdi um tempo de trabalho nesses dias por|
-
-  	    |questões de saúde: extraí um dente do siso e fui ao AME-Jales tirar um |
-
- 	    |raio X. Pretendo compensar o estudo do TMA no sábado. Fichei o capítulo|
-
- 	    |sobre Malebranche para aprofundar os assuntos sobre o movimento e o    |
-
- 	    |ocasionalismo. Andrew Pyle - vou fazer desse fichamento o objeto de co-|
-
- 	    |leta de informações na universidade do Porto e transformar em artigo 2.|
-
-------------+-----------------------------------------------------------------------+
-
-14/02/2026  | Revisei a tradução realizada em colaboração com a Professora Patrícia |
-
- 	    | fiz duas notas de rodapé sobre a questão da matemática, da geometria e|
-
-       	    | da aritmética. Análise do TMA p. 229. 				    |
-
-------------+-----------------------------------------------------------------------+
-
-15/02/2026  | Estudei o texto da Enciclopédia Stanford sobre Johann Sturm com o ob- |
-
- 	    | jetivo de verificar questão do ocasionalismo no que tange os autores  |
-
- 	    | mencionados por Leibniz. Sturm não me parece ser muito estudado dentro|
-
- 	    | do cenário leibnizianos, mas considerar seus argumentos pode ser útil |
-
-            | para justificar a fuga do ocasionalismo após o TMA e o *Pacídios*.      |
-
-  	    | Fiz a revisão da tradução e redigi a nota 04.			    |
+**01/01/2026:**
+Início das atividades de janeiro.
 
 ---
 
-16/02/2026: Fiz notas de revisão na tradução, estou 5§ parágrafo do texto, e as notas estão sendo pesquisadas e referenciadas com outras bibliografias. Fiz a leitura do TMA e destaquei que o conatus pode ter se tornado um modo de força derivada para explicitar que é começo (impetus) e fim (conatus). Elaborei a ficha de leitura sobre Johann Sturm e articulei essa leitura com o texto *On the Correction of Metaphysics and the Concept of Substance* (L, p. 432). O trabalho reforçou a hipótese de que o conatus não se vincula à tendência ao movimento e que suas partes contínuas e contíguas geram impenetrabilidade e, consequentemente, coesão dos corpos. Além disso, mapiei autores que Leibniz menciona para me fornecer um panorama geral do seu século e as questão ligadas a metodologia do conhecimento. Pesquisei sobre Mersenne, Arnauld e Boyle. Adicionei um nota, no fichario físico sobre Huygens e que sua filosofia natural impactou diretamente as ideias de Newton sobre força centrífuga e o movimento dos planetas.
+**02/01/2026:**
+Leitura e revisão do cronograma; organização de tarefas e prioridades.
 
 ---
 
-17/02/2026: Trabalhei na pesquisa sobre bases históricas lendo e fazendo o fichamento do capítulo do livro "Aristotle and the Renaissence" de Charles B. Schmitt. Na primeira parte do livro o autor mostra que o aristotelismo, embora vigoroso no período do XIII, tornou-se alvo de críticas dos intelectuais do XVI e XVII. Por causa disso, desvencilhar-se do pensamento e do método aristotélico ganhava solides, ao passo em que as questões relativas ao entendimento da metafísica e da física se acumulavam entre os interpretes de Aristóteles, principalmente depois da tradução de Moerbeck. Fiz a revisão da tradução e nota de rodapé que tange a questão do movimento e dos vórtices. Aiton, tem um texto sobre o tema e ajuda muito a compreender as questões que estão sendo postas na tradução. Trabalhei também na pontuação do TMA que na parte 13 das definições fica ainda mais abstrato o conceito de conatus - como um ponto que é capaz de se preencher e gerar extensão (aparentemente).
+**03/01/2026:**
+Leitura e fichamento do artigo "Injustiça epistémica" para verbete.
 
 ---
 
-18/02/2026
-19/02/2026: Fiz minha inscrição no LSNA com o texto sobre Caroline de Ansbach. Fiz a submissão no BEPE da FAPESP e no PLSS de Edimburgo. Revisei minhas diretrizes de pesquisa e redigi um resumo para possível apresentação na Universidade do Porto (15 a 21 de junho) que será supervisionado pelo professor José Meirinhos.
+**04/01/2026:**
+Domingo.
 
 ---
 
-20/02/2026: Fiz o estudo do TMA; retomei a leitura do livro "Aristotle and the Renaissence" de Charles B. Schmitt; Fiz a leitura do capítulo do livro de Richard Arthur "Leibniz" p. 99 a 122.
+**05/01/2026:**
+Estudo para produção do verbete e fichamento "Leibniz e Hobbes"/livro.
 
 ---
 
-21/02/2026: Revisão da tradução com reelaboração de notas de rodapé. § 8 - a questão do ar e interferência sobre o movimento.
-O que é vis respectivae?. Terminei a revisão. Falta: rever as notas, verificar a leitura fluida.
+**06/01/2026:**
+Redação de duas páginas do verbete sobre Carolina de Ansbch; leituras.
 
 ---
 
-22/02/2026: Leitura do texto de R. Arthur, book: Leibniz. Sobre a relação Leibniz-Espinosa. Dois eixos centrais do documento 1) a questão da divisibilidade ao infinito (que interage com o conceito de conatus) e que Leibniz parece discordar de Espinosa no que diz respeito a constituição das almas e a sua modalidade. Modalidade de ser é ser para Espinosa, para Leibniz não. 2) a questão do movimento que Leibniz explica que a causa e o efeito devem ser equipolentes. Espinosa não vê problemas com a física de Descartes embora ele disse "Spinoza did not see the defects of Descartes’s rules of motion; he was surprised when I began to show him that they violate the equality of cause and effect’ (Foucher
-de Careil 1854: lxiv)". O ponto que se interpõe no argumento entre o movimento e a força viva é a questão da expressão e da relatividade do movimento.
+**07/01/2026:**
+Redação do Verbete - pág. 07 e 08.
 
 ---
 
-23/02/2023: Fiz a última nota na tradução e encaminhei para a Prof. Patrícia. Espera-se que até dia 19/03 (quando estarei em São Carlos com a Prof. Celi essa tradução possa estar pronta e ser apresentada como proposta de trabalho para publicação). Defini o tema do resumo de até 300 palavras para submissão do evento Correspondências com Espinosa - FFLCH. Com esse trabalho vou desenvolver uma lacuna na minha formação sobre o Espinosa e ao mesmo tempo trabalhar com Leibniz e o conceito de conatus. O título temporário que eu dei para o resumo é: *Correspondências entre Espinosa e G. W. Leibniz: o conceito de conatus e a distinção dos seres*. Disparei também os pedidos de cartas de recomendações para o IASH e a submissão do meu projeto. 
+**08/01/2026:**
+Reunião com o Ezequiel sobre o capítulo de livro que vamos escrever.
 
 ---
 
-24/02/2026: Fiz o resumo para proposta de trabalho sobre Espinosa e Leibniz. A intenção é trabalhar o conceito de conatus entre os autores e pleitear as hipóteses com especialistas. O título é: Conatus e Natureza Corpórea - Atividade, Divisibilidade e Movimento em Espinosa e Leibniz. Fiz a submissão no portal da USP-FFLCH. Além disso, paralelamente, comecei a ler as correspondências entre Leibniz e Malebranche. Fiz o fichamento da primeira dupla de cartas contida no Papers and Letters. 
+**09/01/2026:**
+Finalizei a redação do Verbete pág. 09 e 10 organizei a bibliografia.
 
 ---
 
-25/02/2026: Fiz o fichamento da segunda carta de Leibniz a Malebranche que estava contida no Papers and Letters. Estruturei a análise dos parágrafos e fiz alguns comentário. Fiz o estudo do TMA paralelamente. Além disso, participei do grupo de estudo de tradução luso-brasileira (das 9:00 ao 12:30) e das (15 as 16:30) participei do treinamento sobre acadêmicos e o uso de IA para a pesquisa em humanidades (certificados emitidos na próxima semana).
+**10/01/2026:**
+Levantar bibliografia para escrever o capítulo com o Ezequiel: Novos Ensaios. Leitura do artigo "Leibniz e as princesas de Sita, 2025".
 
 ---
 
-26/02/2026: Sistematização das Cartas de Leibniz a Malebranche: ênfase nos assuntos mais importante para pesquisa e desenvolvimento do artigo que será apresentado em Lisboa e aprofundado em Porto. Sumarização do artigo para a apresentação em Lisboa.
+**11/01/2026:**
+Leitura do artigo da Prof. Celi Hirata sobre o *conatus* entre Leibniz Hobbes. Início do projeto de pesquisa BEPE: leitura dos manuais e termos associados a FAPESP para a submissão.
 
 ---
 
-27/06/2026: Revisão dos fichamentos sobre Malebranche; escrita da primeira parte do texto (Lisboa). Adequação do projeto de pós-doutorado para o IASH. Estudo do uso da Reserva Técnica e pedido de uso para passagens aéreas para Portugal. Recolhimento do INSS e ressarcimento via SIAF/FAPESP.
+**12/01/2026:**
+Escrita do BEPE e estudos sobre as correspondência de Leibniz a Hobbes (1669).
 
 ---
 
-28/06/2026: Preenchimento do formulário do IASH. Escrita do artigo (Lisboa). Fichamento das correspondências de Leibniz-Bayle sobre Malebranche. Autenticação de recibo das diárias no cartório de Jales para prestação de contas no SAGe.
-
---- MARÇO/2026 --------------------------------------------------------------------------------------------------------------------------------------------------------
-
-01/03/2026 (DOMINGO): Fichamento e sistematização da carta de Leibniz-Bayle sobre Malebranche. Escrita do artigo (Lisboa). Prestação de contas SAGe/FAPESP sobre diárias e passagens aéreas para Portugal (15 a 27 de junho 2026). Carta de recomendação IASH.
+**13/01/2026:**
+Exames de sangue no laboratório de Palmeira d'oeste.
 
 ---
 
-02/03/2026: Passei o dia convertendo o projeto no formato BEPE para o formato do IASH. Fiz correções gramaticais no inglês e revisei o texto conforme as diretrizes do programa.
+**14/01/2026:**
+Exame oftalmológico na clínica de olhos de Palmeira d'Oeste.
 
 ---
 
-03/03/2026: Revisei o projeto do IASH e programei o envio para a Professora Pauline Phemister. Organizei minha semana e as metas produtivas. Além disso, recebi o valor da RT para a viagem de Portugal, então, passei um bom tempo organizando documentos de Prestações de Contas da FAPESP. Estou pesquisando e escrevendo o artigo (Lisboa). 
+**15/01/2026:**
+Escrita do BEPE e finalização do fichamento da carta de Leibniz a Hobbes.
 
 ---
 
-04/03/2026: Correção do projeto para submissão do IASH; Correção do verbete sobre Caroline da Ansbach; Participação no Grupo de Estudos de Tradução (tenho atividades de tradução para realizar até semana que vem). Escrita do artigo (Lisboa). 
-
----   
-
-05/03/2026: Escrita do artigo (Lisboa); Correção do verbete sobre Caroline de Ansbach; Pesquisa sobre a questão histórica da reabilitação da formas substanciais em Leibniz (Aiton; Antognazza; Robinet).
+**16/01/2026:**
+Finalização da escrita do projeto BEPE e estruturação do fichamento da carta para servir de base para o artigo científico.
 
 ---
 
-06/03/2026: Correção do verbete finalizado e submetido para as editoras; Continuação da pesquisa pela história da reabilitação da forma substanciais em Leibniz, hoje direcionei o foco para o Robinet e a obra Leibniz y Malebranche. Correspondências p. 129: Fichamento no trabalho Malebranche. Defini a estrutura do texto para a RED-Iberoamericana. Estudo do TMA - Mapeamento do conceito de conatus. 
+**17/01/2026:**
+Revisão do projeto BEPE; leitura da carta a Jacob Thomasius 1670.
 
 ---
 
-07/03/2026
-08/03/2026: Continuação da pesquisa pela história da reabilitação da forma substanciais e as teses com Malebranche (Aiton - Leibniz: a Biography). Revisão da estrutura do artigo para a RED Iberoamericana Leibniz.
+**18/01/2026:**
+Leitura da carta a Jacob Thomasius 1670 (p. 93 a 96).
 
 ---
 
-09/03/2026: Retomada da escrita do artigo de Lisboa (Rever todo o fichamento). Reunião com Ezequiel sobre o capítulo de livro, alinhamento e correções. Estudo do TMA - Mapeamento.Formular uma síntese para a pesquisa pela história da reabilitação da forma substanciais em Leibniz.
+**19/01/2026:**
+Leitura da carta a Jacob Thomasius 1670 (p. 96 a 99); sistematização do fichamento das cartas no Word - escrita.
 
 ---
 
-10/03/2026: Atividades do grupo de tradução: transcrições de 33 páginas da versão da academia e revisão da tradução feita pelo grupo. Correções e escrita do capítulo do livro com Ezequiel, organização de notas, bibliografia e escrita da introdução. Revisão dos artigos na pasta de arquivos do HD (Malebranche): organização dos artigs lidos e não lidos.
+**20/01/2026:**
+Leitura da carta a Jacob Thomasius 1670 (p. 99 a 103); leitura do Fichant, pdf. 180, cap. VII sobre Leibniz e o mecanicismo.
 
 ---
 
-11/03/2026: Participação no grupo de estudo de tradução Leibniz. Revisão detalhada do capítulo de livro com Ezequiel. Escrita do artigo de Lisboa (retomada pela leitura do livro de Nadeler sobre o ocasionalismo na modernidade).
+**21/01/2026:**
+Revisão do fichamento de *Paciduis a Filalete*, reestruturação e seleção de momentos importantes para serem objetos de pesquisa.
 
 ---
 
-12/03/2026: Última revisão do capítulo com Ezequiel e submissão. Escrita do artigo de Lisboa (desenvolvimento da complexidade conceitual entre Leibniz e Malebranche e a questão do ocasionalismo). Grupo de estudos quinzenal Leibniz das 17:00 as 18:30.
+**22/01/2026:**
+Leitura do artigo do Prof. Edgar Marques intitulado "PERCEPÇÃO, AUTOCONSCIÊNCIA E CONTINUIDADE EM LEIBNIZ". Correção do projeto de pós-doutorado/BEPE.
 
 ---
 
-13/03/2026: Escrita da introdução do texto de apresentação da RED Iberoamericana Leibniz. TMA - mapeamento. Escrita do artigo de Lisboa.
+**23/01/2026:**
+Elaboração de documentos BEPE/Fapesp; elaboração de documentos SAGe. Atualização da súmula curricular.
+
+---
+
+**24/01/2026:**
+Fichamento do artigo do Prof. Edgar Marques intitulado "PERCEPÇÃO, AUTOCONSCIÊNCIA E CONTINUIDADE EM LEIBNIZ".
+
+---
+
+**25/01/2026:**
+Bernstein, Howard. "conatus, Hobbes, and the Young Leibniz" revisão do fichamento feito em 17/10/2025.
+
+---
+
+**26/01/2026:**
+Escrita do capítulo de livro para publicação em coautoria com Ezequiel.
+
+---
+
+**27/01/2026:**
+Escrita do capítulo de livro e fichamento do artigo para ampliação de bibliografia: "substância, sujeito e atividade em Hobbes e Leibniz" de Celi Hirata, 2017, revista reflexões de Fortaleca-CE.
+
+---
+
+**28/01/2026:**
+Estruturação do artigo e ficha de leitura.
+
+---
+
+**29/01/2026:**
+Estudo da bibliografia primária (Theoria Motus Abstract); seleção de trechos e estudo da abordagem dos conceitos; escrita do capítulo.
+
+---
+
+**30/01/2026:**
+Escrita do capítulo do livro; elaboração das diretrizes de pesquisa e do artigo que deve ser produzido.
+
+---
+
+**31/01/2026:**
+Estudo do TMA; elaboração de estratégia metodológica para mapear os conceitos centrais; escrita do capítulo.
+
+---
+
+# Fevereiro
+
+**02/02/2026 – 07/02/2026:**
+Escrita do capítulo; retomada da tradução; início da semana de viagem para Maringá. **Objetivo:** tradução com a professora Drª Patrícia Sita - texto GP IV, 393-399.
+
+---
+
+**08/02/2026:**
+Chegada em Jales-SP (residência atual). **Relatório de atividades de viagem:** Na terça-feira retirei meu diploma de doutorado na UNICAMP e fiz a autenticação e reconhecimento de firma da assinatura em vista da possibilidade da bolsa BEPE requerer a documentação. No mesmo dia fui para Maringá-PR. Na UNICAMP digitalizei o livro *La Refome de la dynamique* de Michel Fichant, tendo em vista o plano de estudo elaborado. Na quarta-feira fiz a leitura do texto de tradução. Na quinta, na sexta e no sábado, eu junto com a professora dra. Patrícia Sita (UEM) mitigamos a tradução e desenvolvemos uma versão aprimorada dela. O próximo passo desse trabalho é desenvolver pesquisa para notas e tomar decisões conceituais gerais.
+
+---
+
+**09/02/2026:**
+Estudo do TMA - estudo pontual das páginas sobre as definições do TMA e a relação com o conceito de *conatus* - a força elástica. Revisão da tradução com a Patrícia. Elaboração do documento para Pesquisador visitante na universidade do Porto - Portugal com o professor Meirinhos.
+
+---
+
+**10/02/2026:**
+Envio do capítulo de livro em coautoria com Ezequiel Barros; estudo do TMA e análise de trecho destacado; revisão da tradução; elaboração de documento de pesquisa para a Universidade do Porto (previsão de 09 a 27 de junho deste ano).
+
+---
+
+**11/02/2026:**
+Reunião com a professora Pauline Phemister visando a atualização do projeto de pesquisa e a ingressão nos grupos de estudos vigentes. Documentação da universidade do Porto assinada pelos professores e supervisores de estágio. Análise do TMA p. 229.
+
+---
+
+**12/02/2026 – 13/02/2026:**
+Revisão do texto de tradução §3; atualização do projeto BEPE; documento de viagem para Maringá com assinatura coletada da professora Patrícia; atualização do cronograma de pesquisa na Universidade do Porto e compra de passagem, seguro viagem. (Perdi um tempo de trabalho nesses dias por questões de saúde: extraí um dente do siso e fui ao AME-Jales tirar um raio X. Pretendo compensar o estudo do TMA no sábado. Fichei o capítulo sobre Malebranche para aprofundar os assuntos sobre o movimento e o ocasionalismo. Andrew Pyle - vou fazer desse fichamento o objeto de coleta de informações na universidade do Porto e transformar em artigo 2.)
+
+---
+
+**14/02/2026:**
+Revisei a tradução realizada em colaboração com a Professora Patrícia; fiz duas notas de rodapé sobre a questão da matemática, da geometria e da aritmética. Análise do TMA p. 229.
+
+---
+
+**15/02/2026:**
+Estudei o texto da Enciclopédia Stanford sobre Johann Sturm com o objetivo de verificar questão do ocasionalismo no que tange os autores mencionados por Leibniz. Sturm não me parece ser muito estudado dentro do cenário leibnizianos, mas considerar seus argumentos pode ser útil para justificar a fuga do ocasionalismo após o TMA e o *Pacídios*. Fiz a revisão da tradução e redigi a nota 04.
+
+---
+
+**16/02/2026:**
+Fiz notas de revisão na tradução, estou 5§ parágrafo do texto, e as notas estão sendo pesquisadas e referenciadas com outras bibliografias. Fiz a leitura do TMA e destaquei que o conatus pode ter se tornado um modo de força derivada para explicitar que é começo (impetus) e fim (conatus). Elaborei a ficha de leitura sobre Johann Sturm e articulei essa leitura com o texto *On the Correction of Metaphysics and the Concept of Substance* (L, p. 432). O trabalho reforçou a hipótese de que o conatus não se vincula à tendência ao movimento e que suas partes contínuas e contíguas geram impenetrabilidade e, consequentemente, coesão dos corpos. Além disso, mapiei autores que Leibniz menciona para me fornecer um panorama geral do seu século e as questão ligadas a metodologia do conhecimento. Pesquisei sobre Mersenne, Arnauld e Boyle. Adicionei um nota, no fichario físico sobre Huygens e que sua filosofia natural impactou diretamente as ideias de Newton sobre força centrífuga e o movimento dos planetas.
+
+---
+
+# Março
+
+**01/03/2026 (DOMINGO):**
+Fichamento e sistematização da carta de Leibniz-Bayle sobre Malebranche. Escrita do artigo (Lisboa). Prestação de contas SAGe/FAPESP sobre diárias e passagens aéreas para Portugal (15 a 27 de junho 2026). Carta de recomendação IASH.
+
+---
+
+**02/03/2026:**
+Passei o dia convertendo o projeto no formato BEPE para o formato do IASH. Fiz correções gramaticais no inglês e revisei o texto conforme as diretrizes do programa.
+
+---
+
+**03/03/2026:**
+Revisei o projeto do IASH e programei o envio para a Professora Pauline Phemister. Organizei minha semana e as metas produtivas. Além disso, recebi o valor da RT para a viagem de Portugal, então passei um bom tempo organizando documentos de prestações de contas da FAPESP. Estou pesquisando e escrevendo o artigo (Lisboa).
+
+---
+
+**04/03/2026:**
+Correção do projeto para submissão do IASH; correção do verbete sobre Caroline da Ansbach; participação no Grupo de Estudos de Tradução (tenho atividades de tradução para realizar até semana que vem). Escrita do artigo (Lisboa).
+
+---
+
+**05/03/2026:**
+Escrita do artigo (Lisboa); correção do verbete sobre Caroline de Ansbach; pesquisa sobre a questão histórica da reabilitação da formas substanciais em Leibniz (Aiton; Antognazza; Robinet).
+
+---
+
+**06/03/2026:**
+Correção do verbete finalizado e submetido para as editoras; continuação da pesquisa pela história da reabilitação da forma substanciais em Leibniz, hoje direcionei o foco para o Robinet e a obra Leibniz y Malebranche. Correspondências p. 129: fichamento no trabalho Malebranche. Defini a estrutura do texto para a RED-Iberoamericana. Estudo do TMA - mapeamento do conceito de conatus.
+
+---
+
+**07/03/2026 – 08/03/2026:**
+Continuação da pesquisa pela história da reabilitação da forma substanciais e as teses com Malebranche (Aiton - Leibniz: a Biography). Revisão da estrutura do artigo para a RED Iberoamericana Leibniz.
+
+---
+
+**09/03/2026:**
+Retomada da escrita do artigo de Lisboa (rever todo o fichamento). Reunião com Ezequiel sobre o capítulo de livro, alinhamento e correções. Estudo do TMA - mapeamento. Formular uma síntese para a pesquisa pela história da reabilitação da forma substanciais em Leibniz.
+
+---
+
+**10/03/2026:**
+Atividades do grupo de tradução: transcrições de 33 páginas da versão da academia e revisão da tradução feita pelo grupo. Correções e escrita do capítulo do livro com Ezequiel, organização de notas, bibliografia e escrita da introdução. Revisão dos artigos na pasta de arquivos do HD (Malebranche): organização dos artigos lidos e não lidos.
+
+---
+
+**11/03/2026:**
+Participação no grupo de estudo de tradução Leibniz. Revisão detalhada do capítulo de livro com Ezequiel. Escrita do artigo de Lisboa (retomada pela leitura do livro de Nadeler sobre o ocasionalismo na modernidade).
+
+---
+
+**12/03/2026:**
+Última revisão do capítulo com Ezequiel e submissão. Escrita do artigo de Lisboa (desenvolvimento da complexidade conceitual entre Leibniz e Malebranche e a questão do ocasionalismo). Grupo de estudos quinzenal Leibniz das 17:00 as 18:30.
+
+---
+
+**13/03/2026:**
+Escrita da introdução do texto de apresentação da RED Iberoamericana Leibniz. TMA: mapeamento. Escrita do artigo de Lisboa.
+
