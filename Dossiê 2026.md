@@ -268,3 +268,20 @@ Participação no grupo de estudo de tradução Leibniz. Revisão detalhada do c
 **13/03/2026:**
 Escrita da introdução do texto de apresentação da RED Iberoamericana Leibniz. TMA: mapeamento. Escrita do artigo de Lisboa.
 
+---
+
+**14/03/2026**
+Reestruturei o artigo por isso estou reescrevendo algumas etapas. A pesquisa sobre as correspondências de Leibniz e Malebranche são peculiares, eles tratam de assuntos diversos, mas de modo concomitante as questões de metafísica que tangenciam a abordagem da natureza de Deus. Hoje vou continuar a escrita a partir da estrutura delineada ontem 
+
+[O movimento e a substância
+Recuperar o contexto das correspondências – aiton e antognaza.
+Descrição dos argumentos a partir das correspondências
+Algo original meu a partir das correspondências – conatus//força? 
+
+A exterioridade e a interioridade do movimento 
+O que é consciente nas correspondências pelos autores? Como é a relação?
+O que se perde o que se ganha em vista de escolhas metodológicas dos autores? 1§ 
+O compromisso com a verdade uma visão moderna (ver os trechos de Robinet).]
+
+
+
