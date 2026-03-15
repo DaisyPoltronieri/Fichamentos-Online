@@ -283,5 +283,11 @@ O que é consciente nas correspondências pelos autores? Como é a relação?
 O que se perde o que se ganha em vista de escolhas metodológicas dos autores? 1§ 
 O compromisso com a verdade uma visão moderna (ver os trechos de Robinet).]
 
+---
+
+**15/03/2026**
+Avancei na escrita do artigo, mas ainda tenho algumas dúvidas sobre o ponto que Leibniz mantém do ocasionalismo. 
+[A principal razão para a interação repousa no fato de que Leibniz, assim como Malebranche, não se identificava com a proposta cartesiana de interação entre a res cogitans e a res extensa. A discordância comum em relação a Descartes foi motivação para o debate. Diante disso, ambos concordam que o estado de uma substância nada tem a ver com o estado da outra. Leibniz, no entanto, garante que a conexão entre as substâncias decorre delas próprias, sendo seus estados modificados por espontaneidade, de modo mecânico e em conformidade com sua natureza particular, a qual corresponde à matéria por derivação. Malebranche, por sua vez, não cede a essa tese, pois atribui a modificação à intervenção direta de Deus e, além disso, reduz a substância à corporeidade, sem lhe conferir qualquer poder de atuação própria.]
+
 
 
