@@ -201,7 +201,7 @@ inextensum est, quod erat demonstrandum.
 
 
 
-(25) 
+(25)
 
 Ergo instanti dato fortior plus spatii absolvet, quam tardior, sed quilibet conatus non potest percurrere uno instanti plus quam punctum, seu partem spatii minorem, quam quae exponi potest; alioquin in tempore percurreret lineam infinitam: est ergo punctum puncto majus. Unde arcus inassignabilis circuli majoris major est quam minoris: et linea quaelibet, ducta a centro ad circumferentiam, circulo commensurabilis, seu circumductione sua circuli genitrix, est sector minimus perpetuo crescens, sed intra inextensionem. Hinc et difficultates de duabus rotis concentricis super plani recta gyratis, de incommensurabilibus, de angulo contactus, et tot alia solvuntur, ad quae explicanda eloquentissimus Belinus omnes totius orbis Philosophos provocaverat, et quibus Sceptici maxime triumphant.
 
@@ -211,15 +211,77 @@ Ergo instanti dato fortior plus spatii absolvet, quam tardior, sed quilibet cona
 
 
 
-\[Pontuações: as temáticas abordadas são as rodas concêntricas, os incomensuráveis e o ângulo de contato. Os corpos tem propriedades incomensuráveis entre si no que diz respeito ao espaço e tempo de podem percorrer segundo suas próprias propriedades, por isso, cada ponto remete a um infinitesimal proporcional a cada corpo. O arco ilustra o caso, embora possa haver arcos de diferentes tamanhos inseridos e concatenados entre si, cada arco corresponde as suas próprias propriedades angulares. Isso porque a curvatura é diferente, e a "abertura" angular corresponde a arcos de comprimentos diferentes. A outra forma de ilustrar é através do círculo. Ele diz que, ao retirarmos as propriedades de extensão do circulo o que resta é sua magnitude \[interpreto como uma intensão de determinar o circulo], por isso, **qualquer raio do círculo, ao girar, gera o círculo**. A magnitude retoma as propriedades infinitesimais que compõem um círculo, por essa razão, os infinitésimos de um círculo contém suas propriedades antes de desenhar o setor circular (dando a ele sua propriedade de extensão). Em suma, o trecho permite compreender o conatus por uma perspectiva de relatividade de um ponto, o que torna particular de cada corpo percorrer determinado espaço/tempo em razão de suas propriedades.]
+\[Pontuações: as temáticas abordadas são as rodas concêntricas, os incomensuráveis e o ângulo de contato. Os corpos tem propriedades incomensuráveis entre si no que diz respeito ao espaço e tempo de podem percorrer segundo suas próprias propriedades, por isso, cada ponto remete a um infinitesimal proporcional a cada corpo. O arco ilustra o caso, embora possa haver arcos de diferentes tamanhos inseridos e concatenados entre si, cada arco corresponde as suas próprias propriedades angulares. Isso porque a curvatura é diferente, e a "abertura" angular corresponde a arcos de comprimentos diferentes. A outra forma de ilustrar é através do círculo. Ele diz que, ao retirarmos as propriedades de extensão do circulo o que resta é sua magnitude \[interpreto como uma intensão de determinar o circulo], por isso, **qualquer raio do círculo, ao girar, gera o círculo**. A magnitude retoma as propriedades infinitesimais que compõem um círculo, por essa razão, os infinitésimos de um círculo contém suas propriedades antes de desenhar o setor circular (dando a ele sua propriedade de extensão). Em suma, o trecho permite compreender o conatos por uma perspectiva de relatividade de um ponto, o que torna particular de cada corpo percorrer determinado espaço/tempo em razão de suas propriedades.]
 
-Não tenho certeza essa minha interpretação não está impregnada com a leitura do *Brevis demonstratio*. 
-
-
+Não tenho certeza essa minha interpretação não está impregnada com a leitura do *Brevis demonstratio*.
 
 
 
+16/03/2025
 
 
 
+\*\*Pag. 231\*\* 
+
+
+
+Unde ex definitione Euclidis: punctum est, cujus pars nulla est, nullus error irrepere potuit demonstrationibus de Extensione (ut quidem profundissimo alioquin Hobbio videbatur, qui ex eo capite 47.  Imi Canonem sinuum, et quicquid quadraturae suae obstat, in dubium vocat, quod a tanto Viro inexspectatum nunquam sine admiratione legi.
+
+
+
+(De onde, segundo a definição de Euclides — ponto é aquilo cuja parte nenhuma existe — nenhum erro pôde introduzir-se nas demonstrações sobre a Extensão (como parecia, aliás, ao profundíssimo Hobbes, que a partir disso continua no capítulo 47. Assim, ele põe em dúvida o cânone dos senos e tudo aquilo que se opõe à sua quadratura — algo que, vindo de um homem tão grande, eu nunca li sem admiração, pois era totalmente inesperado.)
+
+
+
+Capítulo 47 do TMA: "Euclides, fundamento da Geometria, nega que a raiz de um quadrado — ou, como costumo chamá-la, o número dos “quadratílos”, sobre o qual trato em outro lugar — coincida com o número de partes do lado; isso é fundamento não apenas da Álgebra, mas também da Geodésia. Ele também apresenta muitas outras coisas sobre o movimento, porém pouco demonstradas. Embora, de resto, eu não queira diminuir em nada o louvor devido a esse homem, cuja profundidade considero da mais alta estima. 
+
+Galileu e Honoratus Fabri desenvolveram prudentemente a foronomia experimental por meio de raciocínios. Dos escritos inéditos de Jungius e dos publicados de Wallis ouvi falar apenas."
+
+
+
+\[Interpretações: o que é "ponto" no entendimento de Hobbes? ponto é algo que não tem partes, em Euclides e Leibniz do TMA parece aderir a ideia. Para Hobbes o ponto é como um corpo o qual a magnitude não pode ser calculada. Essa tese é redimensionada para a astronomia: a Terra é um ponto e a questão das estrelas e do movimento torna sua magnitude indeterminada - visão em Paralaxe. **Seria possível que o *conatus* pudesse ter sido interpretado por Leibniz como um ponto disposto em cada substância?**]
+
+
+
+\*\*(DCp III.15.2; OL I, 177).\*\*
+
+
+
+OL - Thomae Hobbes Atla/mesburiensis Opera Philosophica Quae Latinae Scripsït Omnia in Unum Corpus Nunc Primum Collecta (Hobbes 1829-45a)
+
+DCp - Elementorum philosophiae sectio prima de corpore (Hobbes 1655). References are to part, chapter. and section number. followed by a volume and page number from DL after a semicolon
+
+
+
+\*\*Leitura: Geometrical Physics: Mathematics in the Natural Philosophy of Thomas Hobbes:Kathryn Morris\*\*
+
+4.2. Endeavour And Impetus p. 91-94
+
+\* A tese de Hobbes sobre a Cinemática é apresentada no cap. 15 e 16 do De Corpórea: arte III.
+
+\* conceito de endevour // conatus - cap. 15 e impetus. (Brandt (1928,294-316). **Bernstein (1980) discusses these concepts and their possible influence on Leibniz**)
+
+\* Para Hobbes o ponto deve ser algo como uma coisa sem quantidade e que não pode ser dividida (algo que não corresponde a nada que existe na natureza); se é caso, de algo que não existe, é algo que a quantidade não importa, mas a referência sim.
+
+\* O ponto não é tomado como algo indivisível (indivisible), mas algo individível" (undivided) - tal como um instante, que é um tempo individível no tempo, o ponto é isso no espaço. (p. 92).
+
+\* O movimento em um ponto é algo que não deve ser considerado por ser pequeno demais. 
+
+\* Algo que se perde de vista pela comparação não deve ser tomado como referência. A magnitude de um ponto comparado a outro pode ser maior ou menor, mas um ponto em comparação a magnitude de uma linha perde propósito ou ratio... assim como comparar a distancia entre uma estrela com a terra ou a lua. 
+
+\* Os conatus//ou endeavour// podem ser maiores ou menores.
+
+\* Hobbes poderia não ter compreendido Galileu quando disse "ln the same mannerifthere are two motions both beginning andending together.. their endeavours will be equal or unequal in the proportion ofthe velocities \[ofthe two motions]; as we see that a ball oflead descends with a greaterendeavourthan a baIl ofwool. (DCp III, 15.2).??
+
+\* Para Brandt não, comenta Morris, para ele Hobbes já estava introduzindo as ideias de cinemática pura - considerando a dinâmica - e o conceito de Força (vis). p. 93
+
+\* Brandt diz que Hobbes está comentando duas linhas de raciocínio. **Hobbes não sabia como fazer a discriminação da ciência dinâmica da mecânica talvez?**
+
+\* Para Morris, Hobbes está alinhado com uma ideia de dinâmica.
+
+\* Leibniz talvez esteja olhando para o problema que Morris destaca aqui: "However, it is questionable to claim, on the basis of this passage, that the concept has an intrinsically dynamic aspect. Hobbes does not explicitly mention the magnitude or weight of the bodies as a factor to be considered when comparing their endeavours (something which he certainly does raise when he actually does get around to defining force). Nor does he mention the notions of effect or force of impact. Finally, there is the acknowledged problem that the passage posits a correlation between the velocities of the bodies and their endeavours" (p. 93). 
+
+\* Existe a possibilidade de interpretar o problema da queda dos corpos descrita por Hobbes (bola de chumbo e o novelo de lã) como dois pontos que possuem características diferentes, portanto, percorrem um determinado espaço e tempo de modos diferentes. 
+
+\* Ao passo que o impetus, ou sua velocidade instantânea, pode ser compreendida como a velocidade in nenhum ponto do tempo e que a mudança é proporcionada - ou seja, uma diferença particular de cada corpo. 
 
