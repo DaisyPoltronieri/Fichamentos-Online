@@ -289,5 +289,42 @@ O compromisso com a verdade uma visão moderna (ver os trechos de Robinet).]
 Avancei na escrita do artigo, mas ainda tenho algumas dúvidas sobre o ponto que Leibniz mantém do ocasionalismo. 
 [A principal razão para a interação repousa no fato de que Leibniz, assim como Malebranche, não se identificava com a proposta cartesiana de interação entre a res cogitans e a res extensa. A discordância comum em relação a Descartes foi motivação para o debate. Diante disso, ambos concordam que o estado de uma substância nada tem a ver com o estado da outra. Leibniz, no entanto, garante que a conexão entre as substâncias decorre delas próprias, sendo seus estados modificados por espontaneidade, de modo mecânico e em conformidade com sua natureza particular, a qual corresponde à matéria por derivação. Malebranche, por sua vez, não cede a essa tese, pois atribui a modificação à intervenção direta de Deus e, além disso, reduz a substância à corporeidade, sem lhe conferir qualquer poder de atuação própria.]
 
+---
 
+**16/03/2026**
+Continuação do mapeamento do TMA, com recorte do texto do Hobbes mencionado por Leibniz. Leitura para grupo de estudo: capítulo IX dos Elementos da Lei ("Das paixões da mente"), a partir do §13.
 
+---
+
+**16/03/2026**
+Fichamento artigo: "Natures, Laws, and Miracles: The Roots of Leibniz’s Critique of Occasionalism"; Donald Rutherford, In: Causation in early modern philosophie, 1993, p. 135. 
+**I**
+- Whether God actually deals the cards or merely stacks the deck, the result is the same.
+[O ocasionalismo e a teoria da harmonia pré-estabelecida descrevem caminhos diferentes mas chegam a mesma conclusão: o mundo criado está sob a vigilância divina]
+- Por que não ceder ao ocasionalismo? 
+1) ocasionalismo é inconsistente - um vinculo com o Espinosismo
+2) milagres perpétuos são possíveis 
+3) que as leis da natureza podem ser violadas por Deus (exceção para Malebranche) **My focus instead will be on objections (2) and (3)**
+- NE 65: “‘activity is the essence of substance in general’’ 
+- Bayle in 1702 that “[w]ithout an internal force of action a thing could not be a substance, for the nature of substance consists in this regulated tendency, from which phenomena are born in order” (GP III, p. 58).
+- Através das suas próprias capacidades a substância se modifica/ para o ocasionalismo Deus conserva a substância e possibilita suas modificações.
+- Rutherford pontua que Leibniz teme uma filosofia ocasionalista que recaia no Espinosismo, uma vez que as modificações e modalidades da substâncias estão vinculadas a uma única causa: Deus. (Ipsa Natura AG 160)
+- an “‘inherent law”’ that is sufficient to account for the pattern of their particular effects that itself involves an intrinsic force.(p. 140)
+- Sobre Malebranche - a continuidade presente no sistema ocasionalista deixa que causas secundárias ou particulares sejam ineficientes, pois as substancias em atuação por si mesmas pode ser vista com efeito de Deus atuando. [Dialogues on Metaphysics: ““From all eternity God has willed, and to all eternity He will continue to will—or, to speak more accurately, God wills unceasingly though without variation, without succession, without necessity—every-thing He will do in the course of time” (OC XII-XIII, 159/D 157).
+**II**
+- A teoria da Harmonia Pre-estabelecida somada ao princípio da razão suficiente transformam a filosofia de Leibniz em antiocasionalista
+- "within the order of nature (miracles apart) it is not at God’s arbitrary discretion to attach this or that quality haphazardly to substances. He will never give them any that are not natural to them, that is, that cannot arise from their nature as explicable modifications." (NE 66)
+- Nota 11: Rutherford comenta como Leibniz lida com a filosofia de Locke, que torna todas as substancias passiveis de uma compreensão mecanicista estrita a matéria e suas qualidades. Em suma, ele entende que existe duas maneira de lidar com o problema da mente com o corpo: ou Deus capacita as substancias de um tipo de pensamento natural ou atua por milagre sob elas para que possam ter pensamentos e sentimentos.
+- A possibilidade da atuação arbitrária de Deus e da sua escolha quanto as leis da Natureza é que afetam o juízo de Leibniz sobre o ocasionalismo (Cf. pág. 145). 
+- Duas modalidades de compreensão sobre as leis da natureza. Ocasionalismo: o que dá regularidade a natureza; Leibniz: sequencia de eventos que explicam os tipos dos seres e suas respectivas naturezas. [incompatibilidade de definições].
+- Segundo minha interpretação, Leibniz culpa Malebranche não apenas por negar às coisas criadas o poder de produzir seus próprios efeitos, mas também por sua falha em insistir que as coisas criadas sejam dotadas de naturezas através das quais suas propriedades e efeitos possam ser compreendidos. (P. 147)
+- within the “order of nature” it must be possible to conceive how any effect follows in an intelligible manner from the nature of its subject. 
+** a relação mente e corpo para Leibniz está estruturada dentro de um argumento que considera a ordem. Isso significa que eu posso estabelecer uma relação com o tema das forças tanto para o problema da coesão corpórea (como fiz na tese) quanto para o problema mente-corpo (um passo a mais para a investigação do ocasionalismo ** (p. 148).
+- A sequencia de todos os efeitos no mundo criado é sabido e escolhido por Deus, então, ainda há sua presença na estrutura filosófica.
+- Rutherford diz que essa problemática ainda deixa uma lacuna para a abordagem do problema da comunicação que não será tratada nesse artigo.
+- Para Rutherford há ainda uma pseudoexplicação sobre a questão da comunicação e a inteligibilidade, pois elas são teses que não complementam de forma suficiente as questões sobre como acontece a interação mente-corpo ou a relação de uma substância com outra. Embora, ocasionalistas e Leibniz concordam com o caso de que uma substancia não pode afetar outra. 
+- O projeto da Teodiceia depende da crítica ao ocasionalismo.
+--
+
+**17/03/2026 ~ 19/03/2026**
+Viagem para São Carlos com o objetivo de participar do grupo de estudo (leitura de Thomas Hobbes -  Elementos da Lei); alinhar as atividades de pós-doutorado, discutir a tradução finalizada (com a Prof. Patrícia Sita).
