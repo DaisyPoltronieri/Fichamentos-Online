@@ -326,5 +326,35 @@ Fichamento artigo: "Natures, Laws, and Miracles: The Roots of Leibniz’s Critiq
 - O projeto da Teodiceia depende da crítica ao ocasionalismo.
 --
 
-**17/03/2026 ~ 19/03/2026**
+**17/03/2026 ~ 20/03/2026**
 Viagem para São Carlos com o objetivo de participar do grupo de estudo (leitura de Thomas Hobbes -  Elementos da Lei); alinhar as atividades de pós-doutorado, discutir a tradução finalizada (com a Prof. Patrícia Sita).
+
+---
+
+**21/03/2026**
+<<organização do dossiê>>
+I) Durante a viagem para São Carlos, terminei de fichar o artigo de Rutherford. 
+**Segue-se:**
+- Leibniz e Malebranche discordam sobre a incidência da perfeição de Deus no que diz respeito a comunicação dela na criação. (p. 153);
+- Para Malebranche, o simples, o mais geral e o mais uniforme produz um mundo com certas imperfeições e algum grau de mal, pois ao escolher certas leis escolhe-se certas consequências. (OC V, 28-29) Exemplo da chuva no oceano.
+- Os males são regulados pela ação de Deus a partir da multiplicidade das leis.
+- Catherine Wilson,  p. 281-88 (Teodiceia é influenciada por Malebranche) por causa de duas situações 1) a plenitude da existência (quer dizer a satisfação do todo criado) 2) simplicidade das leis § 225 (a sabedoria de Deus, não contente em abarcar todos os possíveis, penetra-os, compara-os, pesa uns em relação aos outros, para estimar os graus de perfeição ou de imperfeição deles, o forte e o fraco, o bem e o mal; ela vai além das combinações finitas, ela faz uma infinidade de infinitos, isto é, uma infinidade de sequências possíveis do universo, das quais cada uma contem uma infinidade de criaturas;) Em síntese, Deus escolhe a sequência que satisfaz a bondade. 
+Assim estabelece-se uma comparação: 
+**Malebranche** 
+A criação é destinada a glorificação de Deus e Jesus Cristo. 
+OC XII e XIII
+**Leibniz**
+O máximo de bem com mínimo de causa: o bem/bondade está previsto nos efeitos através da perfeição do real; o que determina o perfeito é a razão que escolhe uma entre todas a sequências possíveis.
+- O desacordo está em verificar a razão de Deus e a criação do mundo (p. 158).
+- Rutherford realça a distancia teológica entre os dois filósofos
+- a ortodoxia religiosa pode ter sido um fator adicional para o desacordo. [Wilson p. 297-303. Leibniz's Metaphysics] "For, unlike Malebranche, who wanted to be orthodox and believed he was, although he was not, Leibniz did not even care about being orthodox" [Journal de Trevoux, February 1737, p. 208. This opinion was shared by the theologian Christian Matthaeus Pfaff, who spread rumours about the insincerity of the Theodicy].
+- Para Rutherford, Malebranche não ve Deus como aquele que é capaz de fazer a escolha das melhor disposição possível, de modo que a continuidade ocasionalista e interventora organiza os percalços através da multiplicidade das leis. 
+
+II) A participação no grupo de estudo sobre Hobbes rendeu observações que podem agregar a pesquisa tais como:
+** O distanciamento da moral de Leibniz e Hobbes pode ser dada segundo a atribuição de prioridade, em cada um deles, no que diz respeito a causa e o efeito.
+** Verificar a questão da moral entre Leibniz e Locke: observações sobre a disposição do melhor dos mundos possíveis e o "otimismo" de Leibniz.
+
+<<atividades feitas hoje>>
+Retomada da escrita da escrita e leitura sobre o ocasionalisma, Leibniz e Malebranche. 
+
+
