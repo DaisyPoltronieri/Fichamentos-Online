@@ -357,4 +357,13 @@ II) A participação no grupo de estudo sobre Hobbes rendeu observações que po
 <<atividades feitas hoje>>
 Retomada da escrita da escrita e leitura sobre o ocasionalisma, Leibniz e Malebranche. 
 
+---
 
+**22/03/2026**
+Escrita do artigo, correções e revisões textuais - artigo para ser trabalhado e apresentado em Lisboa.
+Ainda preciso acrescentar um parágrafo inicial para justificar a escolha do meu tema em relação ao meu objeto mais estimado: o conceito de conatus. Isso deve ser lido durante as minhas apresentações.
+
+---
+**23/03/2026**
+Revisão de nota de rodapé e bibliografia do artigo para de Lisboa.
+Início da escrita do texto de apresentação da Red Iberoamericana (estou decidindo se devo apresentar em espanhol ou inglês).
