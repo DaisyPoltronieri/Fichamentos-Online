@@ -164,10 +164,8 @@ Pág. 277
 Leibniz menciona a Lady Masham (4 de julho de 1706 - GP III p. 382-386//Mas na verdade essa referência é de uma cara a Sophie) que a teoria de Malebranche do ocasionalismo, para explicar a relação mente e corpo, em sua filosofia não tem propósito. Isso porque sua tese sobre a harmonia pré-estabelecida oferece outros meios para estabelecer uma razão para essa relação. 
 ----------------------------------------------------------------------------------------------------------------------------
                                               Sobre a liberade em Malebranche
-
-
-
-
+Susan Peppers Bates
+Nadler, S. 
 ----------------------------------------------------------------------------------------------------------------------------
 - 8 Décembre 1692. Malebranche a Leibniz. (ROBINET, Leibniz y Malebranche) pág. 291;
 * sobre a quantidade de movimento e a impenetrabilidade dos corpos.
