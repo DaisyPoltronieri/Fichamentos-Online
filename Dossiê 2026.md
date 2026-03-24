@@ -382,4 +382,11 @@ Palavras-chave: Filosofia Moderna; Espinosa; Leibniz; Corpo; Movimento; Conatus.
 ---
 
 **24/03/2026**
+- Reescrita da introdução e parágrafos da seção II que ainda considero o argumento em fase de desenvolvimento (artigo de Lisboa).
+- Paul Rateau - Leibniz e Hobbes livro acessado para desenvolvimento da próxima etapa do pós-doutorado (material de pesquisa).
+- Participação do Seminário jovens estudiosos de Leibniz - RedIberoamericana (Fiorenza Manzo - política e ciência dinâmica alinhados).
+- Correção da última parte do projeto do IASH para submissão - reunião com Pauline Phemister amanhã (25/03/2026).
+- Textos para o artigo do Espinosa (impressão); revisão dos conceitos do dicionário Espinosa que tangenciam o conceito de conatus.
+
+
 
