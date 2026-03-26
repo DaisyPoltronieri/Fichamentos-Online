@@ -371,9 +371,8 @@ Revisão de nota de rodapé e bibliografia do artigo para de Lisboa.
 Início da escrita do texto de apresentação da Red Iberoamericana (estou decidindo se devo apresentar em espanhol ou inglês).
 Estruturação e seleção bibliográfica do Leibniz/Espinosa.
 
-- Resumo aprovado: 
+- Resumo aprovado (evento da USP/ correspondência com Espinosa) 
 Título: Conatus e Natureza Corpórea: Atividade, Divisibilidade e Movimento em Espinosa e Leibniz
-
 No cerne das exposições sobre a natureza de corpo e movimento, o conceito de conatus surge na filosofia de Espinosa e Leibniz. Para cada um deles, esse conceito possui uma formalização específica. Em Espinosa, o movimento e o repouso de um corpo são partes integrantes do conatus, por meio do qual o corpo se esforça para preservar seu ser ao longo do tempo (Ética III, Proposição 7). Em Leibniz, o conatus representa o início e o fim do movimento e age para preservar o corpo, porém com a ressalva de que não se restringe à condição temporal: para Leibniz, o conatus conserva características metafísicas do corpo (Theoria Motus Abstracti, Fundamentos Demonstrativos 24-25).
 O distanciamento entre os autores sobre a função e a natureza do conatus projeta, em suas respectivas filosofias, mais de um destaque sobre o problema do corpo e do movimento. Propõe-se desenvolver três pontos a partir dessa abordagem: i) a atividade e a passividade na natureza de corpo e movimento; ii) a questão da divisibilidade infinita dos corpos em realce à função de preservação do conatus; iii) a distinção modal dos corpos e a existência de uma única substância em Espinosa nas refutações de Leibniz. Espera-se que esse itinerário forneça uma conexão entre o monismo de Espinosa e as teses de dinâmica de Leibniz, as quais se sustentam na individuação das substâncias.
 Nos anos de 1675 a 1680, as teses de Espinosa conquistaram a atenção de Leibniz e, para alguns intérpretes, como Ludwig Stein e, mais recentemente, Ursula Goldenbaum, Leibniz foi um espinosista. Por isso, e pela potência filosófica dos temas, é preciso assinalar as divergências entre os dois filósofos. Ao fazê-lo, proporciona-se uma análise exegética dos conceitos e investiga-se uma possível genealogia de noções leibnizianas da maturidade.
@@ -389,4 +388,13 @@ Palavras-chave: Filosofia Moderna; Espinosa; Leibniz; Corpo; Movimento; Conatus.
 - Textos para o artigo do Espinosa (impressão); revisão dos conceitos do dicionário Espinosa que tangenciam o conceito de conatus.
 
 
+---
 
+**25/03/2026**
+- Nova correção da última parte do projeto do IASH para submissão a partir da reunião com Pauline Phemister.
+- Participação no grupo de tradução liderado pela Professora Viviane de Castilho (UFPR).
+
+---
+
+**26/03/2026**
+- 
