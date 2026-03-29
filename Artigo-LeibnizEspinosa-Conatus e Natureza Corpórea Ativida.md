@@ -48,7 +48,7 @@ Cleyton e Daisy
 
 
 
-\*\* Sch. 31. O intelecto e a vontade devem ser referidos à natura naturata e não à natura naturans. -> Leibniz quer dizer com isso que há limitações para a compreensão da natureza enquanto natura naturata são as coisas criadas a natura naturans remete a Deus. O intelecto se adequa melhor aos conhecimento das coisas criadas porque é de sua própria natureza. 
+\*\* Sch. 31. O intelecto e a vontade devem ser referidos à natura naturata e não à natura naturans. -> Leibniz quer dizer com isso que há limitações para a compreensão da natureza enquanto natura naturata são as coisas criadas a natura naturans remete a Deus. O intelecto se adequa melhor aos conhecimento das coisas criadas porque é de sua própria natureza.
 
 \[pdf. Espinosa/Ética p. 60 : Escólio. Esse esforço por fazer com que todos aprovem o que se ama ou se odeia é, na verdade, a ambição (veja-se o esc. da prop. 29). Vemos, assim, que, cada um, por natureza, deseja que os outros vivam de acordo com a inclinação que lhe é própria. Como é isso que todos desejam, constituindo-se, assim, em obstáculos recíprocos, e como todos querem ser louvados ou amados por todos, acabam todos por se odiar mutuamente.]
 
@@ -66,17 +66,17 @@ Cleyton e Daisy
 
 \*\* Abuso da palavra "existência" \*\*
 
-\*\* Leibniz explica que faz uso do termo "tempo" para restringir ao momomento presente \*\* \[observação: o existente e o real estão imbricados, mas a existencia tem um quê de efêmero].
+\*\* Leibniz explica que faz uso do termo "tempo" para restringir ao momomento presente \*\* \[observação: o existente e o real estão imbricados, mas a existência tem um quê de efêmero].
 
-\*\* §3 - a multitude é maior que a parte. Que uma só tem lugar na existencia, senão o mal e a injustiça seriam vistos em toda partes entremeados.\*\*
+\*\* §3 - a multitude é maior que a parte. Que uma só tem lugar na existência, senão o mal e a injustiça seriam vistos em toda partes entremeados.\*\*
 
-\*\* A imortalidade da mente (mind) não interfere no curso das coisas, e na composibilidade entre elas mesmas. \*\*
+\*\* A imortalidade da mente (mind) não interfere no curso das coisas, e na compossibilidade entre elas mesmas. \*\*
 
-\*\*"Não há outra razão de determinar as existencias do que que o mais perfeito deve existir, isto é, aquelas coisas que envolvem a melhor possibilidade de realidade"\*\*
+\*\*"Não há outra razão de determinar as existências do que que o mais perfeito deve existir, isto é, aquelas coisas que envolvem a melhor possibilidade de realidade"\*\*
 
 
 
-\-- 
+\--
 
 ##### <<Parte III - Bibliografia Primária/Leibniz>>
 
@@ -87,6 +87,4 @@ ON THE ETHICS OF BENEDICT DE SPINOZA 1678 - \[G., I, 139-50]; \[L, p. 196-205];
 \*\* discussões sobre a questão lógica de Espinosa segundo a *Ética* \*\*
 
 \*\* Visão pluralista da substância \*\* \[versus o monismo de Espinosa] \*\*
-
-
 
