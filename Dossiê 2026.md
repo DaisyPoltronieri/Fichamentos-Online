@@ -415,3 +415,4 @@ Observações: O trecho que recortei para poder fazer a análise (AG 272; L 167-
 - Estudo do texto Leibniz-Espinosa para apresentação na USP. L, p. 201.
 - Revisão do artigo Leibniz-Malebranche.
 - Escrita inicial do trabalho para ser apresentado dia 19 de maio na RedIberoamericana Leibniz.
+- Leitura do artigo: Matéria e movimento em Espinosa: o que pode um corpo e algumas questões para a contemporaneidade (Giorgio Gonçalves Ferreira).
