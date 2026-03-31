@@ -408,3 +408,10 @@ Palavras-chave: Filosofia Moderna; Espinosa; Leibniz; Corpo; Movimento; Conatus.
 Observações: O trecho que recortei para poder fazer a análise (AG 272; L 167-169; L 196-205; Ética III Prop. 07; TMA) formam 3 camadas investigativas. 1) correspondências em pauta e a noção de substância sendo discutida, mas principalmente a lógica de Espinosa que não corresponde a filosofia de Leibniz. 2) colocar sob uma lupa conceitual e descritiva a verificação da atividade e passividade do corpo. 3) o uso de conatus como algo que serve para a preservação. 3) O argumento sobre o modal/ Leibniz e o princípio de individuação versus uma noção monista da substância. 4) conceitos explicados e conclusão sobre Leibniz ter sido Espinosista. 
 
 ---
+
+**30/03~31/03/2026**
+- Correção da versão final do projeto para o IASH.
+- Envio da tradução para a Revista Seiscentos - submissão iniciada. 
+- Estudo do texto Leibniz-Espinosa para apresentação na USP. L, p. 201.
+- Revisão do artigo Leibniz-Malebranche.
+- Escrita inicial do trabalho para ser apresentado dia 19 de maio na RedIberoamericana Leibniz.
