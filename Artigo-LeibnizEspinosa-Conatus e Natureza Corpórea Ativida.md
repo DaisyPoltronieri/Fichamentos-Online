@@ -66,7 +66,7 @@ Cleyton e Daisy
 
 \*\* Abuso da palavra "existência" \*\*
 
-\*\* Leibniz explica que faz uso do termo "tempo" para restringir ao momomento presente \*\* \[observação: o existente e o real estão imbricados, mas a existência tem um quê de efêmero].
+\*\* Leibniz explica que faz uso do termo "tempo" para restringir ao momento presente \*\* \[observação: o existente e o real estão imbricados, mas a existência tem um quê de efêmero].
 
 \*\* §3 - a multitude é maior que a parte. Que uma só tem lugar na existência, senão o mal e a injustiça seriam vistos em toda partes entremeados.\*\*
 
@@ -87,4 +87,12 @@ ON THE ETHICS OF BENEDICT DE SPINOZA 1678 - \[G., I, 139-50]; \[L, p. 196-205];
 \*\* discussões sobre a questão lógica de Espinosa segundo a *Ética* \*\*
 
 \*\* Visão pluralista da substância \*\* \[versus o monismo de Espinosa] \*\*
+
+\*\* Leibniz lê a filosofia de Espinosa e a qualifica como obscura em mais de um momento. Para ele Espinosa não sabe fazer demonstrações e em alguns momento <<indicados e destacados na folha física do texto>> uma coisa não se segue da outra. Ele lê a primeira parte da Ética, sobre Deus, com muitas ressalvas.
+
+
+
+\-- 
+
+
 
