@@ -416,3 +416,22 @@ Observações: O trecho que recortei para poder fazer a análise (AG 272; L 167-
 - Revisão do artigo Leibniz-Malebranche.
 - Escrita inicial do trabalho para ser apresentado dia 19 de maio na RedIberoamericana Leibniz.
 - Leitura do artigo: Matéria e movimento em Espinosa: o que pode um corpo e algumas questões para a contemporaneidade (Giorgio Gonçalves Ferreira).
+
+---
+>> Abril
+
+**01/04/2026**
+- Revisão do artigo Leibniz-Malebranche (conclusão). 
+- Participação do grupo de tradução Leibniz (9:30 as 12:30).
+- Estudo do texto Leibniz-Espinosa para apresentação na USP. L, p. 204 (finalizada).
+- Leitura do artigo: Oliva, L. O conatus em Descartes, Hobbes e Espinosa.
+- Submissão do projeto IASH (finalizada). 
+
+**02/04/2026**
+- Escrita inicial do trabalho para ser apresentado dia 19 de maio na RedIberoamericana Leibniz: críticas a Descartes, o movimento perpétuo e as máquinas simples.
+- Participação no Grupo de Estudos na Ufscar com a Celi:  ler e debater os capítulos X ("Das diferenças entre os homens quanto à capacidade de discernimento") e XI ("Imaginações e paixões do homem relacionadas às coisas sobrenaturais") dos Elementos da Lei.
+
+
+**03/04/2026**
+- Viagem de volta para Jales.
+- Participação do grupo Espinosa (17:00).
