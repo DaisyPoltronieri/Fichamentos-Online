@@ -433,5 +433,5 @@ Observações: O trecho que recortei para poder fazer a análise (AG 272; L 167-
 
 
 **03/04/2026**
-- Viagem de volta para Jales.
-- Participação do grupo Espinosa (17:00).
+- Viagem de volta para Jales - Feriado de Páscoa (sexta-feira santa).
+- Participação do grupo Espinosa (17:00); Leitura e debate sobre a obra "O tratado político" p.54-61.
