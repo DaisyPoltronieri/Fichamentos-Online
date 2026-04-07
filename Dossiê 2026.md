@@ -418,7 +418,7 @@ Observações: O trecho que recortei para poder fazer a análise (AG 272; L 167-
 - Leitura do artigo: Matéria e movimento em Espinosa: o que pode um corpo e algumas questões para a contemporaneidade (Giorgio Gonçalves Ferreira).
 
 ---
->> Abril
+>> Abril <<
 
 **01/04/2026**
 - Revisão do artigo Leibniz-Malebranche (conclusão). 
@@ -440,4 +440,71 @@ Observações: O trecho que recortei para poder fazer a análise (AG 272; L 167-
 - Leitura e fichamento do texto "Comments on Spinoza's philosophy" (170?) In: AG, p. 272-281.
 1. Menção do termo conatus;
 2. Discussão sobre Deus, as substâncias e a criação divina em suas propriedades metafísicas: uma revisão leibniziana da Cabala.
+
+**06/04/2026**
+- Leitura e fichamento do artigo "Leibniz, 1678: anotações de leitura da ética de Espinosa".
+- Revisão da estrutura do artigo Leibniz e Espinosa.
+- Revisão de leitura e fichamento do texto "Comments on Spinoza's philosophy".
+- Estudo TMA: conatus não se altera em uma análise geométrica de movimento retilíneo e circular. "Uma esfera que gira em uma plano reto": não há variabilidade, mas condensação da tendência ao movimento. 
+
+**07/04/2026**
+- Revisão de leitura e fichamento do texto "Comments on Spinoza's philosophy".
+- Revisão da estrutura textual do artigo Leibniz e Espinosa.
+- Estudo TMA: é possível compreender o conatus a partir do agrupamento de movimento que da origem a uma nova condição (de uma linha a outra).
+
+Itens que vou reciclar para dar mais sobriedade a abordagem: 
+Leibniz mais discorda do que concorda com Espinoza (na verdade, ele diz mais de uma vez que a posição de Espinosa é confusa (L, 202)).
+
+Duas coisas saltam aos olhos: noção de atributo e natureza, para Leibniz, deveriam ser mais bem distinguidas por ele. Por quê? Porque segundo ele a essência não gera a necessidade da existência, e o atributo de tudo faz parte de Deus. Ulysses explica que para Leibniz a forma, a simplicidade e a substância estabelecem relações diferentes no ser criado e no criador.
+
+[o que Espinosa sugere, da somatória dos atributos ser Deus, não convence Leibniz].
+
+O atributo é eterno e, para Espinosa, o atributo de Deus já é espelho de sua existência e essência (Prop. 19-20).
+
+Para Leibniz há circularidade no argumento: ele deveria ter diferenciado essência de existência para assumir a eternidade dos atributos (L, p. 202).
+
+Tendo fixado a noção de conatus – Estrutura do texto:
+Se enquadra como um atributo ou natureza? Do corpo ou da mente? Como afeta a concepção de substância?
+Conatus é um atributo derivativo para Espinosa?
+(conflitos nos estudos de Leibniz sobre Espinosa)
+
+(E III P9) O conatus ou o esforçar-se tem como consequência a persistência consciente. Enquanto deseja, se esforça de modo indeterminado e durante tal processo julga que é bom o esforço. Circular? Qual seu papel para Espinosa?
+
+Deus é a primeira causa (Corolário 03) e a causa eficiente de tudo (Corolário 02 - Prop.16).
+Qual o papel do intelecto divino em relação ao conatus?
+
+[Uma coisa que tenho dúvida é sobre o intelecto divino: Leibniz parece aceitar que o intelecto faz parte da potência criadora, mas por que ele aceita se ele deixou claro que atributo e natureza não são discriminados por Espinosa?
+O Leibniz entende por intelecto, na posição de leitor de Espinosa?
+O que o intelecto tem (em definição e qualidade), para fazer dele evidente por si mesmo e convencer Leibniz a aceitar o argumento? Há algo evidente por si mesmo no intelecto?]
+
+i) A atividade e a passividade na natureza de corpo e movimento
+O que é corpo? Atributos (correspondência) // substância (retoma o primeiro bloco).
+Que a substância extensa e passiva em Espinosa ganha outros contornos daqueles de Descartes por causa do atributo eterno que se encontra em Deus.
+O que é passivo num corpo? E o que é atividade?
+O ser é compreendido em Espinosa como algo dinâmico por si mesmo – haya.
+
+Movimento para quê? Por onde começa? Deus, a substância e o movimento.
+Nas figuras geométricas a sua causa própria envolve movimento – em Leibniz e em Espinosa (sobrepor razões?). Segundo Giorgio, a figura já é resultado ou efeito de sua determinação – atributo essencial e eterno em Deus.
+
+Giorgio entende que Espinosa compreende que o movimento não é predicado do corpo, mas corpo é predicado do movimento. (Mais ou menos como acontece com Leibniz e ideia de matéria primeira e segunda; seria interessante pôr em diálogo).
+
+ii) A questão da divisibilidade infinita dos corpos em realce à função de preservação do conatus
+O que é divisível?
+O corpo por derivação em contraposição ao infinito?
+
+["No que concerne ao problema da figura, digo que não é algo positivo, mas uma negação. É manifesto que a matéria em sua integridade não pode ter figura e deve ser considerada indefinida, a figura só existindo nos corpos finitos ou determinados. Com efeito, quem diz que percebe uma figura indica somente que concebe uma coisa determinada e de que maneira ela o é. Esta determinação, portanto, não pertence ao ser da coisa, mas indica o seu não-ser (ejus non esse). Portanto, a figura é apenas a determinação e a determinação é negação e, assim, ela não pode ser algo, mas só uma negação." (Ep. 50, 219; G IV 249). Neste momento, sigo a tradução da Carta 50 estabelecida por Marilena Chauí (cf. ESPINOSA, 1983).]
+
+O que o conatus possibilita entender? Seria ele um movimento absoluto?
+
+Conatus em Leibniz e Espinosa
+A proposição 6 diz que: “cada coisa, o quanto está em suas forças, se esforça para perseverar em seu ser” (ESPINOSA, 2015a, p. 251).
+
+[identificação de esforço de uma coisa que tem essência e existência e só se destrói por força externa. Conatus também pode ser como força de oposição para a natureza humana.
+“Por isso o conatus, como potência divina em nós, deverá expressar sua afirmatividade também por via negativa, afastando o que nos é contrário, ou melhor, o que só nos é contrário porque não podemos compreendê-lo racionalmente.” (OLIVA, p. 72).]
+
+O que se preserva no item dividido?
+Na matéria eu não sei, mas na essência Espinosa parece aceitar que há uma variabilidade. Entre aumentar e diminuir o que gera, a partir daí a conservação.
+Como se preserva?
+iii) A distinção modal dos corpos e a existência de uma única substância em Espinosa nas refutações de Leibniz
+
  
