@@ -221,7 +221,7 @@ Não tenho certeza essa minha interpretação não está impregnada com a leitur
 
 
 
-\*\*Pag. 231\*\* 
+\*\*Pag. 231\*\*
 
 
 
@@ -233,7 +233,7 @@ Unde ex definitione Euclidis: punctum est, cujus pars nulla est, nullus error ir
 
 
 
-Capítulo 47 do TMA: "Euclides, fundamento da Geometria, nega que a raiz de um quadrado — ou, como costumo chamá-la, o número dos “quadratílos”, sobre o qual trato em outro lugar — coincida com o número de partes do lado; isso é fundamento não apenas da Álgebra, mas também da Geodésia. Ele também apresenta muitas outras coisas sobre o movimento, porém pouco demonstradas. Embora, de resto, eu não queira diminuir em nada o louvor devido a esse homem, cuja profundidade considero da mais alta estima. 
+Capítulo 47 do TMA: "Euclides, fundamento da Geometria, nega que a raiz de um quadrado — ou, como costumo chamá-la, o número dos “quadratílos”, sobre o qual trato em outro lugar — coincida com o número de partes do lado; isso é fundamento não apenas da Álgebra, mas também da Geodésia. Ele também apresenta muitas outras coisas sobre o movimento, porém pouco demonstradas. Embora, de resto, eu não queira diminuir em nada o louvor devido a esse homem, cuja profundidade considero da mais alta estima.
 
 Galileu e Honoratus Fabri desenvolveram prudentemente a foronomia experimental por meio de raciocínios. Dos escritos inéditos de Jungius e dos publicados de Wallis ouvi falar apenas."
 
@@ -265,9 +265,9 @@ DCp - Elementorum philosophiae sectio prima de corpore (Hobbes 1655). References
 
 \* O ponto não é tomado como algo indivisível (indivisible), mas algo individível" (undivided) - tal como um instante, que é um tempo individível no tempo, o ponto é isso no espaço. (p. 92).
 
-\* O movimento em um ponto é algo que não deve ser considerado por ser pequeno demais. 
+\* O movimento em um ponto é algo que não deve ser considerado por ser pequeno demais.
 
-\* Algo que se perde de vista pela comparação não deve ser tomado como referência. A magnitude de um ponto comparado a outro pode ser maior ou menor, mas um ponto em comparação a magnitude de uma linha perde propósito ou ratio... assim como comparar a distancia entre uma estrela com a terra ou a lua. 
+\* Algo que se perde de vista pela comparação não deve ser tomado como referência. A magnitude de um ponto comparado a outro pode ser maior ou menor, mas um ponto em comparação a magnitude de uma linha perde propósito ou ratio... assim como comparar a distancia entre uma estrela com a terra ou a lua.
 
 \* Os conatus//ou endeavour// podem ser maiores ou menores.
 
@@ -279,9 +279,35 @@ DCp - Elementorum philosophiae sectio prima de corpore (Hobbes 1655). References
 
 \* Para Morris, Hobbes está alinhado com uma ideia de dinâmica.
 
-\* Leibniz talvez esteja olhando para o problema que Morris destaca aqui: "However, it is questionable to claim, on the basis of this passage, that the concept has an intrinsically dynamic aspect. Hobbes does not explicitly mention the magnitude or weight of the bodies as a factor to be considered when comparing their endeavours (something which he certainly does raise when he actually does get around to defining force). Nor does he mention the notions of effect or force of impact. Finally, there is the acknowledged problem that the passage posits a correlation between the velocities of the bodies and their endeavours" (p. 93). 
+\* Leibniz talvez esteja olhando para o problema que Morris destaca aqui: "However, it is questionable to claim, on the basis of this passage, that the concept has an intrinsically dynamic aspect. Hobbes does not explicitly mention the magnitude or weight of the bodies as a factor to be considered when comparing their endeavours (something which he certainly does raise when he actually does get around to defining force). Nor does he mention the notions of effect or force of impact. Finally, there is the acknowledged problem that the passage posits a correlation between the velocities of the bodies and their endeavours" (p. 93).
 
-\* Existe a possibilidade de interpretar o problema da queda dos corpos descrita por Hobbes (bola de chumbo e o novelo de lã) como dois pontos que possuem características diferentes, portanto, percorrem um determinado espaço e tempo de modos diferentes. 
+\* Existe a possibilidade de interpretar o problema da queda dos corpos descrita por Hobbes (bola de chumbo e o novelo de lã) como dois pontos que possuem características diferentes, portanto, percorrem um determinado espaço e tempo de modos diferentes.
 
-\* Ao passo que o impetus, ou sua velocidade instantânea, pode ser compreendida como a velocidade in nenhum ponto do tempo e que a mudança é proporcionada - ou seja, uma diferença particular de cada corpo. 
+\* Ao passo que o impetus, ou sua velocidade instantânea, pode ser compreendida como a velocidade in nenhum ponto do tempo e que a mudança é proporcionada - ou seja, uma diferença particular de cada corpo.
+
+
+
+06/04/2026\~07/04/2029
+
+
+
+p. 231-232
+
+
+
+Iam si conatus idem est, etiam motus in recta et arcu, id est motus circulares et rectus (quia qualis motus coepit continuatur, seu qualis conatus talis motus) idem erit, quod est absurdum (...) (19.) Si duo conatus simul sunt servabiles, componuntur in unum, motu utroque servato, ut in sphaera super recta plani gyrata patet, ubi motus puncti alicujus, in superficie designat!, ex recto et circulari, per minima seu per conatus mixtis componitur in Cycloeidalem\[,] adde de spirali th. 7. et 12. Meretur hoc argumentum diligentius tractari a Geometris, ut appareat quarum linearum conatus quibus mixti quas lineas novas producant, unde multa fortasse nova Theoremata Geometrica demonstrari poterunt.
+
+
+
+Tradução: Se o conato é o mesmo, também o movimento em linha reta e em arco, isto é, o movimento circular e retilíneo (pois qual é o movimento que se inicia, tal se continua, ou qual é o conato, tal é o movimento), serão o mesmo, o que é absurdo. (... )(19.) Se dois conatos simultâneos são preserváveis, eles se combinam em um só, mantendo-se ambos os movimentos, como é evidente no caso de uma esfera girada sobre um plano reto, onde o movimento de um ponto qualquer na superfície, composto a partir do retilíneo e do circular, através dos elementos mínimos ou dos conatos misturados, resulta no cicloide. Acrescente-se o que foi dito sobre a espiral nos teoremas 7 e 12. Esse argumento merece ser tratado com mais cuidado pelos geômetras, para que se evidencie quais esforços (conatus) de certas linhas, quando combinados, produzem novas linhas — de onde talvez possam ser demonstrados muitos novos teoremas geométricos
+
+
+
+\[Interpretações: o que é absurdo é o caráter  material dado ao conatus? ou o que é absurdo é a sua condição de poder percorrer formas e figuras geométricas sem variar? então, não há somatória ou sobreposição de conatu, ele compõe uma tendência que paira sobre o movimento? Penso que ele não pode variar porque é uma tendência uniforme de movimento. Não se trata apenas de pontuar sua conjectura metafísica, mas de efetuar uma verificação daquilo que ele pode produzir. Conclusão parcial: Conatus não se altera em uma análise geométrica de movimento retilíneo e circular. "Uma esfera que gira em uma plano reto": não há variabilidade, mas condensação da tendência ao movimento. 07/04/2026: há uma oportunidade de condensar esforços, ou conatus, e isso proporciona uma única configuração (de pontos a linhas, de linhas a outras linhas, de movimento a repouso, de movimento a movimento), não há salto mas uma transitoriedade gradual.]
+
+
+
+
+
+
 
