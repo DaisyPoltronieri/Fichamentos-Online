@@ -92,7 +92,17 @@ ON THE ETHICS OF BENEDICT DE SPINOZA 1678 - \[G., I, 139-50]; \[L, p. 196-205];
 
 
 
-\-- 
+\--
+
+#### << Parte IV - Dicionário Espinosa >>
+
+Atributo: determinação, qualificação ou caracterização. Na Ética pode ser compreendido algo que gera uma perspectiva da essência de uma substância. (E I Def. 04)
+
+A percepção nota o atributo de uma substância "a partir dela", mas também configura algo dela própria (Ulysses também verifica essa abordagem em "Leibniz, 1678: anotações de leitura da ética de Espinosa" p. 21)
+
+Dicionário: "l'essence même de la substance: la doctrine des attributs est donc une pièce maîtresse de la constitution qualitative de la nature naturante." 
+
+
 
 
 
