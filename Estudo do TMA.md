@@ -287,7 +287,7 @@ DCp - Elementorum philosophiae sectio prima de corpore (Hobbes 1655). References
 
 
 
-06/04/2026\~07/04/2029
+06/04/2026\~07/04/2026
 
 
 
@@ -307,7 +307,17 @@ Tradução: Se o conato é o mesmo, também o movimento em linha reta e em arco,
 
 
 
+08/04/2026
 
 
 
+(22.) Si conatus incomponibiles sunt inaequales, sibi adimuntur, servata plaga fortioris, theor. i. 2. 3., quia duo conatus sibi adimi possunt, est enim minor aequalis parti majoris: quamdiu igitur res exitum reperit parte alterutrius, non est cur tertium eligatur. 
+
+
+
+Tradução: (22.) Se os conatus incomponíveis são desiguais, eles se anulam mutuamente, permanecendo o impulso do mais forte, conforme a teoria 1.2.3., pois dois conatus podem anular-se — sendo o menor igual a uma parte do maior. Portanto, enquanto a coisa encontra saída por meio de uma das partes, não há razão para que se escolha uma terceira.
+
+
+
+\[Interpretações: Depois de explicar que um conatus pode se sobrepor a outro, e transformar a uma linha em outra por sua própria tendência, Leibniz agora escreve que há possibilidade desse esforço ser anulado - os teoremas 1, 2 e 3 que ele menciona a aceleração e a concentração ou centralização do movimento. Os efeitos desses teoremas são verificados na própria geometria dos corpos, em relação a outro ou consigo mesmo (penso eu)]
 
