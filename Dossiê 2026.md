@@ -507,4 +507,9 @@ Na matéria eu não sei, mas na essência Espinosa parece aceitar que há uma va
 Como se preserva?
 iii) A distinção modal dos corpos e a existência de uma única substância em Espinosa nas refutações de Leibniz
 
+**08/04/2026**
+- Participação do grupo de Estudos de Tradução Leibniz 9:00~12:00.
+- Leitura da introdução do livro "Existência e eternidade em Espinosa e Leibniz" de Luiz Cesar Oliva. Objetivo de angariar material e maturidade textual para dissertar o texto de apresentação para USP em maio.
+- Leitura de documentação e criação de conta internacional para o BEPE/FAPESP, aprovado hoje (Processo 2026/02873-1).
+- Estudo do TMA.
  
