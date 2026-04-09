@@ -512,4 +512,10 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 - Leitura da introdução do livro "Existência e eternidade em Espinosa e Leibniz" de Luiz Cesar Oliva. Objetivo de angariar material e maturidade textual para dissertar o texto de apresentação para USP em maio.
 - Leitura de documentação e criação de conta internacional para o BEPE/FAPESP, aprovado hoje (Processo 2026/02873-1).
 - Estudo do TMA.
+
+**09/04/2026**
+- Escrita do texto de apresentação de estudo sobre o conatus, entre Leibniz e Espinosa. (escrevi duas páginas e meia hoje).
+- Grupo de Estudo: Leitura do texto Discurso de Metafísica.
+
+
  
