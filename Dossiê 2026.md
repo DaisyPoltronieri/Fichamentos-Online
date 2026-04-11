@@ -517,5 +517,8 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 - Escrita do texto de apresentação de estudo sobre o conatus, entre Leibniz e Espinosa. (escrevi duas páginas e meia hoje).
 - Grupo de Estudo: Leitura do texto Discurso de Metafísica.
 
+**10/04/2026~11/04/2026**
+- Escrita do texto de apresentação de estudo sobre o conatus, entre Leibniz e Espinosa. (tenho 5 páginas escritas).
+
 
  
