@@ -520,5 +520,7 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 **10/04/2026~11/04/2026**
 - Escrita do texto de apresentação de estudo sobre o conatus, entre Leibniz e Espinosa. (tenho 5 páginas escritas).
 
+**12/04/2026~13/04/2026**
+- Escrita do texto de apresentação de estudo sobre o conatus, entre Leibniz e Espinosa (7 páginas escritas).
 
  
