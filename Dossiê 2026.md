@@ -530,4 +530,5 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 
 **15/04/2026**
 - Grupo de estudo de tradução (9~12).
+- Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa. (16 páginas: revisão)
  
