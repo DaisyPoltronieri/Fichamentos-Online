@@ -522,5 +522,12 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 
 **12/04/2026~13/04/2026**
 - Escrita do texto de apresentação de estudo sobre o conatus, entre Leibniz e Espinosa (7 páginas escritas).
+- Leitura do artigo: Tessa Lacerda, Leibniz leitor de Espinosa. 2011.
+- Assinatura do BEPE/aprovação.
 
+**14/04/2026**
+- Escrita do texto de apresentação de estudo sobre o conatus, entre Leibniz e Espinosa e revisão (8 páginas escritas).
+
+**15/04/2026**
+- Grupo de estudo de tradução (9~12).
  
