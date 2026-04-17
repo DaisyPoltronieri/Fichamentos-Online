@@ -311,7 +311,7 @@ Tradução: Se o conato é o mesmo, também o movimento em linha reta e em arco,
 
 
 
-(22.) Si conatus incomponibiles sunt inaequales, sibi adimuntur, servata plaga fortioris, theor. i. 2. 3., quia duo conatus sibi adimi possunt, est enim minor aequalis parti majoris: quamdiu igitur res exitum reperit parte alterutrius, non est cur tertium eligatur. 
+(22.) Si conatus incomponibiles sunt inaequales, sibi adimuntur, servata plaga fortioris, theor. i. 2. 3., quia duo conatus sibi adimi possunt, est enim minor aequalis parti majoris: quamdiu igitur res exitum reperit parte alterutrius, non est cur tertium eligatur.
 
 
 
@@ -320,4 +320,38 @@ Tradução: (22.) Se os conatus incomponíveis são desiguais, eles se anulam mu
 
 
 \[Interpretações: Depois de explicar que um conatus pode se sobrepor a outro, e transformar a uma linha em outra por sua própria tendência, Leibniz agora escreve que há possibilidade desse esforço ser anulado - os teoremas 1, 2 e 3 que ele menciona a aceleração e a concentração ou centralização do movimento. Os efeitos desses teoremas são verificados na própria geometria dos corpos, em relação a outro ou consigo mesmo (penso eu)]
+
+
+
+16/04/2026 
+
+
+
+(24.) Nihil est sine ratione, cujus consectaria sunt, quam minimum mutandum, inter contraria medium eligendum, quidvis uni addendum, ne quid alterutri adimatur; 
+
+multaque alia, quae in scientia quoque civili dominantur.
+
+
+
+“(24.) Nada existe sem razão; disso decorrem princípios como: alterar o mínimo possível, escolher o meio entre os contrários, acrescentar algo a um sem retirar nada do outro; e muitas outras regras que também predominam na ciência civil (ou política).”
+
+
+
+\[Interpretação: possível ponto de interação entre Leibniz e Hobbes as quais a leis físicas se projetam em uma tese política].
+
+
+
+\*\*THEOREMATA\*\*
+
+
+
+7\. Si duo corpora concurrunt aequivelociter (vel etiam alterum incurrit, alterum praetervehitur, vid. Theorema 4.) et fit angulus (quod semper fit in accursu, nunquam in occursu recto) isque est bisectilis; duo corpora simul movebuntur recta (nisi motus unius sit uniformis, alterius acceleratus, quo casu oriri Parábolas aliaque linearum genera, Hobbio visum est, de quo alibi) angulum concursus (vel incursus) extrorsum bisecante (nisi duo conatus sibi mutuo addi possint, ut rectus circularisque in spiralem, servata singulorum celeritate, vid. fund. 19), celeritate vero priore. 8. Hinc sequitur angulum incidentiae et reflexionis non esse semper aequales, sed in nostro casu (ubi utrumque concurrentium est mutuo incidens, utrumque compositum in unum reflectens) angulum incidentiae et reflexionis rectilineum, uter minor est, esse alterius duplo supplementum ad rectum. Causa aequalitatis in corporibus sensibilibus reddita est in Theoria motus concreti §. 22.
+
+
+
+7\. Se dois corpos concorrem com velocidades iguais (ou mesmo se um incide e o outro passa ao lado, ver Teorema (4), e forma-se um ângulo (o que sempre ocorre no encontro oblíquo, nunca no encontro perfeitamente frontal), e esse ângulo é bissecto; os dois corpos mover-se-ão juntos em linha reta (a menos que o movimento de um seja uniforme e o do outro acelerado — caso em que surgem parábolas e outros tipos de linhas, **como pareceu a Thomas Hobbes, sobre o que trato em outro lugar**), seguindo a direção que bissecta externamente o ângulo de colisão (ou incidência), salvo se os dois impulsos puderem somar-se mutuamente — como o retilíneo e o circular formando uma espiral, mantendo-se a velocidade de cada um (ver fundamento 19); conservando, porém, a velocidade anterior. 8. Daí se segue que o ângulo de incidência e o de reflexão nem sempre são iguais; mas, no nosso caso (em que ambos os corpos concorrentes incidem mutuamente e ambos, combinados em um só, refletem), o ângulo retilíneo formado pela incidência e reflexão — sendo o menor — é o duplo do complemento do outro em relação a um ângulo reto. A causa da igualdade nos corpos sensíveis foi explicada na Teoria do movimento concreto, § 22.
+
+
+
+\[Interpretação: Leibniz difere tipos de colisão. Entre corpos com movimento uniforme e outro acelerado. O ângulo que se forma a partir da colisão depende da condição de movimento em que os corpos se encontram ao colidir. Leibniz analisa a colisão como um problema de composição de movimentos. Quando há simetria (mesma velocidade e condições equivalentes), o movimento resultante segue leis geométricas determinadas, como a bissecção do ângulo. Quando essa simetria se rompe (por exemplo, com movimento acelerado), surgem trajetórias não retilíneas. Com isso, ele rejeita que a igualdade entre ângulo de incidência e reflexão seja universal, restringindo-a a casos específicos tratados na Theoria motus concreti.]
 
