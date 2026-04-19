@@ -536,3 +536,6 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 - Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa. (17 páginas: revisão)
 - Grupo de estudo Seiscentista (participei online para poder terminar meu artigo). Continuação do capítulo XI e o cap. XII dos Elementos da Lei.
 - Estudo TMA 
+
+**17/04~18/04/2026** 
+- Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa (revisão de notas e escrita)
