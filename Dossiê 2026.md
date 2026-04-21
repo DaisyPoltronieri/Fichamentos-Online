@@ -547,7 +547,7 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 - Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa (revisão de notas e escrita).
 - Leitura "a visão em Deus e o problema da percepção em Malebranche" de Sacha Z. Kontic (livro novo 2026).
 - Participação do encontro da RedIberoamericana Leibniz.
-- Escrita do texto de apresentação para a Red.
+- Escrita do texto de apresentação para a Red (tenho 6 páginas/de 8 a 9 que devo escrever)
 
 **22/04/2026**
 - 
