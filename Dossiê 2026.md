@@ -538,4 +538,16 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 - Estudo TMA 
 
 **17/04~18/04/2026** 
-- Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa (revisão de notas e escrita)
+- Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa (revisão de notas e escrita).
+
+**19/04~20/04/2026
+- Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa (revisão de notas e escrita).
+
+**21/04/2026**
+- Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa (revisão de notas e escrita).
+- Leitura "a visão em Deus e o problema da percepção em Malebranche" de Sacha Z. Kontic (livro novo 2026).
+- Participação do encontro da RedIberoamericana Leibniz.
+- Escrita do texto de apresentação para a Red.
+
+**22/04/2026**
+- 
