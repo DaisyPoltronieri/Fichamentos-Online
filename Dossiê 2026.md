@@ -542,12 +542,20 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 
 **19/04~20/04/2026
 - Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa (revisão de notas e escrita).
+- Francisco Guerra Ferraz me incluiu como pesquisador no grupo de pesquisa Grupo de Pesquisa em Metafísica e Política, da Universidade Federal do Amazonas (UFAM)/Cnpq.
 
 **21/04/2026**
 - Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa (revisão de notas e escrita).
 - Leitura "a visão em Deus e o problema da percepção em Malebranche" de Sacha Z. Kontic (livro novo 2026).
-- Participação do encontro da RedIberoamericana Leibniz.
+- Participação do encontro da RedIberoamericana Leibniz (12~14:30).
 - Escrita do texto de apresentação para a Red (tenho 6 páginas/de 8 a 9 que devo escrever)
 
 **22/04/2026**
-- 
+- Leituras: "a visão em Deus e o problema da percepção em Malebranche" de Sacha Z. Kontic (CAP. 5.4)
+- Participação do grupo de tradução Leibniz (9~12hrs).
+- Escrita do texto de apresentação para a Red. (terminei de estruturar e escrever o texto falta notas e bibliografia).
+
+**23/04/2026**
+- Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa (revisão de notas e escrita).
+
+
