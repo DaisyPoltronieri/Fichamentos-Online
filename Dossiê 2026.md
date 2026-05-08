@@ -558,4 +558,21 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 **23/04/2026**
 - Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa (revisão de notas e escrita).
 
+**24/04/2026**
+- Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa (revisão de notas e escrita).
+- Grupo de Estudo - Leitura do Discurso de Metafísica (10:30~12:30).
+
+**25/04~26/04/2026**
+- Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa (revisão de notas e escrita).
+
+**27/04/2026**
+- Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa (finalizado).
+- Revisão do texto de apresentação na USP sobre Leibniz e Espinosa. Evento no dia 04/05/2026.
+
+**28/04/2026-08/04/2026**
+- viagem para São Carlos: participação grupo de estudo "Os elementos da lei natural e política" Hobbes. Leitura e discussão do capítulo XIII e XIV.
+- viagem para São Paulo; participação do evento da USP de 04 a 06 de maio. Apresentação e anotações sobre as correspondências e tensões com o Leibniz.
+- preparação e envio do texto e handout de trabalho para apresentação da Red Iberoamericana Leibniz.
+- seleção bibliográfica do texto e envio do trabalho para apresentação da Red Iberoamericana Leibniz.
+
 
