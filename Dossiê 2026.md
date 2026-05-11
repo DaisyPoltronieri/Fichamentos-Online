@@ -581,9 +581,9 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 2) Estruturar as dúvidas a partir da apresentação. 
 3) estudar para a apresentação da Red Iberoamericana. 
 4) ler a enciclopédia sobre Huygens e Hobbes
-- Leitura e fichamento On Minimum and Maximum (AIII5); In Arthur, Labirinto do Contínuo.
-- Leitura Wilson, C. Jovem Leibniz artigo em Stuart Brown.
-- Leitura artigo Giorgio sobre o infinito.
+- Leitura e fichamento On Minimum and Maximum (AIII5); In Arthur, Labirinto do Contínuo (indispensável).
+- Leitura Wilson, C. Jovem Leibniz artigo em Stuart Brown (importante).
+- Leitura artigo Giorgio sobre o infinito (complementar).
 
 
 
