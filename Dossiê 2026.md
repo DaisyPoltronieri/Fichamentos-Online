@@ -569,10 +569,21 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 - Escrita do texto de apresentação e publicação sobre Leibniz e Malebranche - Lisboa (finalizado).
 - Revisão do texto de apresentação na USP sobre Leibniz e Espinosa. Evento no dia 04/05/2026.
 
-**28/04/2026-08/04/2026**
+**28/04/2026-08/05/2026**
 - viagem para São Carlos: participação grupo de estudo "Os elementos da lei natural e política" Hobbes. Leitura e discussão do capítulo XIII e XIV.
 - viagem para São Paulo; participação do evento da USP de 04 a 06 de maio. Apresentação e anotações sobre as correspondências e tensões com o Leibniz.
 - preparação e envio do texto e handout de trabalho para apresentação da Red Iberoamericana Leibniz.
 - seleção bibliográfica do texto e envio do trabalho para apresentação da Red Iberoamericana Leibniz.
+
+**09/05/2026~12/05/2026**
+- Revisão estrutural das atividades e previsão de atividades da semana: 
+1) retomar o estudo do TMA; 
+2) Estruturar as dúvidas a partir da apresentação. 
+3) estudar para a apresentação da Red Iberoamericana. 
+4) ler a enciclopédia sobre Huygens e Hobbes
+- Leitura e fichamento On Minimum and Maximum (AIII5); In Arthur, Labirinto do Contínuo.
+- Leitura Wilson, C. Jovem Leibniz artigo em Stuart Brown.
+- Leitura artigo Giorgio sobre o infinito.
+
 
 
