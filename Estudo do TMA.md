@@ -323,11 +323,11 @@ Tradução: (22.) Se os conatus incomponíveis são desiguais, eles se anulam mu
 
 
 
-16/04/2026 
+16/04/2026
 
 
 
-(24.) Nihil est sine ratione, cujus consectaria sunt, quam minimum mutandum, inter contraria medium eligendum, quidvis uni addendum, ne quid alterutri adimatur; 
+(24.) Nihil est sine ratione, cujus consectaria sunt, quam minimum mutandum, inter contraria medium eligendum, quidvis uni addendum, ne quid alterutri adimatur;
 
 multaque alia, quae in scientia quoque civili dominantur.
 
@@ -354,4 +354,30 @@ multaque alia, quae in scientia quoque civili dominantur.
 
 
 \[Interpretação: Leibniz difere tipos de colisão. Entre corpos com movimento uniforme e outro acelerado. O ângulo que se forma a partir da colisão depende da condição de movimento em que os corpos se encontram ao colidir. Leibniz analisa a colisão como um problema de composição de movimentos. Quando há simetria (mesma velocidade e condições equivalentes), o movimento resultante segue leis geométricas determinadas, como a bissecção do ângulo. Quando essa simetria se rompe (por exemplo, com movimento acelerado), surgem trajetórias não retilíneas. Com isso, ele rejeita que a igualdade entre ângulo de incidência e reflexão seja universal, restringindo-a a casos específicos tratados na Theoria motus concreti.]
+
+
+
+11/05/2026
+
+
+
+\*\*PROBLEMA GENERALE\*\*
+
+Observações posteriores: relacionei essa parte do texto ao parágrafo 11 do Sistema Novo e observei uma hierarquia do entendimento do movimento abstrato.
+
+
+
+\[Omnes possibiles lineas, figuras, corpora, et motus secundum omnes lineas, Physice construere meris motibus rectis inter se aequalibus, item 
+
+meris motibus curvis cujuscunque generis, adhibitis corporibus quibuscun que. Triplex constructio est: Geometrica, id est imaginaria, sed exacta; Mechanica, id 
+
+est realis, sed non exacta; et Physica, id est realis et exacta: Geometrica continet modos, quibus corpora construi possunt, licet saepe a solo Deo, dummodo scilicet non implicare intelligantur, ut si circulus fiat flexione rectae per minima; Mechanica nostros, Physica eos quibus natura res efficere potest, id est quos corpora producunt seipsis.]
+
+
+
+Construir fisicamente todas as linhas, figuras, corpos e movimentos possíveis segundo todas as linhas, por meio apenas de movimentos retos entre si iguais, e também apenas de movimentos curvos de qualquer gênero, utilizando quaisquer corpos. Há uma tripla construção: 1) a geométrica, isto é, imaginária, mas exata; 2) a mecânica, isto é, real, mas não exata; 3) e a física, isto é, real e exata. A geométrica contém os modos pelos quais os corpos podem ser construídos, ainda que frequentemente apenas por Deus, contanto que se entenda que não implicam contradição; como, por exemplo, quando um círculo é produzido pela flexão de uma reta através de mínimos. A mecânica compreende os nossos modos \[de construção]; a física, aqueles pelos quais a natureza pode produzir as coisas, isto é, aqueles que os corpos produzem por si mesmos.
+
+
+
+\[Interpretação: A mecânica é a via imperfeita da aplicação da matemática. Embora seja edificada pela realidade - compatível com o mundo físico - suas circunstancias limitantes (derivadas da aplicação humana da geometria perfeitamente exata) torna-a imperfeita. O que mudou para que em 1676 ele mudasse os aspectos de conatus para uma possível leitura de um Leibniz panteísta? (Wilson, In Stuart Brown); embora aqui no TMA ele ainda não tenha mencionado o conatus como um esforço "singularizante".]
 
