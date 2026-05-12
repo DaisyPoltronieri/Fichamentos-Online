@@ -367,9 +367,9 @@ Observações posteriores: relacionei essa parte do texto ao parágrafo 11 do Si
 
 
 
-\[Omnes possibiles lineas, figuras, corpora, et motus secundum omnes lineas, Physice construere meris motibus rectis inter se aequalibus, item 
+\[Omnes possibiles lineas, figuras, corpora, et motus secundum omnes lineas, Physice construere meris motibus rectis inter se aequalibus, item
 
-meris motibus curvis cujuscunque generis, adhibitis corporibus quibuscun que. Triplex constructio est: Geometrica, id est imaginaria, sed exacta; Mechanica, id 
+meris motibus curvis cujuscunque generis, adhibitis corporibus quibuscun que. Triplex constructio est: Geometrica, id est imaginaria, sed exacta; Mechanica, id
 
 est realis, sed non exacta; et Physica, id est realis et exacta: Geometrica continet modos, quibus corpora construi possunt, licet saepe a solo Deo, dummodo scilicet non implicare intelligantur, ut si circulus fiat flexione rectae per minima; Mechanica nostros, Physica eos quibus natura res efficere potest, id est quos corpora producunt seipsis.]
 
@@ -380,4 +380,34 @@ Construir fisicamente todas as linhas, figuras, corpos e movimentos possíveis s
 
 
 \[Interpretação: A mecânica é a via imperfeita da aplicação da matemática. Embora seja edificada pela realidade - compatível com o mundo físico - suas circunstancias limitantes (derivadas da aplicação humana da geometria perfeitamente exata) torna-a imperfeita. O que mudou para que em 1676 ele mudasse os aspectos de conatus para uma possível leitura de um Leibniz panteísta? (Wilson, In Stuart Brown); embora aqui no TMA ele ainda não tenha mencionado o conatus como um esforço "singularizante".]
+
+
+
+12/05/2026
+
+
+
+\*\*PROBLEMA SPECIALIA\*\*
+
+
+
+10\. Corpus motum retroagere, id fiet per th. 1. effecto motu celeriore per probl. 9. 11. Repercussionem mutuam efficere, id fiet si ambo ferantur a liquido quodam 
+
+discontiguo propter th. 21. ita subtili, ut plurimum alterius per alterius polos mutuo, non obstante occursu progrediatur; tunc enim etiam in corpus oppositum impetum mutuo transferent, unde non tantum repercussio, sed et viarum et celeritatum permutatio orietur. Talis subtilitas est in luce radiis diversorum lucidorum per unum foramen sine confusione transeuntibus, et in sono, et meridianis magneticis in eodem polo, inoffenso motu, se intersecantibus: et generatim in AETHERE, per Hypotheses nostras, cujus cum motu potius quam suo corpora sensibilia ferantur, habebunt ab hoc subtili portitore motuum divaricationem Hugeniowrennianam, motus indestruibilitatem (nisi quatenus dispersione fit insensibilior) Cartesianam; Elaterem, reflexionis refractionisque leges, motum circularem simplicem Hobbianum, cohaesionem, duritiem, bullas (velut proprium quendam mundulum, propriam atmosphaeram, proprios polos, et magnetismos, et electricismos, propriam lucem), pleraque gravitatem, gravia descendentia accelerationem, pendula vi brationem; projecta motus impressi, sublato licet motore, retentionem; Chemici principia, Mechanici potentias, Physici Phaenomena omnia globi nostri. De quo pluribus in Theoria motus concreti. Potest ergo assumto solo Aethere Theoria motus concreti derivari ex theoria motus abstracti, et solvi hoc problema generale: Omnes motus sensibiles explicare. Sed pergamus. 12. Detorsionem efficere id fiet per th. 17. 13. Permutatio
+
+nem viarum inter impingentia efficere, id fiet constructione probl. 11.
+
+
+
+
+
+\[Tradução: 10. Fazer um corpo retroceder em movimento: isso ocorrerá, pela tese 1, produzindo um movimento mais rápido segundo o problema 9.11 Produzir repercussão mútua: isso ocorrerá se ambos forem transportados por algum líquido descontínuo, segundo a tese 21, tão sutil que a maior parte de um atravesse mutuamente os polos do outro, sem impedimento apesar do choque; então, com efeito, também transferirão mutuamente impulso ao corpo oposto, de onde surgirá não apenas a repercussão, mas também a troca de trajetórias e velocidades. Tal sutileza existe na luz, quando raios de diferentes corpos luminosos passam pelo mesmo orifício sem confusão, e também no som, e nas linhas meridianas magnéticas que se cruzam no mesmo polo sem perturbar o movimento; e, em geral, no ÉTER, segundo nossas hipóteses, com cujo movimento os corpos sensíveis seriam transportados mais do que pelo próprio movimento deles. Desse sutil portador dos movimentos, eles terão a divergência hugeniano-wrenniana, a indestrutibilidade cartesiana do movimento (exceto na medida em que, pela dispersão, ele se torna menos perceptível), a elasticidade, as leis da reflexão e da refração, **o movimento circular simples hobbesiano**, a coesão, a dureza, as bolhas (como uma espécie de pequeno mundo próprio, com atmosfera própria, polos próprios, magnetismos e eletricidades próprios, luz própria), em muitos casos a gravidade, nos corpos pesados em queda a aceleração, nos pêndulos a vibração, nos projéteis a conservação do movimento impresso, mesmo removido o motor, os princípios dos químicos, as potências dos mecânicos e todos os fenômenos físicos do nosso globo. Sobre isso, mais extensamente na *Teoria do movimento concreto*. Pode, portanto, assumido apenas o Éter, **derivar-se a teoria do movimento concreto da teoria do movimento abstrato**, e resolver-se este problema geral: explicar todos os **movimentos sensíveis**. Mas prossigamos. Produzir torção: isso ocorrerá pela tese 17.
+
+Produzir a troca de trajetórias entre os corpos que colidem: isso ocorrerá pela construção do problema 11.]
+
+
+
+\[Interpretação: Na parte dos problemas específicos, e na passagem supracitada, Leibniz referencia como o movimento concreto pode ser entendido a partir do movimento abstrato. A tese tem grande impacto para que se possa compreender o pensamento do autor no quesito de entendimento sobre como a mecânica e a física podem ser derivadas da metafísica. É importante observar, no entanto, que o TMA (1671) configura um momento do pensamento do jovem Leibniz afetado pela tese hobbesiana que garante, como Wilson diz (In S. Brown) algo de panteísta no seu pensamento. Algo que podemos confirma segundo a leitura da carta a Arnauld de 1671, em que ele sugere que há um *conatus* que engendra todos os outros. Sublinho que esse cenário é o que aproxima Leibniz de Espinosa, no entanto, e após conhecê-lo, Leibniz retrocede e conjectura a formalização da substância individual (a partir de 1676) - ver meu texto de apresentação da USP]. 
+
+
 
