@@ -577,11 +577,12 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 
 **09/05/2026~12/05/2026**
 - Revisão estrutural das atividades e previsão de atividades da semana: 
-1) retomar o estudo do TMA; 
+1) Retomar o estudo do TMA; 
 2) Estruturar as dúvidas a partir da apresentação. 
-3) estudar para a apresentação da Red Iberoamericana. 
+3) Estudar para a apresentação da Red Iberoamericana. 
 4) ler a enciclopédia sobre Huygens e Hobbes
 - Leitura e fichamento On Minimum and Maximum (AIII5); In Arthur, Labirinto do Contínuo (indispensável).
+- Leitura da correspondência Leibniz-Arnauld (1671) L 148-150. Miniensaio sobre o texto. (indispensável).
 - Leitura Wilson, C. Jovem Leibniz artigo em Stuart Brown (importante).
 - Leitura artigo Giorgio sobre o infinito (complementar).
 
