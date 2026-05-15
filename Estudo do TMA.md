@@ -391,13 +391,11 @@ Construir fisicamente todas as linhas, figuras, corpos e movimentos possíveis s
 
 
 
-10\. Corpus motum retroagere, id fiet per th. 1. effecto motu celeriore per probl. 9. 11. Repercussionem mutuam efficere, id fiet si ambo ferantur a liquido quodam 
+10\. Corpus motum retroagere, id fiet per th. 1. effecto motu celeriore per probl. 9. 11. Repercussionem mutuam efficere, id fiet si ambo ferantur a liquido quodam
 
 discontiguo propter th. 21. ita subtili, ut plurimum alterius per alterius polos mutuo, non obstante occursu progrediatur; tunc enim etiam in corpus oppositum impetum mutuo transferent, unde non tantum repercussio, sed et viarum et celeritatum permutatio orietur. Talis subtilitas est in luce radiis diversorum lucidorum per unum foramen sine confusione transeuntibus, et in sono, et meridianis magneticis in eodem polo, inoffenso motu, se intersecantibus: et generatim in AETHERE, per Hypotheses nostras, cujus cum motu potius quam suo corpora sensibilia ferantur, habebunt ab hoc subtili portitore motuum divaricationem Hugeniowrennianam, motus indestruibilitatem (nisi quatenus dispersione fit insensibilior) Cartesianam; Elaterem, reflexionis refractionisque leges, motum circularem simplicem Hobbianum, cohaesionem, duritiem, bullas (velut proprium quendam mundulum, propriam atmosphaeram, proprios polos, et magnetismos, et electricismos, propriam lucem), pleraque gravitatem, gravia descendentia accelerationem, pendula vi brationem; projecta motus impressi, sublato licet motore, retentionem; Chemici principia, Mechanici potentias, Physici Phaenomena omnia globi nostri. De quo pluribus in Theoria motus concreti. Potest ergo assumto solo Aethere Theoria motus concreti derivari ex theoria motus abstracti, et solvi hoc problema generale: Omnes motus sensibiles explicare. Sed pergamus. 12. Detorsionem efficere id fiet per th. 17. 13. Permutatio
 
 nem viarum inter impingentia efficere, id fiet constructione probl. 11.
-
-
 
 
 
@@ -407,7 +405,67 @@ Produzir a troca de trajetórias entre os corpos que colidem: isso ocorrerá pel
 
 
 
-\[Interpretação: Na parte dos problemas específicos, e na passagem supracitada, Leibniz referencia como o movimento concreto pode ser entendido a partir do movimento abstrato. A tese tem grande impacto para que se possa compreender o pensamento do autor no quesito de entendimento sobre como a mecânica e a física podem ser derivadas da metafísica. É importante observar, no entanto, que o TMA (1671) configura um momento do pensamento do jovem Leibniz afetado pela tese hobbesiana que garante, como Wilson diz (In S. Brown) algo de panteísta no seu pensamento. Algo que podemos confirma segundo a leitura da carta a Arnauld de 1671, em que ele sugere que há um *conatus* que engendra todos os outros. Sublinho que esse cenário é o que aproxima Leibniz de Espinosa, no entanto, e após conhecê-lo, Leibniz retrocede e conjectura a formalização da substância individual (a partir de 1676) - ver meu texto de apresentação da USP]. 
+\[Interpretação: Na parte dos problemas específicos, e na passagem supracitada, Leibniz referencia como o movimento concreto pode ser entendido a partir do movimento abstrato. A tese tem grande impacto para que se possa compreender o pensamento do autor no quesito de entendimento sobre como a mecânica e a física podem ser derivadas da metafísica. É importante observar, no entanto, que o TMA (1671) configura um momento do pensamento do jovem Leibniz afetado pela tese hobbesiana que garante, como Wilson diz (In S. Brown) algo de panteísta no seu pensamento. Algo que podemos confirma segundo a leitura da carta a Arnauld de 1671, em que ele sugere que há um *conatus* que engendra todos os outros. Sublinho que esse cenário é o que aproxima Leibniz de Espinosa, no entanto, e após conhecê-lo, Leibniz retrocede e conjectura a formalização da substância individual (a partir de 1676) - ver meu texto de apresentação da USP].
+
+
+
+13/05/2026
+
+
+
+\*\*USUS\*\*
+
+
+
+Etsi haec aliave solvi non possent ex abstractis motus rationibus in corporibus absolute consideratis; in sensibilibus tamen, assumto saltem Aethere insensibili, facile explicari potest qua ratione efficiatur ut nullus error sensibilis rationes nostras turbet, quod phaeno menis sufficit. Nimirum longe aliter Natura (quatenus sensibilis est, nam alioquin interioribus ejus figuras accuratas ex abstractis motus legibus secundum problemata praemissa construi, qualem constructionem Physicam voco, non possibile tantum, sed et necessarium est) et Ars haec problemata solvit, quam Geometra; mechanice scilicet, motibus non continuis, sed revera interruptis; uti Geometrae describunt Quadratricem per puncta, et Archimedes quadrat Circulum per Polygona, spreto errore nihil phaenomena turbaturo. Sensus enim dijudicare non potest, corpus aliquod unum continuum contiguumve sit, an multorum discontiguorum hiantium acervus; partes omnino quiescant, an motu insensibili in se redeant; angulus concursus sit parum obliquus, an exacte rectus; contactus in puncto fiat, vel linea superficieve; celeritas quanta, curvitas vera, an ex recta fracta ementita: quibus variatis, patet ex Theoria nostra et motus variari.
+
+
+
+\[Tradução: “Embora estas ou outras coisas não pudessem ser resolvidas a partir das razões abstratas do movimento em corpos considerados absolutamente, ainda assim, nas coisas sensíveis, admitindo ao menos um **éter insensível**, pode-se explicar facilmente de que modo ocorre que nenhum erro sensível perturbe nossos cálculos, o que basta para os fenômenos. Pois a Natureza — enquanto é sensível (já que, de outro modo, quanto aos seus aspectos internos, não apenas é possível, mas necessário construir suas figuras exatas a partir das leis abstratas do movimento segundo os problemas propostos, construção esta que chamo de Física) — resolve esses problemas de maneira muito diferente da Arte e do Geômetra: mecanicamente, isto é, por movimentos não contínuos, mas realmente interrompidos. Assim como os geômetras descrevem a quadratriz por pontos, e Arquimedes quadrava o círculo por polígonos, desprezando o erro que nada perturbaria nos fenômenos. Pois os sentidos não podem julgar se algum corpo é um contínuo único e contíguo, ou um amontoado de muitos corpos descontínuos e separados por intervalos; se as partes permanecem totalmente em repouso, ou retornam sobre si por um movimento insensível; se o ângulo do encontro é pouco oblíquo ou exatamente reto; se o contato ocorre num ponto, numa linha ou numa superfície; qual a velocidade, qual a verdadeira curvatura, ou se ela é simulada por uma linha reta quebrada — e, **variando essas coisas**, é evidente, pela nossa teoria, **que o movimento também varia**”.]
+
+
+
+\[Interpretação: a variabilidade do movimento decorre da não correspondência entre noções geométricas puras e ao mundo natural, ou como Leibniz chama, a física. Nesse excerto, a continuidade e a contiguidade surgem como elementos fundamentais aquém dos sentidos. Portanto, a verificação se regra pela aplicação da razão matemática aplicada a física. Leibniz considera, no entanto, que as lacunas do saber precisam ser consideradas com o objetivo de ter plenitude da natureza].
+
+
+
+14/05/2026
+
+
+
+Sed quid refert, inquies, si nihil phaenomena variantur? cui bono haec contemplatio suscipitur, de eventis figurarum motuumque exactorum, si nulli tales unquam tractandi offeruntur? An Angelis, quibus cum subtilioribus corporum fortasse negotium est, artem Mechanicam scribimus? Nolo respondere etiam Mechanicis nonnunquam majore solito exactitudine opus esse, ut in lentibus elaborandis sectionum Conicarum, quia etsi majore non tamen summa: neque ad Geometras provocare licet, quia his ipsis objiciunt quidam frustra quadraturam circuli et tot alia quaeri, quae etiam inventa nihil levamenti rebus humanis sint allatura; quando exactiores jam tum proportiones Mechanicas habeamus, quam quas instrumentis assequi liceat; nec voluptatem maximam praedicabo, qua detecta quaedam nova rerum harmonia mentes huic Musicae assuetas afficit (ut adeo is saltem huic doctrinae generi inter artes mentales locus sit relinquendus, qui pictoribus, Poëtis, Musicis, adde et Apiciis et arbitris voluptatum Petroniis inter corporales), quia nisi expertis persuaderi non potest rerum, ut ipsis videtur, tam sterilium aridarumque suavitas. Sed etsi ostendam maximas de finito et infinito, de vacuo et pleno, de compositione Continui, de motu aut statione terrae, controversias, non nisi abstractis motus rationibus probe cognitis, definiri posse, non erunt haec, opinor, tanti apud hos censores.
+
+
+
+\[Tradução: Mas que importa, dirás, se os fenômenos não variam em nada? Para que serve essa contemplação dos resultados exatos das figuras e dos movimentos, se jamais se apresentam casos tais que possam ser tratados desse modo? Estaremos escrevendo a arte mecânica para os anjos, que talvez lidem com corpos mais sutis? Não quero responder que também os mecânicos, às vezes, necessitam de uma exatidão maior que a habitual, como na elaboração de lentes segundo as secções cônicas — ainda que precisem de maior precisão, não da precisão máxima. Tampouco convém apelar aos geômetras, pois a eles próprios alguns objetam que é inútil buscar a **quadratura do círculo** e tantas outras coisas que, mesmo descobertas, nada acrescentariam de útil à vida humana, já que possuímos proporções mecânicas mais exatas do que aquelas que os instrumentos permitem alcançar. Nem exaltarei o imenso prazer com que certa nova harmonia das coisas, uma vez descoberta, afeta os espíritos acostumados a essa música — de modo que ao menos se deva conceder a esse gênero de doutrina, entre as artes mentais, o mesmo lugar que entre as corporais se concede aos pintores, poetas, músicos, e também aos cozinheiros refinados e árbitros dos prazeres à maneira de Petrônio —, porque a suavidade dessas coisas, que lhes parecem tão estéreis e áridas, não pode ser persuadida a quem não as experimentou. **Mas, ainda que eu mostre que as maiores controvérsias acerca do finito e do infinito, do vazio e do pleno, da composição do contínuo, do movimento ou repouso da Terra, só podem ser corretamente decididas quando se conhecem bem as razões abstratas do movimento, isso, creio eu, não terá grande valor aos olhos desses críticos.**]
+
+
+
+\[Interpretação: as razões abstratas do movimento não vertem sobre as generalidades do cálculo, nem sobre a aplicação, ainda que precisa da mecânica. Tais razões são, na verdade, modalidades de reconhecimento do movimento em seu núcleo duro e pedra de toque para disso parta o movimento concreto e sensível].
+
+
+
+15/05/2026
+
+
+
+Quid ergo? nisi ut ultima experiamur, ostendamusque aliquando ad solidas de DEo et Mente demonstrationes, confirmandaque maxima fidei mysteria (cui negotio ego, si quis unquam, summa animi contentione incubui, nihilque fere aliorum inexcussum, nihil de meo intentatum reliqui) non aliter ascendi posse. Haec qui nihili faciunt, magna, fateor, scientiarum parte carere possunt. Ita enim jure divino humanoque, et quicquid his in Philosophia gradum struit, abolitis, historia etiam vetere, cujus potissimus apud prudentes usus est, veritati religionis testimonium perhibere, nisi cum ad pompam adhibetur, neglecta; restabunt his hominibus artes tantum duae, una quam diutissime jucundissimeque vitam agendi, altera alios quam dexterrime in usum suum circumagendi; haec Politica, illa Medica: caetera aut contemnunt publice, aut, cum non nisi in speciem didicerint, intus rident: Sed quam tuto, viderint ipsi. Ego ad eos redeo, quibus talia non omnia aspernanda videntur.
+
+
+
+\[Tradução: Que resta então? Senão avançarmos até os limites extremos e mostrarmos, enfim, que não se pode ascender de outro modo às demonstrações sólidas acerca de Deus e da Mente, nem à confirmação dos maiores mistérios da fé — tarefa à qual eu, se alguém algum dia o fez, me dediquei com o máximo empenho de espírito, nada deixando quase sem examinar nos outros, nada sem tentar por conta própria. Os que consideram essas coisas sem valor podem, reconheço, privar-se de grande parte das ciências. Pois, abolidos o direito divino e humano, bem como tudo aquilo que na filosofia conduz a eles; negligenciada também a história antiga — cujo principal uso entre os prudentes é dar testemunho da verdade da religião, **exceto quando é empregada apenas como ornamento** —, restarão para esses homens somente duas artes: uma, a de viver o mais longa e agradavelmente possível; outra, a de manipular os demais da maneira mais habilidosa para proveito próprio. Esta é a Política; aquela, a Medicina. Quanto ao restante, ou o desprezam publicamente, ou, tendo aprendido apenas a aparência dessas coisas, riem delas em segredo. Mas quão seguramente fazem isso, verão eles mesmos. **Eu retorno àqueles para quem tais coisas não parecem inteiramente dignas de desprezo**.]
+
+
+
+\[Interpretação: Conciliador de discursos, uma vez mais, e talvez pela primeira vez a partir de um texto sobre a natureza do movimento, Leibniz expõe o porquê revelar tal conhecimento com respaldo a metafísica. Não se trata apenas de fundamento matemático, mas delineamento do que o ser humano pode ou não conhecer. Ele marca que seu retorno aos clássicos segue tal proposito e que os que estão desfiliados do projeto manipulam o entendimento de forma superficial e não se preocupam em evidenciar as condições outras ligadas as estruturas da natureza em elo ao entendimento humano. Lembrei do Hugh Lacey e do Mariconda pontuando contra a neutralidade da ciência.]
+
+
+
+
+
+
+
+
 
 
 
