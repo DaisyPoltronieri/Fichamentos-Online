@@ -584,7 +584,24 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 - Leitura e fichamento On Minimum and Maximum (AIII5); In Arthur, Labirinto do Contínuo (indispensável).
 - Leitura da correspondência Leibniz-Arnauld (1671) L 148-150. Miniensaio sobre o texto. (indispensável).
 - Leitura Wilson, C. Jovem Leibniz artigo em Stuart Brown (importante).
+
+**13/05/2026**
+- Grupo de Estudo de Tradução - Prof. Viviane Moreira (9:00~12:00).
+- Leitura do texto "Notas sobre as Duas Novas Ciências de Galileu".
+- Produção do miniensaio sobre a obra "Mínimo e Máximo" e "Notas sobre as Duas Novas Ciências de Galileu".
+- Estudo do TMA.
+
+**14/05/2026**
+- Grupo de Estudo Hobbes - Prof. Celi Hirata (15:00~18:00)
+- Estudo do TMA
+- Leitura da carta a Oldenburg (1675)
+
+**15/05/2026**
+- Miniensaio da carta a Oldenburg (1675)
+- Estudo do TMA.
+- Ver a Enciclopédia Huygens.
 - Leitura artigo Giorgio sobre o infinito (complementar).
+- Grupo de Estudo Leibniz - Discurso de Metafísica
 
 
 
