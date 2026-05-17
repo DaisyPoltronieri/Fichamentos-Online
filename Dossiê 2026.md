@@ -597,11 +597,13 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 - Leitura da carta a Oldenburg (1675)
 
 **15/05/2026**
-- Miniensaio da carta a Oldenburg (1675)
+- Miniensaio da carta a Oldenburg (1675).
 - Estudo do TMA.
-- Ver a Enciclopédia Huygens.
-- Leitura artigo Giorgio sobre o infinito (complementar).
-- Grupo de Estudo Leibniz - Discurso de Metafísica
+- Grupo de Estudo Leibniz - Discurso de Metafísica.
 
+**16/05/2026~17/05/2026**
+- Ver a Enciclopédia Huygens e Boyle (seleção de textos)
+- Leitura Boyle segunda a enciclopédia pág. 229-236.
+- Conferência Porto - escrita.
 
 
