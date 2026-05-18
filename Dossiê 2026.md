@@ -602,8 +602,8 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 - Grupo de Estudo Leibniz - Discurso de Metafísica.
 
 **16/05/2026~17/05/2026**
-- Ver a Enciclopédia Huygens, Hobbes e Boyle (seleção de textos)
+- Ver a Enciclopédia Huygens, Hobbes e Boyle (seleção de textos).
 - Leitura Boyle segunda a enciclopédia pág. 229-236.
-- Conferência Porto - escrita.
+- Conferência Porto - escrita (primeira página).
 
 
