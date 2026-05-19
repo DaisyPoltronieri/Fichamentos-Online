@@ -606,4 +606,19 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 - Leitura Boyle segunda a enciclopédia pág. 229-236.
 - Conferência Porto - escrita (primeira página).
 
+**18/05/2026**
+- Leitura dos texto: Notas sobre os Princípios de Filosofia de Descartes (1675); Sobre Matéria, Movimento, Mínimo e o Contínuo (1675); Uma linha infinita é imóvel (1676).
+- Estudo para apresentação da Red Iberoamericana.
+- Estudo TMA.
+
+**19/05/2026**
+- Apresentação no evento da Red Iberoamericana com comentários de Oscar Ezequizabel: elaboração de pontos que a pesquisa mobilizou e foi comentada pelo professor
+[O que está bem fundamentado? que a relação entre a ciência dinâmica e a metafísica são inseparáveis e incontornáveis.
+Qual crítica foi a mais pertinente? sobre a questão da Monadologia e a força serem incomunicáveis segundo Oscar e Garber.
+O que está mal fundamentado na minha pesquisa? Que focar na centralidade da força não permite uma abertura para outras abordagens. Embora isso se faz mostrar no texto, não é de fato o que eu penso ou faço na tese e outros lugares. Isso também está vinculada a crítica que a Viviane fez na minha defesa: sobre a questão orgânica dos corpos e a sua vinculação com a ciência dinâmica.
+O que é coerente entre minha pesquisa e a crítica? Que as atividades pos-doutorais são necessárias para dar amplitude a essa abordagem doutoral e que outros texto (os de juventude principalmente) movimentam e tensionam o cerne do problema. Como no Corporum Concurso a questão matemática e a questão ocasionalista também possível (tal como em Malebranche) nesse escritos. Eu já vi Leibniz dizer que é necessário Deus para manter a força primeira.
+Outros pontos: a continuidade, enquanto algo que estabiliza a passagem de uma força a outra, é altamente criticada na minha abordagem. Foi durante minha defesa e foi hoje de novo na apresentação. Eu preciso dar uma atenção especial para ela para notar se estou fazendo um argumento espantalho ou se há de fato uma possibilidade de utilizar o conceito como algo ontológico. 
+Oscar Ezquizabel também notou que em alguma situação força derivada é independente. Eu não nego isso, porque enquanto coisa atual e atuante ela precisar se independente mesmo, mas isso merece um atenção tão especial quanto a questão da continuidade.]
+
+
 
