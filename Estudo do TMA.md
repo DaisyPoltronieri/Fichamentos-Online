@@ -461,7 +461,29 @@ Quid ergo? nisi ut ultima experiamur, ostendamusque aliquando ad solidas de DEo 
 
 
 
+18/05/2026
 
+
+
+Qui fortasse mecum agnoscent, Partem Phoronomicae Elementalem, abstractam, mere rationalem, alia enim est mechanica et experimentalis (vel simplex, solis observationibus constans; vel consequentiis observationum, abstractarum regularum complicatione structis, mixta), nuspiam hactenus, quod quidem increbuerit, demonstratam exstare. Cohaesionis, qualitatis tam obviae, rationem reddidit nemo: quid prodest ramos, hamos, uncos, annulos, aliaque corporum implicamenta comminisci, cum opus futurum sit hamis hamorum in infinitum? Ullas vere curvas in rerum natura esse, negavere multi, nominabo tantum qui nunc occurrunt: Lubinum, Bassonem, Regium, Bonartem, et quem parum abest, quin addam, Hobbium. Contrarium quis demonstravit, quis motum aliquem explicuit, ex quo Physice, id est geometrice simul et realiter generetur circulus? non satis est dicere, generari circulum circumductione rectae circa extremum alterum immotum, nisi explicetur quomodo extremum constitui possit immotum; quomodo dari circumducens, quod non jam tum circulariter moveatur: alioquin in hoc ipso rediret quaestio, quomodo et ipsius motus circularis sit generatus. Id ergo explicatum est meris rectilineis probl. 6. componi tamen plures conatus rectilineos conservatos in unum curvilineum, nondum satis deprehendere potui. Hoc si assecutus fuero, concedam nonnulla quae negavi: motum rotationis circa corporis axem extra se agere; sola solis rotatione, sine partium emissione, posse lucem caloremque, seu motum aetheris produci, et caeteros circa eum globos gyrari; denique posse sine vacuo naturae phaenomena explicari. Sed haec etsi concessa, nihil in summa detrahent Hypothesi nostrae.
+
+
+
+\[Tradução: Talvez reconheçam comigo que a Parte Elementar da Foronomia, abstrata e puramente racional — pois há também outra, mecânica e experimental (ou simples, consistindo apenas em observações; ou mista, construída pela combinação das consequências das observações com regras abstratas) — até hoje, ao que saibamos, nunca foi demonstrada em lugar algum. Ninguém explicou a razão da coesão, qualidade tão evidente: de que adianta imaginar ramos, ganchos, anzóis, anéis e outros entrelaçamentos dos corpos, se será preciso recorrer a ganchos de ganchos ao infinito? Muitos negaram que existam verdadeiras curvas na natureza; citarei apenas os que agora me vêm à mente: Lubin, Basson, Regius, Bonart e, por pouco, acrescentaria Hobbes. Quem demonstrou o contrário? **Quem explicou algum movimento pelo qual um círculo seja gerado fisicamente** — isto é, ao mesmo tempo geometricamente e realmente? Não basta dizer que o círculo é produzido pela rotação de uma reta em torno de uma de suas extremidades imóvel, se não se explicar como essa extremidade pode permanecer imóvel; como pode existir algo que execute a rotação sem já estar movendo-se circularmente. Caso contrário, a questão retorna ao mesmo ponto: como foi gerado o próprio movimento circular? Isso, portanto, foi explicado apenas por movimentos retilíneos (problema 6). Contudo, ainda não consegui compreender satisfatoriamente como vários impulsos retilíneos conservados podem compor-se em um único movimento curvilíneo. **Se eu conseguir demonstrar isso, concederei algumas coisas que neguei: que o movimento de rotação em torno do eixo de um corpo pode agir externamente**; que apenas a rotação do Sol, sem emissão de partículas, pode produzir luz e calor — ou seja, movimento do éter — e fazer girar os outros globos ao seu redor; enfim, que os fenômenos da natureza podem ser explicados sem recorrer ao vácuo. Mas, ainda que tudo isso seja concedido, nada disso diminuirá, no essencial, a nossa hipótese.]
+
+
+
+\[Interpretação: Está em pauta a realidade das abstrações matemáticas como mote de exposição das verdadeiras coisas, daquelas alcançadas apenas metafisicamente. A propriedade do movimento está vinculada a realidade, que nunca cessa, mas esta sempre em mudança e engendrada em algo: um ponto ou um corpo.
+
+A questão do movimento ser retilíneo é uma crítica a noção cartesiana exposta no § 30-39 dos Princípios. 
+
+A curva, o ângulo e o círculo devem ser gerados pelo movimento de um ponto em continuidade tal qual a linha, para Leibniz em outros escritos essa geração vem acompanhada das noções de proporção e paralelos. A infinitude nas coisas deve ser capaz de gerar tais figuras. *Não está claro para mim o como isso ocorre ainda.*
+
+Hipótese: **o movimento de rotação afeta e transfere algo de dentro para fora? o que isso quer dizer? propriedades corpóreas são desencadeadas do continuo rotativo?**].
+
+
+
+&#x20;
 
 
 
