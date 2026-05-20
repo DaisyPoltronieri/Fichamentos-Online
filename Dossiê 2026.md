@@ -619,6 +619,6 @@ O que está mal fundamentado na minha pesquisa? Que focar na centralidade da for
 O que é coerente entre minha pesquisa e a crítica? Que as atividades pos-doutorais são necessárias para dar amplitude a essa abordagem doutoral e que outros texto (os de juventude principalmente) movimentam e tensionam o cerne do problema. Como no Corporum Concurso a questão matemática e a questão ocasionalista também possível (tal como em Malebranche) nesse escritos. Eu já vi Leibniz dizer que é necessário Deus para manter a força primeira.
 Outros pontos: a continuidade, enquanto algo que estabiliza a passagem de uma força a outra, é altamente criticada na minha abordagem. Foi durante minha defesa e foi hoje de novo na apresentação. Eu preciso dar uma atenção especial para ela para notar se estou fazendo um argumento espantalho ou se há de fato uma possibilidade de utilizar o conceito como algo ontológico. 
 Oscar Ezquizabel também notou que em alguma situação força derivada é independente. Eu não nego isso, porque enquanto coisa atual e atuante ela precisar se independente mesmo, mas isso merece um atenção tão especial quanto a questão da continuidade.]
-
+- Fiz a submissão do trabalho para o evento "Leibniz a Kant" que acontecerá na USP em Novembro de 2026.
 
 
