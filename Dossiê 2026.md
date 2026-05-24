@@ -621,4 +621,29 @@ Outros pontos: a continuidade, enquanto algo que estabiliza a passagem de uma fo
 Oscar Ezquizabel também notou que em alguma situação força derivada é independente. Eu não nego isso, porque enquanto coisa atual e atuante ela precisar se independente mesmo, mas isso merece um atenção tão especial quanto a questão da continuidade.]
 - Fiz a submissão do trabalho para o evento "Leibniz a Kant" que acontecerá na USP em Novembro de 2026.
 
+**20/05/2026**
+- Participação do Grupo de tradução Leibniz (9~12:00).
+- Leitura da Enciclopédia Hobbes, o mecanicismos e o conatus.
+- Selecionei um item bibliográfico a mais: Bertman M (2001) Conatus in Hobbes De Corpore. Hobbes Stud 14:25–39.
+
+HobbesT(1656a)Elementsofphilosophy,thefirstsection, concerning body. A. Crooke, London
+Hobbes T (1656b) Six lessons to the professors of the Mathematiques. A. Crooke, London
+Hobbes T (1678) Decameron Physiologicum: or, ten dia logues of natural philosophy. W Crook, London
+Hobbes Th (1839–1845) The English works of Thomas Hobbes of Malmesbury (ed: Molesworth). Longman, London
+Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxford
+
+- Selecionei passagens do De Corpore para estudar.
+[Nota: tem uma coisa interessante no texto da Enciclopédia que coloca a questão do conatus entre o repouso e o movimento, que a resistência é a partir de outro corpo e que conatus e impetus precisam ter eficácia, ou seja, produzir um certo efeito, do contrário não é movimento. Tendência em si mesma é irrelevante porque não produz nada, é só uma palavra. Assim, conatus é um esforço enquanto efeito de corpo. Outra coisa importante é que tudo isso se limita a um corpo (que pode ser um ponto), isto é, possui um limite contíguo. Esse é um forte candidato para ser a razão da mudança que Leibniz opera no conceito, como Bernstain (1980, p. 30) pontua. Uma última consideração: o rompimento pode envolver uma questão de limite geométrico que está em pauta no escritos de 1675-6.]. 
+- Encontro com a Jéssica Rodrigues para tratar da publicação do verbete Carolina de Ansbach (19:00~20:30) e a parceria para fazer um minicurso na UFLA ainda em 2026.
+
+**21/05/2026**
+- Escrita da conferência para Porto incorporando os estudos recentes e críticas apontadas pelo professor Oscar Ezquizabel no novo texto.
+
+**22/05/2026(sexta)~24/05/2026(domingo)**
+- Escrita da conferência para Porto.
+- Grupo de Estudo Leibniz DM XIX e XX
+- Estudo TMA.
+- Leitura Huygens a partir da Enciclopédia.
+
+
 
