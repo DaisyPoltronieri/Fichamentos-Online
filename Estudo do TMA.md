@@ -475,7 +475,7 @@ Qui fortasse mecum agnoscent, Partem Phoronomicae Elementalem, abstractam, mere 
 
 \[Interpretação: Está em pauta a realidade das abstrações matemáticas como mote de exposição das verdadeiras coisas, daquelas alcançadas apenas metafisicamente. A propriedade do movimento está vinculada a realidade, que nunca cessa, mas esta sempre em mudança e engendrada em algo: um ponto ou um corpo.
 
-A questão do movimento ser retilíneo é uma crítica a noção cartesiana exposta no § 30-39 dos Princípios. 
+A questão do movimento ser retilíneo é uma crítica a noção cartesiana exposta no § 30-39 dos Princípios.
 
 A curva, o ângulo e o círculo devem ser gerados pelo movimento de um ponto em continuidade tal qual a linha, para Leibniz em outros escritos essa geração vem acompanhada das noções de proporção e paralelos. A infinitude nas coisas deve ser capaz de gerar tais figuras. *Não está claro para mim o como isso ocorre ainda.*
 
@@ -483,11 +483,19 @@ Hipótese: **o movimento de rotação afeta e transfere algo de dentro para fora
 
 
 
-&#x20;
+22/05/2026
 
 
 
+\*Interim ex his apparet quantum tenebrarum in natura motus a Philosophis sit relictum. Differentiam Celeritatis in motibus Aristoteles derivat a resistentia medii, prius a posteriore; nam actio est prior reactione, actio autem sine quantitate actionis, seu motus sine gradu celeritatis, ne incipere quidem intelligi potest. Si Cartesium, Virum utique incomparabilem, per omnia sequimur, quies potentior motu erit, nihil nempe unitate: negat enim quiescens quantocunque motu impelli posse. Eruditissimi Gassendi sententia facit ut duo corpora semel contigua nulla unquam vi divelli possint: Atomorum enim suarum duritiem derivat a defectu vacui intercedentis, jam omnia contigua sunt sine vacuo intercedente. Hobbius tollit mentes incorporeas, tollit indivisibilia vera, atque ex eo principio in dubium revocat inventum Pythagorae hecatomba dignum, 47. Imi Euclidis, fundamentum Geometriae: negat radicem quadrati, seu ut ego vocare soleo, numerum quadratillorum, de quo alibi, coincidere numero partium lateris, fundamentum non Algebrae tantum, sed et Geodaesiae, multaque aha de motu tradit parum demonstrata: Quanquam caeteroquin nihil laudi ejus Viri, cujus profunditatem maximi facio, detractum velim. Galilaeus et Honoratus Fabri prudenter Phoronomiam Experimentalem ratiocinationibus excoluere. Iungii inedita, Wallisii edita audivi tantum.\*
 
+
+
+\[Tradução: Entretanto, por estas coisas aparece quanta obscuridade foi deixada pelos filósofos acerca da natureza do movimento. Aristóteles deriva a diferença de velocidade nos movimentos da resistência do meio, o anterior a partir do posterior; pois a ação é anterior à reação, mas a ação sem quantidade de ação, ou o movimento sem grau de velocidade, não pode sequer ser concebido como começando. Se seguirmos em tudo Descartes, homem certamente incomparável, o repouso será mais poderoso que o movimento, isto é, o nada \[será mais poderoso] que a unidade; pois ele nega que aquilo que está em repouso possa ser impelido por qualquer movimento que seja. A opinião do eruditíssimo Gassendi faz com que dois corpos, uma vez contíguos, jamais possam ser separados por força alguma; pois ele deriva a dureza de seus átomos da ausência de vazio intermediário, mas agora todas as coisas são contíguas sem que haja vazio intermediário. Hobbes elimina as mentes incorpóreas, elimina os verdadeiros indivisíveis e, a partir desse princípio, põe em dúvida a descoberta de Pitágoras digna de uma hecatombe, isto é, a proposição 47 do primeiro livro de Euclides, fundamento da Geometria: ele nega que a raiz do quadrado, ou, como costumo chamar, o número dos “quadratilhos”, de que trato em outro lugar, coincida com o número das partes do lado — fundamento não apenas da Álgebra, mas também da Geodésia — e transmite muitas outras coisas acerca do movimento pouco demonstradas. Embora, de resto, **eu não queira que nada seja diminuído do louvor desse homem**, cuja profundidade estimo muitíssimo. Galileu e Honoré Fabri cultivaram prudentemente a foronomia experimental por meio de raciocínios. Dos inéditos de Jungius e dos escritos publicados de Wallis apenas ouvi falar.]
+
+
+
+\[Interpretação: O que são as obscuridades da história da filosofia sobre a natureza do movimento, para Leibniz? A cada filosofia que ele analisa recai um defeito. Destaco o de Descartes e Hobbes: para Leibniz, Descartes entende que o repouso é mais poderoso que o movimento (movimento 1 - repouso 0), nada move o que está em repouso a não ser algo que o afete (contato direto). **Hobbes, com seu materialismo extremo faz escolhas teóricas que impedem a possibilidade dos irracionais**.]
 
 
 
