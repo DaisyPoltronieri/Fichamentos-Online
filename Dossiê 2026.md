@@ -616,9 +616,9 @@ iii) A distinção modal dos corpos e a existência de uma única substância em
 [O que está bem fundamentado? que a relação entre a ciência dinâmica e a metafísica são inseparáveis e incontornáveis.
 Qual crítica foi a mais pertinente? sobre a questão da Monadologia e a força serem incomunicáveis segundo Oscar e Garber.
 O que está mal fundamentado na minha pesquisa? Que focar na centralidade da força não permite uma abertura para outras abordagens. Embora isso se faz mostrar no texto, não é de fato o que eu penso ou faço na tese e outros lugares. Isso também está vinculada a crítica que a Viviane fez na minha defesa: sobre a questão orgânica dos corpos e a sua vinculação com a ciência dinâmica.
-O que é coerente entre minha pesquisa e a crítica? Que as atividades pos-doutorais são necessárias para dar amplitude a essa abordagem doutoral e que outros texto (os de juventude principalmente) movimentam e tensionam o cerne do problema. Como no Corporum Concurso a questão matemática e a questão ocasionalista também possível (tal como em Malebranche) nesse escritos. Eu já vi Leibniz dizer que é necessário Deus para manter a força primeira.
+O que é coerente entre minha pesquisa e a crítica? Que as atividades pós-doutorais são necessárias para dar amplitude a essa abordagem doutoral e que outros texto (os de juventude principalmente) movimentam e tensionam o cerne do problema. Como no Corporum Concurso a questão matemática e a questão ocasionalista também possível (tal como em Malebranche) nesse escritos. Eu já li Leibniz dizer que é necessário Deus para manter a força primeira.
 Outros pontos: a continuidade, enquanto algo que estabiliza a passagem de uma força a outra, é altamente criticada na minha abordagem. Foi durante minha defesa e foi hoje de novo na apresentação. Eu preciso dar uma atenção especial para ela para notar se estou fazendo um argumento espantalho ou se há de fato uma possibilidade de utilizar o conceito como algo ontológico. 
-Oscar Ezquizabel também notou que em alguma situação força derivada é independente. Eu não nego isso, porque enquanto coisa atual e atuante ela precisar se independente mesmo, mas isso merece um atenção tão especial quanto a questão da continuidade.]
+Oscar Ezquizabel também notou que em alguma situação força derivada é independente. Eu não nego isso, porque enquanto coisa atual e atuante ela precisar ser independente, mas isso merece uma atenção tão especial quanto a questão da continuidade.]
 - Fiz a submissão do trabalho para o evento "Leibniz a Kant" que acontecerá na USP em Novembro de 2026.
 
 **20/05/2026**
@@ -628,7 +628,7 @@ Oscar Ezquizabel também notou que em alguma situação força derivada é indep
 
 HobbesT(1656a)Elementsofphilosophy,thefirstsection, concerning body. A. Crooke, London
 Hobbes T (1656b) Six lessons to the professors of the Mathematiques. A. Crooke, London
-Hobbes T (1678) Decameron Physiologicum: or, ten dia logues of natural philosophy. W Crook, London
+Hobbes T (1678) Decameron Physiologicum: or, ten dialogues of natural philosophy. W Crook, London
 Hobbes Th (1839–1845) The English works of Thomas Hobbes of Malmesbury (ed: Molesworth). Longman, London
 Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxford
 
@@ -641,9 +641,15 @@ Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxf
 
 **22/05/2026(sexta)~24/05/2026(domingo)**
 - Escrita da conferência para Porto.
-- Grupo de Estudo Leibniz DM XIX e XX
+- Grupo de Estudo Leibniz DM XIX e XX.
 - Estudo TMA.
-- Leitura Huygens a partir da Enciclopédia.
+- Leitura Huygens a partir da Enciclopédia e levantamento de hipóteses de relação.
+
+**25/05/2026** 
+- Escrita da conferência para Porto.
+- Revisão da parte final do artigo para Lisboa e envio do texto para Celi.
+- Reunião com a supervisora para alinhamento de pesquisa (17:30~18:00).
+[Ata de reunião: Paciência para obter resultados e estruturar gradualmente as hipóteses de leitura.]
 
 
 
