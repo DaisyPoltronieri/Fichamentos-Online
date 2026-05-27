@@ -659,10 +659,12 @@ Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxf
 - Escrita da conferência para Porto.
 - Grupo de Estudo de Traduções Leibniz (9:00~12:00).
 - Finalização dos estudos do TMA.
+- Leitura da bibliografia primária "Notas sobre a ciência e a metafísica" (1676).
 
 **28/05/2026**
 - Escrita da conferência para Porto.
 - Grupo de Estudo Hobbes (15:00~18:00).
-- Impressão dos Estudos do TMA e revisão detida nas interpretações. 
+- Impressão dos Estudos do TMA e revisão detida nas interpretações.
+- Escrever o miniensaio sobre bibliografia primária "Notas sobre a ciência e a metafísica" (1676).
 
 
