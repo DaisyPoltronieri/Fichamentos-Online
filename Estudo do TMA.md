@@ -497,5 +497,21 @@ Hipótese: **o movimento de rotação afeta e transfere algo de dentro para fora
 
 \[Interpretação: O que são as obscuridades da história da filosofia sobre a natureza do movimento, para Leibniz? A cada filosofia que ele analisa recai um defeito. Destaco o de Descartes e Hobbes: para Leibniz, Descartes entende que o repouso é mais poderoso que o movimento (movimento 1 - repouso 0), nada move o que está em repouso a não ser algo que o afete (contato direto). **Hobbes, com seu materialismo extremo faz escolhas teóricas que impedem a possibilidade dos irracionais**.]
 
+\*\*Incorporei essa leitura no texto para a conferência do Porto\*\*
+
+
+
+27/05/2026
+
+
+
+Demonstrationes ergo Phoronomiae Elementalis, quod ego sciam, extant nullae, quae tamen per se separatae scientiae pensum implere possunt, Experimentalis et Mechanicae rationes physicas reapse in mundo existentes fortasse non paucas reddidimus primi: hypothesis certe allata est, qua nescio an facile cogitari possit clarior simpliciorque: Spero etiam posse aliquando nonnihil afferri, quod praesenti usu oculis incurrat. Quod superest, testor nullum pene eorum, quos hoc loco nominavi, etiam a quo me discedere professus sum, esse, quem non magni faciam: certe plerisque immortalitatem a posteritate statuas a Republica, Panegyricos a nobis deberi arbitror. Sed non omnia unus videt: etiam in cogitationibus quaedam fortuna est, quae alia aliis, ac saepe mediocribus nonnulla offert. Errasse mihi in tanta alioquin multitudine cogitandorum, nullum, spero, dedecus erit: suffecerit pauca et recte et nove dicta Viris candidis doctisque videri; caetera, etiam cum improbantur, excusari.
+
+
+
+\[Tradução: Demonstrações, portanto, da Foronomia Elementar, que eu saiba, não existem nenhuma; elas, contudo, separadas por si mesmas, podem cumprir o encargo de uma ciência. Fomos talvez os primeiros a tornar manifestas não poucas razões físicas, experimentais e mecânicas, realmente existentes no mundo; certamente foi apresentada uma hipótese pela qual não sei se algo mais claro e mais simples pode facilmente ser concebido. Espero também que algum dia possa ser acrescentado algo que salte aos olhos pelo uso presente. Quanto ao mais, declaro que não há quase nenhum daqueles que nomeei neste lugar — mesmo aquele de quem professei divergir — que eu não estime grandemente; certamente julgo que à maior parte deles são devidas a imortalidade por parte da posteridade, estátuas por parte da República e panegíricos por parte de nós. Mas um só homem não vê tudo; também nos pensamentos há certa fortuna, que oferece algumas coisas a uns, outras a outros, e frequentemente até mesmo a homens medianos. Ter eu errado em tão grande multidão de coisas a serem pensadas, aliás, não será, espero, nenhuma desonra; bastará que poucas coisas, mas corretas e novas, pareçam assim aos homens sinceros e doutos; o restante, mesmo quando desaprovado, seja desculpado.]
+
+
+
 
 
