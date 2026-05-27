@@ -651,5 +651,18 @@ Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxf
 - Reunião com a supervisora para alinhamento de pesquisa (17:30~18:00).
 [Ata de reunião: Paciência para obter resultados e estruturar gradualmente as hipóteses de leitura.]
 
+**26/05/2026**
+- Escrita da conferência para Porto.
+- Leitura do artigo "Conatus in Hobbes De Corpore" de Martin Bertman.
+
+**27/05/2026**
+- Escrita da conferência para Porto.
+- Grupo de Estudo de Traduções Leibniz (9:00~12:00).
+- Finalização dos estudos do TMA.
+
+**28/05/2026**
+- Escrita da conferência para Porto.
+- Grupo de Estudo Hobbes (15:00~18:00).
+- Impressão dos Estudos do TMA e revisão detida nas interpretações. 
 
 
