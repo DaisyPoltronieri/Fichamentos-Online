@@ -663,8 +663,15 @@ Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxf
 
 **28/05/2026**
 - Escrita da conferência para Porto.
-- Grupo de Estudo Hobbes (15:00~18:00).
+- Grupo de Estudo Hobbes - Capítulo XV (15:00~18:00).
 - Impressão dos Estudos do TMA e revisão detida nas interpretações.
-- Escrever o miniensaio sobre bibliografia primária "Notas sobre a ciência e a metafísica" (1676).
+- Reler/Escrever o miniensaio sobre bibliografia primária "Notas sobre a ciência e a metafísica" (1676).
+
+**29/05/2026~31/05/2026**
+- Parecer para a revista.
+- Escrita da conferência para Porto.
+- Reler/Escrever o miniensaio sobre bibliografia primária "Notas sobre a ciência e a metafísica" (1676).
+- Revisão detida nas interpretações do TMA e notas.
+- Revisão do verbete Carolina de Ansbch 
 
 
