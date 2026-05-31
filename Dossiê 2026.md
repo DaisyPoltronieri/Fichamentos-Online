@@ -669,9 +669,14 @@ Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxf
 
 **29/05/2026~31/05/2026**
 - Parecer para a revista.
+- Reler o miniensaio sobre bibliografia primária "Notas sobre a ciência e a metafísica" (1676).
+- Revisão do verbete Carolina de Ansbch
 - Escrita da conferência para Porto.
-- Reler/Escrever o miniensaio sobre bibliografia primária "Notas sobre a ciência e a metafísica" (1676).
+- Artigo de Knoblich (2010) - sobre a publicação póstumo de Leibniz do texto "Riemannian Sums"
 - Revisão detida nas interpretações do TMA e notas.
-- Revisão do verbete Carolina de Ansbch 
+
+**01/06/2026**
+- Revisão do verbete Carolina de Ansbch
+- Escrita da conferência para Porto
 
 
