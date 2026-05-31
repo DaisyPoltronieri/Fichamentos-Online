@@ -673,10 +673,12 @@ Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxf
 - Revisão do verbete Carolina de Ansbch
 - Escrita da conferência para Porto.
 - Artigo de Knoblich (2010) - sobre a publicação póstumo de Leibniz do texto "Riemannian Sums"
+- Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
 - Revisão detida nas interpretações do TMA e notas.
 
 **01/06/2026**
 - Revisão do verbete Carolina de Ansbch
-- Escrita da conferência para Porto
-
+- Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
+- Revisão detida nas interpretações do TMA e notas.
+- Escrita da conferência para Porto.
 
