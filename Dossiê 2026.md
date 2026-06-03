@@ -672,7 +672,7 @@ Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxf
 - Reler o miniensaio sobre bibliografia primária "Notas sobre a ciência e a metafísica" (1676).
 - Revisão do verbete Carolina de Ansbch
 - Escrita da conferência para Porto.
-- Artigo de Knoblich (2010) - sobre a publicação póstumo de Leibniz do texto "Riemannian Sums"
+- Artigo de Knobloc (2010) - sobre a publicação póstumo de Leibniz do texto "Riemannian Sums"
 - Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
 - Revisão detida nas interpretações do TMA e notas.
 
@@ -682,3 +682,20 @@ Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxf
 - Revisão detida nas interpretações do TMA e notas.
 - Escrita da conferência para Porto.
 
+**02/06/2026
+- Imprimir cronograma do segundo semestre e do BEPE; alinhar atividades e estabelecer os objetivos do estágio visando o artigo para publicação.
+- Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
+- Revisão do verbete Carolina de Ansbch. 
+
+**03/06/2026** 
+- Escrita da conferência para Porto.
+- Revisão do capítulo do livro com Ezequiel.
+- Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
+
+**04/06/2026**
+- Pesquisar os tipos de Movimento segundo Levey (1999): Generalis, comunis e conspirans.  motus generalis (A VI,3,42) or
+ motus communis (VE 2047); motus conspirans (cf. VE 492, 495). Vorausedition zur Reihe VI der Akademie-Ausgabe?
+- Carolina de Ansbach - correção do artigo.
+- Artigos de Knobloch: contínuo e infinito.
+
+**05/06/2026**
