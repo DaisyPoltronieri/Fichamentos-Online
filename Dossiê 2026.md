@@ -699,6 +699,7 @@ Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxf
 
 **05/06/2026**
 - Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
+- Escrita da conferência para Porto - Conclusão.
 
 **06/06/2026**
 - Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
