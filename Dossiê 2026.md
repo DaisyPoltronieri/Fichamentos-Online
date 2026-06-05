@@ -693,9 +693,24 @@ Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxf
 - Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
 
 **04/06/2026**
-- Pesquisar os tipos de Movimento segundo Levey (1999): Generalis, comunis e conspirans.  motus generalis (A VI,3,42) or
- motus communis (VE 2047); motus conspirans (cf. VE 492, 495). Vorausedition zur Reihe VI der Akademie-Ausgabe?
 - Carolina de Ansbach - correção do artigo.
-- Artigos de Knobloch: contínuo e infinito.
+- Revisão do capítulo do livro com Ezequiel - enviado.
+- Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
 
 **05/06/2026**
+- Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
+
+**06/06/2026**
+- Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
+
+**07/06/2026**
+- Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
+- Pesquisar os tipos de Movimento segundo Levey (1999): Generalis, comunis e conspirans.  motus generalis (A VI,3,42) or
+ motus communis (VE 2047); motus conspirans (cf. VE 492, 495). <<Vorausedition zur Reihe VI der Akademie-Ausgabe?>>
+- Artigos de Knobloch e Samuel Levey sobre matemática e o infinito.
+
+**08/06/2026**
+- Carolina de Ansbach - correção do artigo.
+
+**09/06/2026**
+- Escrita da conferência para Porto - Conclusão.
