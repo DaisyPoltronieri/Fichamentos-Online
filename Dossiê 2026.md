@@ -701,17 +701,29 @@ Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxf
 - Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
 - Escrita da conferência para Porto - Conclusão.
 
-**06/06/2026**
+**06/06/2026~07/06/2026**
 - Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
-
-**07/06/2026**
-- Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
-- Pesquisar os tipos de Movimento segundo Levey (1999): Generalis, comunis e conspirans.  motus generalis (A VI,3,42) or
- motus communis (VE 2047); motus conspirans (cf. VE 492, 495). <<Vorausedition zur Reihe VI der Akademie-Ausgabe?>>
-- Artigos de Knobloch e Samuel Levey sobre matemática e o infinito.
+- Escrita da conferência para Porto - Conclusão e citações.
+- Conferi bibliografia "JEFFREY BARNOUW; In Zarka, Yves. Hobbes et son vocabulaire. p 103-124".
 
 **08/06/2026**
-- Carolina de Ansbach - correção do artigo.
+- Carolina de Ansbach - correção do verbete.
+- Artigo de Samuel Levey, 1999, "Matter and two concepts of continuity in Leibniz".
+- Knobloch - Galileo and Leibniz: Different Approaches to Infinity
+- Richard T. W. arthur - Actual	Infinitesimals	in Leibniz’s Early Though
 
 **09/06/2026**
-- Escrita da conferência para Porto - Conclusão.
+- Escrita e conclusão de correções do verbete sobre Carolina de Ansbach.
+- Escrita da conferência para Porto - Conclusão e citações.
+- Capítulo Ezequiel - última revisão.
+- Conferi bibliografia "JEFFREY BARNOUW; In Zarka, Yves. Hobbes et son vocabulaire. p 103-124".
+
+**10/06/2026**
+- Rever o artigo para Lisboa - Leibniz e Malebranche.
+
+**11/06/2026**
+- Grupo de Estudo
+- Pesquisar os tipos de Movimento segundo Levey (1999): Generalis, comunis e conspirans.  motus generalis (A VI,3,42) or
+ motus communis (VE 2047); motus conspirans (cf. VE 492, 495). <<Vorausedition zur Reihe VI der Akademie-Ausgabe?>>
+- Fazer uma resenha do texto de Samuel Levey.
+
