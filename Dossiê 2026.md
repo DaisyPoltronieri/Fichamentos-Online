@@ -716,13 +716,14 @@ Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxf
 - Escrita e conclusão de correções do verbete sobre Carolina de Ansbach.
 - Escrita da conferência para Porto - Conclusão e citações.
 - Capítulo Ezequiel - última revisão.
-- Conferi bibliografia "JEFFREY BARNOUW; In Zarka, Yves. Hobbes et son vocabulaire. p 103-124".
 
 **10/06/2026**
-- Rever o artigo para Lisboa - Leibniz e Malebranche.
+- Conferi bibliografia "JEFFREY BARNOUW; In Zarka, Yves. Hobbes et son vocabulaire. p 103-124".
+- Escrita da conferência para Porto - Conclusão e citações.
 
 **11/06/2026**
 - Grupo de Estudo
+- Rever o artigo para Lisboa - Leibniz e Malebranche.
 - Pesquisar os tipos de Movimento segundo Levey (1999): Generalis, comunis e conspirans.  motus generalis (A VI,3,42) or
  motus communis (VE 2047); motus conspirans (cf. VE 492, 495). <<Vorausedition zur Reihe VI der Akademie-Ausgabe?>>
 - Fazer uma resenha do texto de Samuel Levey.
