@@ -716,15 +716,37 @@ Hobbes Th (2012) Leviathan (ed: Malcolm N), 3 vols. Oxford University Press, Oxf
 - Escrita e conclusão de correções do verbete sobre Carolina de Ansbach.
 - Escrita da conferência para Porto - Conclusão e citações.
 - Capítulo Ezequiel - última revisão.
+- Knobloch - Galileo and Leibniz: Different Approaches to Infinity.
 
 **10/06/2026**
-- Conferi bibliografia "JEFFREY BARNOUW; In Zarka, Yves. Hobbes et son vocabulaire. p 103-124".
-- Escrita da conferência para Porto - Conclusão e citações.
+- Grupo de Estudo de Tradução Leibniz (9:00~12:15).
+- Escrita da conferência para Porto - Revisão detida nos problemas dos infinitesimais.
+- Richard T. W. arthur - Actual	Infinitesimals	in Leibniz’s Early Though.
 
 **11/06/2026**
-- Grupo de Estudo
-- Rever o artigo para Lisboa - Leibniz e Malebranche.
+- Escrita da conferência para Porto - Revisões.
+Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, talvez:
+{Se conatus é como um para o infinito, é indeterminado e contínuo, o infinitesimal — ainda que operador matemático fictício, tal como concebido nos anos de maturidade — explica bem a função metafísica e ontológica desse conceito. Ambos não podem ser ignorados durante o procedimento de investigação do mundo, pois embora sejam imperceptíveis aos sentidos, existem. Leibniz condena que do contrário se é sujeito ao erro. Em suas palavras: “    “. Essa proposta exige perseguir as razões e as causas que compõem a atualidade do movimento e a tendência a existência. (confia na intuição: ela é boa! e leia o Arthur). Hobbes elimina as mentes incorpóreas, elimina os verdadeiros indivisíveis e, a partir desse princípio, põe em dúvida a descoberta de Pitágoras digna de uma hecatombe, isto é, a proposição 47  do primeiro livro de Euclides, fundamento da Geometria: ele nega que a raiz do quadrado, ou, como costumo chamar, o número dos “quadratilhos”, de que trato em outro lugar, coincida com o número das partes do lado — fundamento não apenas da Álgebra, mas também da Geodésia — e transmite muitas outras coisas acerca do movimento pouco demonstradas. Embora, de resto, eu não queira que nada seja diminuído do louvor desse homem, cuja profundidade estimo muitíssimo. (TMA, GP, p. 239-240).}
+- Estrutura do estágio em Portugal. Perguntas para o professor.
+
+**12/06/2026**
+<<Viagem para Campinas>> 13 e 14 de junho >> viagem para Portugal.
+
+**14/06/2026**
+- Escrita da conferência para Porto - Revisões e considerações cronológicas finais.
+<<Viagem para Porto>> 14 a 15 de junho >> viagem para Portugal (19:40) >>.
+
+**15/06/2026**
+<<Chegada em Portugal/Porto>>
+- Estalagem na cidade do Porto. Chegada as 9:30 no aeroporto; chegada no apartamento as 13:00 (Bolt/aplicativo)
+- Escrita da conferência para Porto - Revisões.
+- Relatório de Estágio.
+
+**28/06/2026**
+- Ver Leibniz e os números irracionais (como ele trata? são determinados ou não? eles traduzem a finitude?)
+- Conferi bibliografia "JEFFREY BARNOUW; In Zarka, Yves. Hobbes et son vocabulaire. p 103-124".
 - Pesquisar os tipos de Movimento segundo Levey (1999): Generalis, comunis e conspirans.  motus generalis (A VI,3,42) or
  motus communis (VE 2047); motus conspirans (cf. VE 492, 495). <<Vorausedition zur Reihe VI der Akademie-Ausgabe?>>
 - Fazer uma resenha do texto de Samuel Levey.
+
 
