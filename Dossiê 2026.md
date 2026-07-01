@@ -741,12 +741,23 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 - Estalagem na cidade do Porto. Chegada as 9:30 no aeroporto; chegada no apartamento as 13:00 (Bolt/aplicativo)
 - Escrita da conferência para Porto - Revisões.
 - Relatório de Estágio.
+<<Relatórios feito a mão>>
 
 **28/06/2026**
-- Ver Leibniz e os números irracionais (como ele trata? são determinados ou não? eles traduzem a finitude?)
-- Conferi bibliografia "JEFFREY BARNOUW; In Zarka, Yves. Hobbes et son vocabulaire. p 103-124".
-- Pesquisar os tipos de Movimento segundo Levey (1999): Generalis, comunis e conspirans.  motus generalis (A VI,3,42) or
- motus communis (VE 2047); motus conspirans (cf. VE 492, 495). <<Vorausedition zur Reihe VI der Akademie-Ausgabe?>>
-- Fazer uma resenha do texto de Samuel Levey.
+- Chegada em casa, organização dos materiais coletados na viagem.
+
+**29/06/2026**
+- Continuação da organização dos materiais e preparação da lista de atividades da semana.
+
+**30/06/2026**
+- Envio de e-mail para o professor Meirinhos e a professora Vera sobre a possibilidade da extensão do BEPE.
+
+**01/07/2026**
+- Grupo de Estudo Leibniz: leitura do capítulo XXI e XXII do DM.
+
+**02/07/2026**
+- Reunião com a supervisora de pós-doutorado e alinhamento de pesquisa para o próximo semestre. 
+- Grupo de Estudo Hobbes.
+
 
 
