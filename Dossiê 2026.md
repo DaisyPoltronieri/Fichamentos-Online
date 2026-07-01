@@ -759,5 +759,6 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 - Reunião com a supervisora de pós-doutorado e alinhamento de pesquisa para o próximo semestre. 
 - Grupo de Estudo Hobbes.
 
-
+**03/07/2026 ~ 07/07/2026**
+- Atividades extras anotadas do semestre e organização de textos e projetos para o próximo semestre.
 
