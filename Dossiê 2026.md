@@ -761,4 +761,17 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 
 **03/07/2026 ~ 07/07/2026**
 - Atividades extras anotadas do semestre e organização de textos e projetos para o próximo semestre.
+- Prestação de contas no SAGe.
+- Documentação para Edimburgo - visto ETA.
+- E-mails para a professora Vera Rodrigues (UP).
+
+**08/07/2026**
+- Submissão do trabalho Anotações sobre as correspondências de Leibniz e Malebranche para a revista Filosofia Alemã (USP) Qualis A.
+- Grupo de Estudo de Tradução (9:30~12:30).
+- Busca por seguro viagem para Edimburgo. 
+
+**09/07/2026**
+- Artigo apresentado no Porto sobre o movimento: recuperar, melhorar. Objetivo: apresentar para o grupo de estudo UFSCar em 17 de agosto de 2026 e, em seguida, mandar para a publicação.
+- Retomar o TMA.
+- Resenha S. Levey começar.
 
