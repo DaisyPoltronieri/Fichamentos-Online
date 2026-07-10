@@ -789,5 +789,5 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 
 **11/07/2026**
 - Huygens, C.: Busca textual e aproximativa no LLC.
-- Hobbes: Fichamento do LLC. 
+- Hobbes: Fichamento do LLC.
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 3/25)
