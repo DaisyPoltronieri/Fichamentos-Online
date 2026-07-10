@@ -772,6 +772,18 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 
 **09/07/2026**
 - Artigo apresentado no Porto sobre o movimento: recuperar, melhorar. Objetivo: apresentar para o grupo de estudo UFSCar em 17 de agosto de 2026 e, em seguida, mandar para a publicação.
+- Grupo de Estudo - Leitura do Discurso de Metafísica (10:30~12:00).
 - Retomar o TMA.
-- Resenha S. Levey começar.
+- Seleção de Livro para Resenha: Livro do Edgar Marques (2025) para produzir a resenha (16 páginas por dia - 1/25).
 
+**10/07/2026**
+- Fichamento do artigo Phemister - "Substance and Force Or Why It Matters What We Think":
+
+* [A] first entelechy must be found in corporeal substance, a first subject of activity, namely a primitive motive force, which, added over and above extension (or that which is merely geometrical), and over and above bulk (or that which is merely material), always acts but yet is modified in various ways in the collision of bodies through conatus and impetus.  (On Nature Itself: GP IV 511; AG 162)  
+* ‘foundation of continuity’ (to Des Bosses, 29 May 1716: LB 376-77)
+* Since every soul is attached to an organic body (to Masham, early May: GP III 340; WF 205)
+* 
+
+- Artigo do Porto - revisões para grupo de estudo.
+- Estudo do TMA - leitura atenta e notações.
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 2/25)
