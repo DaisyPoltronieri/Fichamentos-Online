@@ -788,6 +788,21 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 - Estudo do TMA - leitura atenta e notações.
 
 **11/07/2026**
+- Encontro com a comissão do verbete sobre Caroline de Ansbach: edição de argumentos pontuais.
+- Malebranche e os mundos possíveis - Louis Pijaudier-Cabot (Introdução e Parte I)
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 3/25).
+
+**12/07/2026**
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 4/25)
 - Huygens, C.: Busca textual e aproximativa no LLC.
-- Hobbes: Fichamento do LLC.
-- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 3/25)
+- Hobbes: Revisão do LLC.
+- Malebranche e os mundos possíveis - Louis Pijaudier-Cabot (Parte II)
+ 
+**13/07/2026**
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 5/25).
+- Estudo do TMA - leitura atenta e notações.
+- Artigo do Porto - revisões para grupo de estudo (2 §)
+
+**14/07/2026**
+- Estudo do TMA - leitura atenta e notações.
+- Correções do Verbete de Caroline de Ansbach a partir da reunião.
