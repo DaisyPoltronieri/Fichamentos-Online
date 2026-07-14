@@ -798,12 +798,9 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 4/25)
 - Malebranche e os mundos possíveis - Louis Pijaudier-Cabot (Parte II)
 
-**13/07/2026** Segunda **
+**13/07/2026~14/07/2026** Terça **
 - Malebranche e os mundos possíveis - Louis Pijaudier-Cabot (Parte III)
-- Artigo do Porto - revisões para grupo de estudo (2 §)
-
-**14/07/2026** Terça **
-- Estudo do TMA - leitura atenta e notações.
+- Estudo do TMA - leitura atenta e notações + Ensaio 7.
 - Correções do Verbete de Caroline de Ansbach a partir da reunião.
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 5/25).
 
@@ -812,6 +809,11 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 - Dia de Estudo dos textos de Huygens.
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 6/25).
 
-**16/07/2026**
+**16/07/2026** Quinta **
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 7/25).
 - Dia do fichamento - Zarka p. 103-124 (Hobbes).
+- Artigo do Porto - revisões para grupo de estudo.
+
+**17/07/2026** Sexta **
+- Reler a carta de Leibniz a Hobbes.
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 8/25).
