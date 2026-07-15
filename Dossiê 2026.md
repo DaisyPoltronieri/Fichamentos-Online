@@ -805,14 +805,15 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 5/25).
 
 **15/07/2026** Quarta **
-- Estudo do TMA - leitura atenta e notações.
-- Dia de Estudo dos textos de Huygens.
+- Grupo de estudo de tradução Leibniz (9:30~12:30).
+- Estudo dos textos de Huygens - seleção.
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 6/25).
 
 **16/07/2026** Quinta **
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 7/25).
 - Dia do fichamento - Zarka p. 103-124 (Hobbes).
 - Artigo do Porto - revisões para grupo de estudo.
+- Estudo do TMA - leitura atenta e notações.
 
 **17/07/2026** Sexta **
 - Reler a carta de Leibniz a Hobbes.
