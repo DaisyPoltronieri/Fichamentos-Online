@@ -806,7 +806,7 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 
 **15/07/2026** Quarta **
 - Grupo de estudo de tradução Leibniz (9:30~12:30).
-- Estudo dos textos de Huygens - seleção (5 dias de estudo - 5 textos). 1/5 Seção 5 da Introdução do LLC. 
+- Estudo dos textos de Huygens - seleção (5 dias de estudo - 5 textos). 1/5 Seção 5 da Introdução do LLC - Ensaio. 
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 6/25).
 
 **16/07/2026** Quinta **
@@ -817,5 +817,9 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 
 **17/07/2026** Sexta **
 - Reler a carta de Leibniz a Hobbes.
+(Médico)
+
+**18/07/2026** Sábado **
 - Estudo dos textos de Huygens - seleção (5 dias de estudo - 5 textos). 2/5 Artigo Huygens on Inertial Structure and Relativity.
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 8/25).
+- Artigo do Porto - revisões para grupo de estudo.
