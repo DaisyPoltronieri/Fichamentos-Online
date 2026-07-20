@@ -822,7 +822,7 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 - Documento para novo BEPE e escrita do projeto.
 
 **20/07/2026** Segunda-feira
-- Reler a carta de Leibniz a Hobbes.
+- Reler a carta de Leibniz a Hobbes - Ensaio 9 no Dossiê. 
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 8/25).
 - fichamento - Zarka p. 111-124 (Hobbes).
 
