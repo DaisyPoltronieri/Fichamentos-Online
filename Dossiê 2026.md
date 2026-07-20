@@ -811,15 +811,28 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 
 **16/07/2026** Quinta **
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 7/25).
-- Dia do fichamento - Zarka p. 103-124 (Hobbes).
+- Dia do fichamento - Zarka p. 103-111 (Hobbes).
 - Artigo do Porto - revisões para grupo de estudo.
 - Estudo do TMA - leitura atenta e notações.
 
-**17/07/2026** Sexta **
-- Reler a carta de Leibniz a Hobbes.
+**17/07/2026**Sexta**
 (Médico)
 
-**18/07/2026** Sábado **
-- Estudo dos textos de Huygens - seleção (5 dias de estudo - 5 textos). 2/5 Artigo Huygens on Inertial Structure and Relativity.
+**18/07/2026~19/07/2026**Sábado/Domingo**
+- Documento para novo BEPE e escrita do projeto.
+
+**20/07/2026** Segunda-feira
+- Reler a carta de Leibniz a Hobbes.
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 8/25).
+- fichamento - Zarka p. 111-124 (Hobbes).
+
+**21/07/2026** Terça-feira
+- Escrita novo BEPE.
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 9/25).
+- Estudo dos textos de Huygens - seleção (5 dias de estudo - 5 textos). 2/5 Artigo Huygens on Inertial Structure and Relativity.
 - Artigo do Porto - revisões para grupo de estudo.
+
+**22/07/2026** Quarta-feira
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 10/25).
+- Início da escrita do artigo sobre as correspondências com Arnauld a partir da apresentação da RED.
+- Escrita novo BEPE.
