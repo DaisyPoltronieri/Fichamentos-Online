@@ -822,17 +822,36 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 - Documento para novo BEPE e escrita do projeto.
 
 **20/07/2026** Segunda-feira
+(Ginecologista)
 - Reler a carta de Leibniz a Hobbes - Ensaio 9 no Dossiê. 
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 8/25).
 - fichamento - Zarka p. 111-124 (Hobbes).
 
 **21/07/2026** Terça-feira
-- Escrita novo BEPE.
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 9/25).
 - Estudo dos textos de Huygens - seleção (5 dias de estudo - 5 textos). 2/5 Artigo Huygens on Inertial Structure and Relativity.
-- Artigo do Porto - revisões para grupo de estudo.
+(Ultrassonografia e Coleta de Sangue)
 
 **22/07/2026** Quarta-feira
+- Estudo dos textos de Huygens - seleção (5 dias de estudo - 5 textos). 2/5 Artigo Huygens on Inertial Structure and Relativity.
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 10/25).
+
+**23/07/2026** Quinta-feira
+- Artigo do Porto - revisões para grupo de estudo.
+- Escrita novo BEPE.
+- Rynasiewicz, R. 2000. “On the Distinction between Absolute and Relative Motion.” Philosophy of Science 67:70–93 (Salvo na Pasta do Huygens)
+- Impressão artigo "Leibniz's Syncategorematic Actual Infinite" de Richard Arthur (2018)
+- Arquivo salvo "Roberts-LeibnizForceAbsolute-2003.pdf" (Salvo na Pasta 9. Artigos Leibniz outros autores)
+
+**24/07/2026** Sexta-feira
 - Início da escrita do artigo sobre as correspondências com Arnauld a partir da apresentação da RED.
 - Escrita novo BEPE.
+
+**25/07/2026** Sábado
+- Escrita novo BEPE.
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 11/25).
+
+**26/07/2026** Domingo
+- Escrita novo BEPE.
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 11/25).
+
