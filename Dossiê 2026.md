@@ -844,12 +844,12 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 - Arquivo salvo "Roberts-LeibnizForceAbsolute-2003.pdf" (Salvo na Pasta 9. Artigos Leibniz outros autores)
 
 **24/07/2026** Sexta-feira
-- Início da escrita do artigo sobre as correspondências com Arnauld a partir da apresentação da RED.
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 11/25).
 - Escrita novo BEPE.
 
 **25/07/2026** Sábado
 - Escrita novo BEPE.
-- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 11/25).
+- Início da escrita do artigo sobre as correspondências com Arnauld a partir da apresentação da RED.
 
 **26/07/2026** Domingo
 - Escrita novo BEPE.
