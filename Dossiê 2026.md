@@ -849,9 +849,26 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 
 **25/07/2026** Sábado
 - Escrita novo BEPE.
-- Início da escrita do artigo sobre as correspondências com Arnauld a partir da apresentação da RED.
 
 **26/07/2026** Domingo
 - Escrita novo BEPE.
-- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 11/25).
 
+**27/07/2026** Segunda-feira
+- Mala de viagem e documentação.
+
+**28/07/2026** Terça-feira
+- Escrita novo BEPE
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 12/25).
+
+**29/07/2026** Quarta-feira
+- Grupo de Estudos de Tradução Leibniz (9:30~12:00)
+- Leitura artigo do Richard Arthur: "Leibniz's Syncategorematic Actual Infinite" (2018).
+- Escrita novo BEPE
+
+**30/07/2026** Quinta-feira
+- Escrita novo BEPE (finalizar)
+- Leitura artigo do Richard Arthur: "Leibniz's Syncategorematic Actual Infinite" (2018).
+
+**31/07/2026** Sexta-feira
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 13/25).
+- Artigo do Porto - revisões para grupo de estudo.
