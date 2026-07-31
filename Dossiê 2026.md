@@ -871,4 +871,10 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 
 **31/07/2026** Sexta-feira
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 13/25).
+- Leitura artigo do Richard Arthur: "Leibniz's Syncategorematic Actual Infinite" (2018).
+- Escrita novo BEPE (redação da introdução e bibliografia reduzida)
+
+**01/08/2026** Sábado
+- Leitura artigo do Richard Arthur: "Leibniz's Syncategorematic Actual Infinite" (2018).
+- Escrita novo BEPE (revisão e leitura final)
 - Artigo do Porto - revisões para grupo de estudo.
