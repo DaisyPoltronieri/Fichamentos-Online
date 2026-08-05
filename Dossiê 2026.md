@@ -878,6 +878,23 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 **01/08/2026** Sábado
 - Leitura artigo do Richard Arthur: "Leibniz's Syncategorematic Actual Infinite" (2018).
 - Escrita novo BEPE (revisão e leitura final).
-- Artigo do Porto - revisões para grupo de estudo.
 
 **02/08/2026** Domingo
+- Artigo do Porto - revisões para grupo de estudo.
+
+**03/08/2026** Segunda-feira
+- Artigo do Porto - revisões para grupo de estudo.
+- Leitura artigo do Richard Arthur: "Leibniz's Syncategorematic Actual Infinite" (2018).
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 14/25).
+- Documento BEPE
+
+**03/08/2026** Terça-feira
+- Documentos BEPE
+- Artigo do Porto - revisões para grupo de estudo.
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 14/25).
+
+**04/08/2026** Quarta-feira 
+- Grupo de Estudo Leibniz Tradução (9:00~12:30)
+- Artigo do Porto - revisões para grupo de estudo.
+- Leitura artigo do Richard Arthur e Ottaviani (2025 - capítulo 9).
+- Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 15/25).
