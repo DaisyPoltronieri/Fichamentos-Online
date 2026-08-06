@@ -898,3 +898,13 @@ Parte do texto que eu exclui para poder reaproveitar o germe da ideia depois, ta
 - Artigo do Porto - revisões para grupo de estudo.
 - Leitura artigo do Richard Arthur e Ottaviani (2025 - capítulo 9).
 - Leitura do Livro do Edgar Marques para produzir a resenha (16 páginas por dia - 15/25).
+
+**05/08/2026** Quinta-feira
+- Leitura artigo do Richard Arthur: "Leibniz's Syncategorematic Actual Infinite" (2018).
+[Ao separar demasiadamente o ideal do atual, ele torna difícil explicar por que a matemática e o contínuo descrevem tão bem a realidade. Para mim o contínuo não seria o contrário do atual, mas sua condição metafísica de possibilidade.// O contínuo é a totalidade ideal das possibilidades de determinação, da qual o atual é sempre uma determinação efetiva, porém nunca exaustiva.]
+
+**06/08/2026** Sexta-feira
+- Artigo do Porto - revisões para grupo de estudo.
+
+
+
